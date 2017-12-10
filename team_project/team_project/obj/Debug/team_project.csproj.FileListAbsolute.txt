@@ -1,0 +1,6 @@
+D:\programming\school\431\team_project\team_project\bin\Debug\team_project.exe.config
+D:\programming\school\431\team_project\team_project\bin\Debug\team_project.exe
+D:\programming\school\431\team_project\team_project\bin\Debug\team_project.pdb
+D:\programming\school\431\team_project\team_project\obj\Debug\team_project.csprojResolveAssemblyReference.cache
+D:\programming\school\431\team_project\team_project\obj\Debug\team_project.exe
+D:\programming\school\431\team_project\team_project\obj\Debug\team_project.pdb

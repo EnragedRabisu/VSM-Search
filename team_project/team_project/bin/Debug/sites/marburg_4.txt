@@ -1,0 +1,498 @@
+Skip to main content
+
+<#content>
+
+<http://www.who.int/en/>
+
+
+      Access
+
+  * Home Alt+0 <http://www.who.int/en/>
+  * Navigation Alt+1 <#navigation>
+  * Content Alt+2 <#main>
+
+//
+
+
+      Search
+
+Search the WHO.int site
+
+Submit
+
+Advanced search
+<http://search.who.int/search?ie=utf8&site=who&lr=lang_en&client=_en_r&proxystylesheet=_en_r&output=xml_no_dtd&oe=UTF-8&access=p&entqr=3&ud=1&proxycustom=%3CADVANCED/%3E>
+
+
+//
+
+
+      Navigation
+
+  * Home
+
+    <http://www.who.int/en/>
+  * Health topics
+
+    <http://www.who.int/topics/en/>
+  * Data
+
+    <http://www.who.int/entity/gho/en/>
+  * Media centre
+
+    <http://www.who.int/entity/mediacentre/en/>
+  * Publications
+
+    <http://www.who.int/publications/en/>
+  * Countries
+
+    <http://www.who.int/countries/en/>
+  * Programmes
+
+    <http://www.who.int/entity/en/>
+  * Governance
+
+    <http://www.who.int/governance/en/>
+  * About WHO
+
+    <http://www.who.int/about/en/>
+
+
+      Language
+
+عربي
+
+<http://www.who.int/csr/disease/marburg/ar/index.html>
+中文
+
+<http://www.who.int/csr/disease/marburg/zh/index.html>
+English
+
+<http://www.who.int/csr/disease/marburg/en/index.html>
+Français
+
+<http://www.who.int/csr/disease/marburg/fr/index.html>
+Русский
+
+<http://www.who.int/csr/disease/marburg/ru/index.html>
+Español
+
+<http://www.who.int/csr/disease/marburg/es/index.html>
+
+RSSFollow on RSS
+
+<http://www.who.int/about/licensing/rss/en/index.html>YouTubeFollow on
+YouTube
+
+<http://www.youtube.com/user/who?sub_confirmation=1>TwitterFollow on Twitter
+
+<http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=who>FacebookFollow
+on Facebook
+
+<http://www.facebook.com/WHO>Google+Follow on Google Follow
+
+<https://plus.google.com/+who/posts>InstagramFollow on Instagram
+
+<http://instagram.com/who>
+
+
+    Emergencies preparedness, response
+
+
+Menu
+
+  * Home
+
+    <http://www.who.int/entity/csr/en/>
+  * Ebola outbreak in DRC
+
+    <http://www.who.int/entity/emergencies/ebola-DRC-2017/en/>
+  * Alert and response operations
+
+    <http://www.who.int/entity/csr/alertresponse/en/>
+  * Diseases
+
+    <http://www.who.int/entity/csr/disease/en/>
+  * Biorisk reduction
+
+    <http://www.who.int/entity/csr/bioriskreduction/en/>
+  * Disease outbreak news
+
+    <http://www.who.int/entity/csr/don/en/>
+
+
+  Marburg virus disease
+
+
+    Health workers urged to work with communities to stop Marburg virus
+    disease
+
+WHO
+
+4 November 2017 - As the Marburg virus disease continues to unfold in
+Kween district, eastern Uganda, frontline health workers battling the
+outbreak have been urged to nurture local capacity to be able to respond
+to the current and future outbreaks.
+
+“Community engagement is the cornerstone of emergency response. Work
+with the communities to build their capacity for success and
+sustainability,” said Dr Zabulon Yoti, WHO Technical Coordinator for
+Emergencies, Regional Office for Africa.
+
+  * Read the story
+    <http://www.afro.who.int/news/health-workers-urged-work-communities-stop-marburg>
+
+
+    WHO supports containment of rare virus on Uganda-Kenya border
+    <http://www.who.int/entity/mediacentre/news/releases/2017/virus-uganda-kenya/en/index.html>
+
+
+<http://www.who.int/entity/mediacentre/news/releases/2017/virus-uganda-kenya/en/index.html>
+
+WHO
+
+20 October 2017 - WHO is working to contain an outbreak of Marburg virus
+disease that has appeared in eastern Uganda on the border with Kenya.
+The Ministry of Health has sent a rapid response team to the area
+supported by staff from WHO, the Centers for Disease Control and
+Prevention (CDC) and the African Field Epidemiology Network (AFNET).
+
+WHO is providing medical supplies, guidance on safe and dignified
+burials, and has released USD 500 000 from its Contingency Fund for
+Emergencies to finance immediate response activities.
+
+  * Read the press release
+    <http://www.who.int/entity/mediacentre/news/releases/2017/virus-uganda-kenya/en/index.html>
+
+WHO/P. Formenty
+
+Marburg virus disease is a severe and highly fatal disease caused by a
+virus from the same family as the one that causes Ebola virus disease.
+These viruses are among the most virulent pathogens known to infect
+humans. Both diseases are rare, but have a capacity to cause dramatic
+outbreaks with high fatality.
+
+Two large outbreaks that occurred simultaneously in Marburg and
+Frankfurt in Germany, and in Belgrade, Serbia, in 1967, led to the
+initial recognition of the Marburg virus disease. Subsequently,
+outbreaks and sporadic cases have been reported in Angola, Democratic
+Republic of the Congo, Kenya, South Africa and Uganda.
+
+  * Causes
+
+    <#page11>
+  * Symptoms
+
+    <#page21>
+  * Diagnosis
+
+    <#page31>
+  * Treatment
+
+    <#page41>
+  * Prevention and control
+
+    <#page51>
+
+Initially, human infection with Marburg virus disease results from
+prolonged exposure to mines or caves inhabited by Rousettus bat colonies.
+Marburg spreads through human-to-human transmission via direct contact
+(through broken skin or mucous membranes) with the blood, secretions,
+organs or other bodily fluids of infected people, and with surfaces and
+materials (e.g. bedding, clothing) contaminated with these fluids.
+
+  * Read the fact sheet
+    <http://www.who.int/entity/mediacentre/factsheets/fs_marburg/en/index.html>
+
+
+The incubation period (interval from infection to onset of symptoms)
+varies from 2 to 21 days.
+Illness caused by Marburg virus begins abruptly, with high fever, severe
+headache and severe malaise. Muscle aches and pains are a common
+feature. Severe watery diarrhoea, abdominal pain and cramping, nausea
+and vomiting can begin on the third day. Diarrhoea can persist for a
+week. The appearance of patients at this phase has been described as
+showing “ghost-like” drawn features, deep-set eyes, expressionless
+faces, and extreme lethargy. In the 1967 European outbreak, non-itchy
+rash was a feature noted in most patients between 2 and 7 days after
+onset of symptoms.
+
+Many patients develop severe haemorrhagic manifestations between 5 and 7
+days, and fatal cases usually have some form of bleeding, often from
+multiple areas. Fresh blood in vomitus and faeces is often accompanied
+by bleeding from the nose, gums, and vagina. Spontaneous bleeding at
+venepuncture sites (where intravenous access is obtained to give fluids
+or obtain blood samples) can be particularly troublesome. During the
+severe phase of illness, patients have sustained high fevers.
+Involvement of the central nervous system can result in confusion,
+irritability, and aggression. Orchitis (inflammation of one or both
+testicles) has been reported occasionally in the late phase of disease
+(15 days).
+
+In fatal cases, death occurs most often between 8 and 9 days after
+symptom onset, usually preceded by severe blood loss and shock.
+
+It can be difficult to clinically distinguish MVD from other infectious
+diseases such as malaria, typhoid fever, shigellosis, meningitis and
+other viral haemorrhagic fevers. Confirmation that symptoms are caused
+by Marburg virus infection are made using the following diagnostic methods:
+
+  * 1. antibody enzyme-linked immunosorbent assay (ELISA);
+  * 2. antigen detection tests;
+  * 3. serum neutralization tests;
+  * 4. reverse-transcriptase polymerase chain reaction (RT-PCR) assay; and
+  * 5. virus isolation by cell culture
+
+
+
+Samples collected from patients are an extreme biohazard risk;
+laboratory testing on non-inactivated samples should be conducted under
+maximum biological containment conditions. All biological specimens
+should be packaged using the triple packaging system when transported
+nationally and internationally.
+
+Supportive care – rehydration with oral or intravenous fluids – and
+treatment of specific symptoms, improves survival. There is as yet no
+proven treatment available for Marburg virus disease. However, a range
+of potential treatments including blood products, immune therapies and
+drug therapies are currently being evaluated.
+
+Good outbreak control relies on applying a package of interventions,
+namely case management, surveillance and contact tracing, a good
+laboratory service, safe and dignified burials, and social mobilization.
+Community engagement is key to successfully controlling outbreaks.
+Raising awareness of risk factors for Marburg infection and protective
+measures that individuals can take is an effective way to reduce human
+transmission.
+
+Healthcare workers should always take standard precautions when caring
+for patients, regardless of their presumed diagnosis. These include
+basic hand hygiene, respiratory hygiene, use of personal protective
+equipment (to block splashes or other contact with infected materials),
+safe injection practices and safe and dignified burial practices.
+
+------------------------------------------------------------------------
+
+
+    Technical information
+
+
+      Maps
+
+Geographical distribution of Marburg virus disease outbreaks and fruit
+bats of /Pteropodidae/ family
+
+  * Enlarge map
+    png, 149kb
+    <http://www.who.int/entity/csr/disease/marburg/GlobalMarburgOutbreakRisk_20090510.png>
+
+
+
+      Weekly Epidemiological Record
+
+  * Marburg haemorrhagic fever, Uganda
+    <http://www.who.int/entity/wer/2012/wer8745/en/index.html>
+    9 November 2012
+  * Marburg haemorrhagic fever, Uganda
+    <http://www.who.int/entity/wer/2012/wer8743/en/index.html>
+    26 October 2012
+  * Outbreak of Marburg haemorrhagic fever: Uganda June-August 2007
+    <http://www.who.int/entity/wer/2007/wer8243/en/index.html>
+    26 October 2007 issue
+  * Viral haemorrhagic fever/Marburg, Democratic Republic of the Congo
+    <http://apps.who.int/iris/bitstream/10665/230803/1/WER7420.PDF>
+    21 May 1999 issue
+
+
+      Publications
+
+  * Ebola and Marburg virus disease epidemics: preparedness, alert,
+    control, and evaluation
+    <http://www.who.int/entity/csr/resources/publications/ebola/manual_EVD/en/index.html>
+
+  * Personal protective equipment for use in a filovirus disease
+    outbreak (Rapid advice guideline)
+    <http://www.who.int/entity/csr/resources/publications/ebola/personal-protective-equipment/en/index.html>
+
+  * Infection prevention and control guidance for care of patients in
+    health-care settings, with focus on Ebola
+    <http://www.who.int/entity/csr/resources/publications/ebola/filovirus_infection_control/en/index.html>
+
+  * Clinical management of patients with viral haemorrhagic fever, a
+    pocket guide for the front-line health workers
+    <http://www.who.int/entity/csr/resources/publications/clinical-management-patients/en/index.html>
+
+
+  * All technical guidance on Marburg
+    <http://www.who.int/entity/csr/disease/marburg/technical-guidance/en/index.html>
+
+
+
+      Disease outbreak news
+
+  * 25 October 2017
+    <http://www.who.int/entity/csr/don/25-october-2017-marburg-uganda/en/index.html>
+
+    Marburg virus disease – Uganda
+  * 13 November 2014
+    <http://www.who.int/entity/csr/don/13-november-2014-marburg/en/index.html>
+
+    Marburg virus disease - Uganda
+  * 10 October 2014
+    <http://www.who.int/entity/csr/don/10-october-2014-marburg/en/index.html>
+
+    Marburg virus disease - Uganda
+
+  * Archive list of DONs on Marburg
+    <http://www.who.int/entity/csr/don/archive/disease/marburg_virus_disease/en/index.html>
+
+
+
+    General information
+
+
+      Mediacentre
+
+  * Fact sheet: Marburg virus disease
+    <http://www.who.int/entity/mediacentre/factsheets/fs_marburg/en/index.html>
+
+  * Download the fact sheet for offline use
+    pdf, 483kb
+    <http://www.who.int/entity/csr/disease/marburg/Marburg-fact-sheet-EN-20-Oct-2017.pdf>
+
+  * Managing Marburg fever in Uganda
+    <http://www.who.int/features/2007/marburg_fever/en/index.html>
+    Photo story, 5 September 2007
+  * Experts mine bats in search of Marburg reservoir
+    <http://www.who.int/features/2007/marburg_virus/en/index.html>
+    Photo story, 17 August 2007
+  * Controlling the Marburg outbreak in Angola
+    <http://www.who.int/features/2005/marburg/en/index.html>
+    Photo story, April-July 2005
+
+
+      Other haemorrhagic fevers
+
+  * Crimean-Congo haemorrhagic fever
+    <http://www.who.int/entity/csr/disease/crimean_congoHF/en/index.html>
+  * Dengue haemorrhagic fever
+    <http://www.who.int/entity/denguecontrol/en/index.html>
+  * Ebola virus disease
+    <http://www.who.int/entity/csr/disease/ebola/en/index.html>
+  * Lassa fever
+    <http://www.who.int/entity/csr/disease/lassafever/en/index.html>
+  * Rift Valley fever
+    <http://www.who.int/entity/csr/disease/riftvalleyfev/en/index.html>
+  * Yellow fever
+    <http://www.who.int/entity/csr/disease/yellowfev/en/index.html>
+
+
+      Related links
+
+  * Pandemic and epidemic diseases (PED)
+    <http://www.who.int/entity/csr/disease/en/index.html>
+
+  * Risk communication
+    <http://www.who.int/entity/risk-communication/en/index.html>
+
+  * Knowledge Transfer and Training for Outbreaks
+    <http://www.who.int/entity/knowledge-transfer/en/index.html>
+
+  * International Health Regulations (IHR)
+    <http://www.who.int/entity/ihr/en/index.html>
+
+  * Ebola virus disease
+    <http://www.who.int/entity/csr/disease/ebola/en/index.html>
+
+  * Haemorrhagic fevers
+    <http://www.who.int/topics/haemorrhagic_fevers_viral/en/index.html>
+
+  * WHO Emerging and Dangerous Pathogens Laboratory Network
+    <http://www.who.int/entity/csr/bioriskreduction/laboratorynetwork/en/index.html>
+
+
+
+      Contact information
+
+Department of Pandemic and Epidemic Diseases
+World Health Organization
+Avenue Appia 20
+1211 Geneva 27, Switzerland
+Email: edpln@who.int <mailto:edpln@who.int>
+
+
+    You are here:
+
+  * Emergencies preparedness, response <http://www.who.int/entity/csr/en/>
+  * Pandemic and Epidemic Diseases (PED)
+    <http://www.who.int/entity/csr/disease/en/>
+  * Marburg virus disease
+    <http://www.who.int/entity/csr/disease/marburg/en/>
+
+
+    Quick Links
+
+
+      Sitemap
+
+  * Home <http://www.who.int/en/index.html>
+  * Health topics <http://www.who.int/topics/en/index.html>
+  * Data <http://www.who.int/entity/gho/en/index.html>
+  * Media centre <http://www.who.int/entity/mediacentre/en/index.html>
+  * Publications <http://www.who.int/publications/en/index.html>
+  * Countries <http://www.who.int/countries/en/index.html>
+  * Programmes and projects <http://www.who.int/entity/en/index.html>
+  * Governance <http://www.who.int/governance/en/index.html>
+  * About WHO <http://www.who.int/about/en/index.html>
+
+
+      Help and Services
+
+  * Contacts <http://www.who.int/about/contacthq/en/index.html>
+  * FAQs <http://www.who.int/suggestions/faq/en/index.html>
+  * Employment <http://www.who.int/entity/employment/en/index.html>
+  * Feedback <http://www.who.int/suggestions/en/index.html>
+  * Privacy <http://www.who.int/about/privacy/en/index.html>
+  * E-mail scams <http://www.who.int/about/scamalert/en/index.html>
+
+
+      WHO Regional Offices
+
+  * WHO African Region <http://www.afro.who.int/>
+  * WHO Region of the Americas <http://www.paho.org/>
+  * WHO South-East Asia Region <http://www.searo.who.int/>
+  * WHO European Region <http://www.euro.who.int/>
+  * WHO Eastern Mediterranean Region <http://www.emro.who.int/>
+  * WHO Western Pacific Region <http://www.wpro.who.int/>
+
+RSSFollow on RSS
+
+<http://www.who.int/about/licensing/rss/en/index.html>YouTubeFollow on
+YouTube
+
+<http://www.youtube.com/user/who?sub_confirmation=1>TwitterFollow on Twitter
+
+<http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=who>FacebookFollow
+on Facebook
+
+<http://www.facebook.com/WHO>Google+Follow on Google Follow
+
+<https://plus.google.com/+who/posts>InstagramFollow on Instagram
+
+<http://instagram.com/who>
+
+<https://play.google.com/store/apps/details?id=uk.co.adappt.whoapp&hl=en>
+
+<https://itunes.apple.com/gb/app/who-info/id895463794?mt=8>
+
+© WHO 2017 <http://www.who.int/about/copyright/en/>
+
+Back to top <#>
+Email Address
+
+Sign up for WHO updates
+
+<#>
+
+loading
+
