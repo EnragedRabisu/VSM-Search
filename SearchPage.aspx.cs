@@ -26,7 +26,7 @@ public partial class SearchPage : System.Web.UI.Page
 
     protected void queryDataBase(string word1, string word2, string word3)
     {
-        string connectionString = ConfigurationManager.ConnectionStrings["team_proj_431_db"].ConnectionString;
+        string connectionString = ConfigurationManager.ConnectionStrings["team_proj_431"].ConnectionString;
         using (SqlConnection conn = new SqlConnection(connectionString))
         {
             conn.Open();
