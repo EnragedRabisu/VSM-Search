@@ -22,126 +22,125 @@ namespace team_project
                 //string fileName = fileCount.ToString();
 
                 // for each file in directory
-                //foreach (string file in Directory.EnumerateFiles("sites", "*.txt"))
-                //{
-                //
-                //    /* check to see if an entry with the site name equal to the site name exists in the table */
-                //    // if it doesn't, add an entry to Sites
-                //    if (!fieldExists("Sites", "site_name", file, connection))
-                //    {
-                //        addToTable("Sites", "site_name", file, connection);
-                //    }
-                //
-                //    // read file
-                //    using (var reader = new StreamReader(file))
-                //    {
-                //        
-                //        // create a dictionary to store the words/occurrences in the file
-                //        Dictionary<string, int> dictionary = new Dictionary<string, int>();
-                //
-                //        string line;
-                //
-                //        while ((line = reader.ReadLine()) != null)
-                //        {
-                //
-                //            string[] words = line.Split();
-                //
-                //            foreach (string word in words)
-                //            {
-                //                /* stop words */
-                //                // read stop words file
-                //                using (var freader = new StreamReader("stop_words.txt"))
-                //                {
-                //                    
-                //                    string fline;
-                //                    bool isStopWord = false;
-                //
-                //                    while ((fline = freader.ReadLine()) != null )
-                //                    {
-                //                        if (word.Equals(fline))
-                //                        {
-                //                            isStopWord = true;
-                //                            break;
-                //                        }
-                //                        else if (word.Equals(""))
-                //                        {
-                //                            isStopWord = true;
-                //                            break;
-                //                        }
-                //
-                //                    }
-                //                    
-                //                    // if the word isn't a stop word and doesn't exist in the dictionary, add it with a val of one
-                //                    if (!isStopWord)
-                //                    {
-                //                        if (!dictionary.ContainsKey(word))
-                //                        {
-                //                            dictionary.Add(word, 1);
-                //                        }
-                //                        else
-                //                        {
-                //                            int dCount = dictionary[word];
-                //                            dCount++;
-                //                            dictionary[word] = dCount;  // if the word is in the dictionary, add one to it's occurrences
-                //                        }
-                //                    }
-                //                }
-                //
-                //                /**********************/
-                //                Console.WriteLine(word); /* this is a line for testing */
-                //                /**********************/
-                //            }
-                //        }
-                //
-                //        /* update tables from dictionary */
-                //        // for each word in the dictionary
-                //        foreach (KeyValuePair<string, int> entry in dictionary)
-                //        {
-                //            // word id var = initVal   
-                //            string word = entry.Key;
-                //            int count = entry.Value;
-                //
-                //            Regex r = new Regex("^[a-zA-Z]*$");
-                //
-                //            /* update the words table */
-                //            // if word not in Words
-                //            if (word.Length < 26 && r.IsMatch(word))
-                //            {
-                //                if (!fieldExists("Words", "word", word, connection))
-                //                {
-                //                    addToTable("Words", "word", word, connection);     // add word to Words
-                //                }
-                //
-                //                /* update the linking table */
-                //                // get site_id from Sites
-                //                int siteId = getSiteId(file, connection);
-                //
-                //                // get word_id from Words
-                //                int wordId = getWordId(word, connection);
-                //
-                //                // if SiteWordsCount has an entry where site_id word_id 
-                //                if (inSiteWordsCount(siteId, wordId, connection))
-                //                {
-                //                    // update that entry's count
-                //                    updateCount(siteId, wordId, count, connection);
-                //                }
-                //                else
-                //                {   // else if it doesn't have that entry yet
-                //                    // add a new entry with site_id, dictionary current key, dictionary current val   
-                //                    addLink(siteId, wordId, count, connection);
-                //                }
-                //            }
-                //
-                //            /**********************/
-                //            Console.WriteLine(word); /* this is a line for testing */
-                //            /**********************/
-                //        }
-                //    }
-                //}
-                //
-                //updateLinks(connection);
-                //
-                //doIDF(connection);
+                foreach (string file in Directory.EnumerateFiles("sites", "*.txt"))
+                {
+                
+                    /* check to see if an entry with the site name equal to the site name exists in the table */
+                    // if it doesn't, add an entry to Sites
+                    if (!fieldExists("Sites", "site_name", file, connection))
+                    {
+                        addToTable("Sites", "site_name", file, connection);
+                    }
+                
+                    // read file
+                    using (var reader = new StreamReader(file))
+                    {
+                        
+                        // create a dictionary to store the words/occurrences in the file
+                        Dictionary<string, int> dictionary = new Dictionary<string, int>();
+                
+                        string line;
+                
+                        while ((line = reader.ReadLine()) != null)
+                        {
+                
+                            string[] words = line.Split();
+                
+                            foreach (string word in words)
+                            {
+                                /* stop words */
+                                // read stop words file
+                                using (var freader = new StreamReader("stop_words.txt"))
+                                {
+                                    
+                                    string fline;
+                                    bool isStopWord = false;
+                                //                    while ((fline = freader.ReadLine()) != null )
+                                    {
+                                        if (word.Equals(fline))
+                                        {
+                                            isStopWord = true;
+                                            break;
+                                        }
+                                        else if (word.Equals(""))
+                                        {
+                                            isStopWord = true;
+                                            break;
+                                        }
+                
+                                    }
+                                    
+                                    // if the word isn't a stop word and doesn't exist in the dictionary, add it with a val of one
+                                    if (!isStopWord)
+                                    {
+                                        if (!dictionary.ContainsKey(word))
+                                        {
+                                            dictionary.Add(word, 1);
+                                        }
+                                        else
+                                        {
+                                            int dCount = dictionary[word];
+                                            dCount++;
+                                            dictionary[word] = dCount;  // if the word is in the dictionary, add one to it's occurrences
+                                        }
+                                    }
+                                }
+                
+                                /**********************/
+                                Console.WriteLine(word); /* this is a line for testing */
+                                /**********************/
+                            }
+                        }
+                
+                        /* update tables from dictionary */
+                        // for each word in the dictionary
+                        foreach (KeyValuePair<string, int> entry in dictionary)
+                        {
+                            // word id var = initVal   
+                            string word = entry.Key;
+                            int count = entry.Value;
+                
+                            Regex r = new Regex("^[a-zA-Z]*$");
+                
+                            /* update the words table */
+                            // if word not in Words
+                            if (word.Length < 26 && r.IsMatch(word))
+                            {
+                                if (!fieldExists("Words", "word", word, connection))
+                                {
+                                    addToTable("Words", "word", word, connection);     // add word to Words
+                                }
+                
+                                /* update the linking table */
+                                // get site_id from Sites
+                                int siteId = getSiteId(file, connection);
+                
+                                // get word_id from Words
+                                int wordId = getWordId(word, connection);
+                
+                                // if SiteWordsCount has an entry where site_id word_id 
+                                if (inSiteWordsCount(siteId, wordId, connection))
+                                {
+                                    // update that entry's count
+                                    updateCount(siteId, wordId, count, connection);
+                                }
+                                else
+                                {   // else if it doesn't have that entry yet
+                                    // add a new entry with site_id, dictionary current key, dictionary current val   
+                                    addLink(siteId, wordId, count, connection);
+                                }
+                            }
+                
+                            /**********************/
+                            Console.WriteLine(word); /* this is a line for testing */
+                            /**********************/
+                        }
+                    }
+                }
+                
+                updateLinks(connection);
+                
+                doIDF(connection);
 
                 addNormalsToSites(connection);
 
