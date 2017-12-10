@@ -7,7 +7,7 @@
     <title></title>
 </head>
 <body>
-    <form id="form1" runat="server">
+    <form id="form1" runat="server" visible="True">
     <div>
     
         <asp:Label ID="Label1" runat="server" Text="Keyword 1"></asp:Label>
@@ -20,14 +20,21 @@
         <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
         <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
         <br />
+        Weight 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weight 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Weight 3<br />
+        <asp:TextBox ID="TextBox4" runat="server">10</asp:TextBox>
+        <asp:TextBox ID="TextBox5" runat="server">10</asp:TextBox>
+        <asp:TextBox ID="TextBox6" runat="server">10</asp:TextBox>
+        <br />
     
     </div>
-        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Button" />
+        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Find Websites" />
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:Label ID="statusLabel" runat="server" Text="Status"></asp:Label>
         <p>
             &nbsp;</p>
         <asp:GridView ID="GridView1" runat="server">
         </asp:GridView>
-        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:team_proj_431_db %>" DeleteCommand="DELETE FROM [Words] WHERE [word_Id] = @word_Id" InsertCommand="INSERT INTO [Words] ([word]) VALUES (@word)" SelectCommand="SELECT site_name, Y.word, Y.count FROM Sites S, (SELECT X.word, site_id, count, swc.word_id FROM SiteWordsCount swc, (SELECT word, word_Id FROM Words WHERE word = @word1) AS X 
+        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:team_proj_431%>" DeleteCommand="DELETE FROM [Words] WHERE [word_Id] = @word_Id" InsertCommand="INSERT INTO [Words] ([word]) VALUES (@word)" SelectCommand="SELECT site_name, Y.word, Y.count FROM Sites S, (SELECT X.word, site_id, count, swc.word_id FROM SiteWordsCount swc, (SELECT word, word_Id FROM Words WHERE word = @word1) AS X 
 WHERE X.word_Id = swc.word_id) AS Y
 WHERE Y.site_id = S.site_id AND Y.count != 0
 
