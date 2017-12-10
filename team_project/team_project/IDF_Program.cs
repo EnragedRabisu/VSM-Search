@@ -12,38 +12,40 @@ namespace team_project
     {
         static void Main(string[] args)
         {
+
             /* connect to database */
             using (SqlConnection connection = new SqlConnection(ConfigurationManager.ConnectionStrings["team_proj_431"].ConnectionString))
             {
                 connection.Open();
+
                 //int fileCount = 0;
                 //string fileName = fileCount.ToString();
 
                 // for each file in directory
                 foreach (string file in Directory.EnumerateFiles("sites", "*.txt"))
-                 {
-
+                {
+                
                     /* check to see if an entry with the site name equal to the site name exists in the table */
                     // if it doesn't, add an entry to Sites
                     if (!fieldExists("Sites", "site_name", file, connection))
                     {
                         addToTable("Sites", "site_name", file, connection);
                     }
-
+                
                     // read file
                     using (var reader = new StreamReader(file))
                     {
                         
                         // create a dictionary to store the words/occurrences in the file
                         Dictionary<string, int> dictionary = new Dictionary<string, int>();
-
+                
                         string line;
-
+                
                         while ((line = reader.ReadLine()) != null)
                         {
-
+                
                             string[] words = line.Split();
-
+                
                             foreach (string word in words)
                             {
                                 /* stop words */
@@ -53,7 +55,7 @@ namespace team_project
                                     
                                     string fline;
                                     bool isStopWord = false;
-
+                
                                     while ((fline = freader.ReadLine()) != null )
                                     {
                                         if (word.Equals(fline))
@@ -66,7 +68,7 @@ namespace team_project
                                             isStopWord = true;
                                             break;
                                         }
-
+                
                                     }
                                     
                                     // if the word isn't a stop word and doesn't exist in the dictionary, add it with a val of one
@@ -84,13 +86,13 @@ namespace team_project
                                         }
                                     }
                                 }
-
+                
                                 /**********************/
                                 Console.WriteLine(word); /* this is a line for testing */
                                 /**********************/
                             }
                         }
-
+                
                         /* update tables from dictionary */
                         // for each word in the dictionary
                         foreach (KeyValuePair<string, int> entry in dictionary)
@@ -98,9 +100,9 @@ namespace team_project
                             // word id var = initVal   
                             string word = entry.Key;
                             int count = entry.Value;
-
+                
                             Regex r = new Regex("^[a-zA-Z]*$");
-
+                
                             /* update the words table */
                             // if word not in Words
                             if (word.Length < 26 && r.IsMatch(word))
@@ -109,14 +111,14 @@ namespace team_project
                                 {
                                     addToTable("Words", "word", word, connection);     // add word to Words
                                 }
-
+                
                                 /* update the linking table */
                                 // get site_id from Sites
                                 int siteId = getSiteId(file, connection);
-
+                
                                 // get word_id from Words
                                 int wordId = getWordId(word, connection);
-
+                
                                 // if SiteWordsCount has an entry where site_id word_id 
                                 if (inSiteWordsCount(siteId, wordId, connection))
                                 {
@@ -129,56 +131,17 @@ namespace team_project
                                     addLink(siteId, wordId, count, connection);
                                 }
                             }
-
+                
                             /**********************/
                             Console.WriteLine(word); /* this is a line for testing */
                             /**********************/
                         }
                     }
                 }
+                
+                updateLinks(connection);
 
-                /* fill data tables for sites and words */
-                DataTable sitesTable = new DataTable();
-                DataTable wordsTable = new DataTable();
-
-                string q1 = "SELECT site_name FROM Sites";
-                string q2 = "SELECT word FROM Words";
-
-                SqlCommand sitesCmd = new SqlCommand(q1, connection);
-                SqlCommand wordsCmd = new SqlCommand(q2, connection);
-
-                SqlDataAdapter da1 = new SqlDataAdapter(sitesCmd);
-                SqlDataAdapter da2 = new SqlDataAdapter(wordsCmd);
-
-                da1.Fill(sitesTable);
-                da2.Fill(wordsTable);
-
-                /* final update in linking table */
-                // for each site in the sites table
-                foreach (DataRow site in sitesTable.Rows)
-                {
-                    string s = site["site_name"].ToString();
-                    int siteId = getSiteId(s, connection);
-
-                    // for each word in the words table
-                    foreach (DataRow word in wordsTable.Rows)
-                    {
-                        string d = word["word"].ToString();
-                        int wordId = getWordId(d, connection);
-                        // if SiteWordsCount doesn't have an entry for site,word
-                        if (!inSiteWordsCount(siteId, wordId, connection))
-                        {
-                            // add the entry with a count of 0
-                            addLink(siteId, wordId, 0, connection);
-                        }
-                        /**********************/
-                        Console.WriteLine(siteId + ", " + wordId); /* this is a line for testing */
-                                                                   /**********************/
-                    }
-                }
-
-                da1.Dispose();
-                da2.Dispose();
+                doIDF(connection);
 
                 connection.Close();
             }
@@ -257,6 +220,130 @@ namespace team_project
                 command.Parameters.AddWithValue("@count", count);
                 command.ExecuteNonQuery();
             }
+        }
+
+        static void updateLinks(SqlConnection connection)
+        {
+            /* fill data tables for sites and words */
+            DataTable sitesTable = new DataTable();
+            DataTable wordsTable = new DataTable();
+
+            string q1 = "SELECT site_name FROM Sites";
+            string q2 = "SELECT word FROM Words";
+
+            SqlCommand sitesCmd = new SqlCommand(q1, connection);
+            SqlCommand wordsCmd = new SqlCommand(q2, connection);
+
+            SqlDataAdapter da1 = new SqlDataAdapter(sitesCmd);
+            SqlDataAdapter da2 = new SqlDataAdapter(wordsCmd);
+
+            da1.Fill(sitesTable);
+            da2.Fill(wordsTable);
+
+            /* final update in linking table */
+            // for each site in the sites table
+            foreach (DataRow site in sitesTable.Rows)
+            {
+                string s = site["site_name"].ToString();
+                int siteId = getSiteId(s, connection);
+
+                // for each word in the words table
+                foreach (DataRow word in wordsTable.Rows)
+                {
+                    string d = word["word"].ToString();
+                    int wordId = getWordId(d, connection);
+                    // if SiteWordsCount doesn't have an entry for site,word
+                    if (!inSiteWordsCount(siteId, wordId, connection))
+                    {
+                        // add the entry with a count of 0
+                        addLink(siteId, wordId, 0, connection);
+                    }
+                    /**********************/
+                    Console.WriteLine(siteId + ", " + wordId); /* this is a line for testing */
+                    /**********************/
+                }
+            }
+
+            da1.Dispose();
+            da2.Dispose();
+        }
+
+        public static void doIDF(SqlConnection connection)
+        {
+            DataTable wordsTable = new DataTable();
+            string q2 = "SELECT word_Id FROM Words";
+            SqlCommand wordsCmd = new SqlCommand(q2, connection);
+            SqlDataAdapter da2 = new SqlDataAdapter(wordsCmd);
+            da2.Fill(wordsTable);
+
+            foreach (DataRow word in wordsTable.Rows)
+            {
+                int word_id = Convert.ToInt32(word["word_Id"]);
+
+                // TODO: Search database for occurences of query
+                // and introduce logic to determine the number of documents containing the query
+                int x = 0;
+                int sites = GetTotalSites(connection);
+
+                for (int i = 0; i < sites; i++)
+                {
+                    if (DoesWordExist(i, word_id, connection))
+                    {
+                        x++;
+                    }
+                }
+
+                /****************/
+                Console.WriteLine(word_id);
+                /***************/
+
+                double result = Math.Log(sites / (1.0 + x));
+
+                // update result to words table
+                updateIDF(word_id, result, connection);
+
+            }
+        }
+
+        static void updateIDF(int wordId, double result, SqlConnection connection)
+        {
+            string commandText = "UPDATE Words SET IDF = @result WHERE word_id = @word_id";
+            using (var command = new SqlCommand(commandText, connection))
+            {
+                command.Parameters.AddWithValue("@result", result);
+                command.Parameters.AddWithValue("@word_id", wordId);
+                command.ExecuteNonQuery();
+            }
+        }
+
+        static int GetTotalSites(SqlConnection connection)
+        {
+            string commandText = "SELECT COUNT(*) FROM Sites";
+            SqlCommand cmd = new SqlCommand(commandText, connection);
+            int result = 0;
+            if (!Convert.IsDBNull(cmd.ExecuteScalar()))
+            {
+                result = Convert.ToInt32(cmd.ExecuteScalar());
+            }
+
+            return result;
+        }
+
+        static bool DoesWordExist(int siteID, int wordID, SqlConnection connection)
+        {
+            string commandText = "SELECT COUNT(*) FROM SiteWordsCount WHERE site_id = @site AND word_id = @word AND count > 0";
+            SqlCommand cmd = new SqlCommand(commandText, connection);
+            cmd.Parameters.AddWithValue("@site", siteID.ToString());
+            cmd.Parameters.AddWithValue("@word", wordID.ToString());
+            int result = 0;
+            if (!Convert.IsDBNull(cmd.ExecuteScalar()))
+            {
+                result = Convert.ToInt32(cmd.ExecuteScalar());
+            }
+
+            if (result < 1)
+                return false;
+            return true;
         }
     }
 }
