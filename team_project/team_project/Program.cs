@@ -55,8 +55,7 @@ namespace team_project
                                     
                                     string fline;
                                     bool isStopWord = false;
-                
-                                    while ((fline = freader.ReadLine()) != null )
+                                //                    while ((fline = freader.ReadLine()) != null )
                                     {
                                         if (word.Equals(fline))
                                         {
@@ -140,8 +139,10 @@ namespace team_project
                 }
                 
                 updateLinks(connection);
-
+                
                 doIDF(connection);
+
+                addNormalsToSites(connection);
 
                 connection.Close();
             }
@@ -344,6 +345,76 @@ namespace team_project
             if (result < 1)
                 return false;
             return true;
+        }
+
+        static void addNormalsToSites(SqlConnection connection)
+        {
+            int words = GetTotalWords(connection);
+            int sites = GetTotalSites(connection);
+            double normal = 0;
+            for (int j = 1; j < sites + 1; j++)
+            {
+                normal = 0;
+
+                for (int i = 1; i < words + 1; i++)
+                {
+                    normal += Math.Pow(DoTF_IDF(i, connection, j), 2);
+                    /*******************/
+                    Console.WriteLine(j);
+                    /*******************/
+                }
+
+                string commandText = "UPDATE Sites SET Normal = @normal WHERE site_id = @site_id";
+                using (var command = new SqlCommand(commandText, connection))
+                {
+                    command.Parameters.AddWithValue("@site_id", j);
+                    command.Parameters.AddWithValue("@normal", normal);
+                    command.ExecuteNonQuery();
+                }
+            }
+        }
+
+        public static double DoTF_IDF(int wordID, SqlConnection conn, int siteID)
+        {
+            double idf = getIDF(wordID, conn);
+            double tf = GetQueryCountInSite(siteID, wordID, conn);
+            return tf * idf;
+        }
+
+        static int GetTotalWords(SqlConnection connection)
+        {
+            string commandText = "SELECT COUNT(*) FROM Words";
+            SqlCommand cmd = new SqlCommand(commandText, connection);
+            int result = 0;
+            if (!Convert.IsDBNull(cmd.ExecuteScalar()))
+            {
+                result = Convert.ToInt32(cmd.ExecuteScalar());
+            }
+
+            return result;
+        }
+
+        public static double getIDF(int wordID, SqlConnection connection)
+        {
+            string commandText = "SELECT IDF FROM Words WHERE word_id = @word_id";
+            SqlCommand cmd = new SqlCommand(commandText, connection);
+            cmd.Parameters.AddWithValue("@word_id", wordID);
+            return Convert.ToDouble(cmd.ExecuteScalar());
+        }
+
+        static int GetQueryCountInSite(int siteId, int wordId, SqlConnection connection)
+        {
+            string commandText = "SELECT count FROM SiteWordsCount WHERE site_id = @site_id AND word_id = @word_id";
+            SqlCommand cmd = new SqlCommand(commandText, connection);
+            cmd.Parameters.AddWithValue("@site_id", siteId.ToString());
+            cmd.Parameters.AddWithValue("@word_id", wordId.ToString());
+            int result = 0;
+            if (!Convert.IsDBNull(cmd.ExecuteScalar()))
+            {
+                result = Convert.ToInt32(cmd.ExecuteScalar());
+            }
+
+            return result;
         }
     }
 }
