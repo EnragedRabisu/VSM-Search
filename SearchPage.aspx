@@ -34,7 +34,9 @@
             &nbsp;</p>
         <asp:GridView ID="GridView1" runat="server">
         </asp:GridView>
+
         <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:team_proj_431%>" DeleteCommand="DELETE FROM [Words] WHERE [word_Id] = @word_Id" InsertCommand="INSERT INTO [Words] ([word]) VALUES (@word)" SelectCommand="SELECT site_name, Y.word, Y.count FROM Sites S, (SELECT X.word, site_id, count, swc.word_id FROM SiteWordsCount swc, (SELECT word, word_Id FROM Words WHERE word = @word1) AS X 
+
 WHERE X.word_Id = swc.word_id) AS Y
 WHERE Y.site_id = S.site_id AND Y.count != 0
 

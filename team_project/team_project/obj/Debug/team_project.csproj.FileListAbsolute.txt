@@ -4,3 +4,9 @@ D:\programming\school\431\team_project\team_project\bin\Debug\team_project.pdb
 D:\programming\school\431\team_project\team_project\obj\Debug\team_project.csprojResolveAssemblyReference.cache
 D:\programming\school\431\team_project\team_project\obj\Debug\team_project.exe
 D:\programming\school\431\team_project\team_project\obj\Debug\team_project.pdb
+C:\Users\MJR5736\Downloads\VSM-Search-master\VSM-Search-master\team_project\team_project\bin\Debug\team_project.exe.config
+C:\Users\MJR5736\Downloads\VSM-Search-master\VSM-Search-master\team_project\team_project\obj\Debug\team_project.exe
+C:\Users\MJR5736\Downloads\VSM-Search-master\VSM-Search-master\team_project\team_project\obj\Debug\team_project.pdb
+C:\Users\MJR5736\Downloads\VSM-Search-master\VSM-Search-master\team_project\team_project\obj\Debug\team_project.csprojResolveAssemblyReference.cache
+C:\Users\MJR5736\Downloads\VSM-Search-master\VSM-Search-master\team_project\team_project\bin\Debug\team_project.exe
+C:\Users\MJR5736\Downloads\VSM-Search-master\VSM-Search-master\team_project\team_project\bin\Debug\team_project.pdb
