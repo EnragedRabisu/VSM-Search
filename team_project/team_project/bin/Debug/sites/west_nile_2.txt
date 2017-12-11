@@ -1,495 +1,2149 @@
-Skip to main content
+﻿<https://en.wikipedia.org/wiki/West_Nile_fever>
 
-<#content>
+  West Nile fever
 
-<http://www.who.int/en/>
+From Wikipedia, the free encyclopedia
+Jump to: navigation <#mw-head>, search <#p-search>
+West Nile fever
+Em wnvirus j7908i.jpg
+<https://en.wikipedia.org/wiki/File:Em_wnvirus_j7908i.jpg>
+West Nile virus
+Specialty <https://en.wikipedia.org/wiki/Specialty_(medicine)>
+Infectious disease
+<https://en.wikipedia.org/wiki/Infectious_disease_(medical_specialty)>
+Symptoms 	None, fever <https://en.wikipedia.org/wiki/Fever>, headache,
+vomiting, rash^[1] <#cite_note-CDC2017Q-1>
+Complications <https://en.wikipedia.org/wiki/Complication_(medicine)>
+Encephalitis <https://en.wikipedia.org/wiki/Encephalitis>, meningitis
+<https://en.wikipedia.org/wiki/Meningitis>^[1] <#cite_note-CDC2017Q-1>
+Usual onset 	2 to 14 days post exposure^[1] <#cite_note-CDC2017Q-1>
+Duration 	Weeks to months^[1] <#cite_note-CDC2017Q-1>
+Causes 	West Nile virus spread by mosquito
+<https://en.wikipedia.org/wiki/Mosquito>^[1] <#cite_note-CDC2017Q-1>
+Diagnostic method <https://en.wikipedia.org/wiki/Diagnostic_method>
+Based on symptoms and blood tests^[1] <#cite_note-CDC2017Q-1>
+Prevention 	Reducing mosquitoes, preventing mosquito bites^[1]
+<#cite_note-CDC2017Q-1>
+Treatment 	Supportive care
+<https://en.wikipedia.org/wiki/Supportive_care> (pain medication)^[1]
+<#cite_note-CDC2017Q-1>
+Prognosis 	10% risk of death among those seriously affected^[1]
+<#cite_note-CDC2017Q-1>
+[edit on Wikidata <https://www.wikidata.org/wiki/Q158856>]
+
+*West Nile fever* is a viral infection
+<https://en.wikipedia.org/wiki/Viral_infection> typically spread by
+mosquitoes <https://en.wikipedia.org/wiki/Mosquito>.^[1]
+<#cite_note-CDC2017Q-1> In about 75% of infections people have few
+<https://en.wikipedia.org/wiki/Subclinical_infection> or no symptoms
+<https://en.wikipedia.org/wiki/Asymptomatic>.^[1]
+<#cite_note-CDC2017Q-1> About 20% of people develop a fever
+<https://en.wikipedia.org/wiki/Fever>, headache, vomiting, or a
+rash.^[1] <#cite_note-CDC2017Q-1> In less than 1% of people,
+encephalitis <https://en.wikipedia.org/wiki/Encephalitis> or meningitis
+<https://en.wikipedia.org/wiki/Meningitis> occurs, with associated neck
+stiffness, confusion, or seizures.^[1] <#cite_note-CDC2017Q-1> Recovery
+may take weeks to months.^[1] <#cite_note-CDC2017Q-1> The risk of death
+among those in whom the nervous system
+<https://en.wikipedia.org/wiki/Nervous_system> is affected is about
+10%.^[1] <#cite_note-CDC2017Q-1>
+
+West Nile virus <https://en.wikipedia.org/wiki/West_Nile_virus> is
+typically spread by infected mosquitoes.^[1] <#cite_note-CDC2017Q-1>
+Mosquitoes become infected when they feed on infected birds.^[1]
+<#cite_note-CDC2017Q-1> Rarely the virus is spread through blood
+transfusions, organ transplants, or from mother to baby during
+pregnancy, delivery, or breastfeeding.^[1] <#cite_note-CDC2017Q-1> It
+otherwise does not spread directly between people.^[2]
+<#cite_note-WHO2011-2> Risks for severe disease include age over 60 and
+other health problems.^[1] <#cite_note-CDC2017Q-1> Diagnosis is
+typically based on symptoms and blood tests.^[1] <#cite_note-CDC2017Q-1>
+
+There is no human vaccine <https://en.wikipedia.org/wiki/Vaccine>.^[1]
+<#cite_note-CDC2017Q-1> The best method to reduce the risk of infections
+is avoiding mosquito bites.^[1] <#cite_note-CDC2017Q-1> This may be done
+by eliminating standing pools of water, such as in old tires, buckets,
+gutters, and swimming pools.^[1] <#cite_note-CDC2017Q-1> Mosquito
+repellent <https://en.wikipedia.org/wiki/Mosquito_repellent>, window
+screens <https://en.wikipedia.org/wiki/Window_screen>, mosquito nets
+<https://en.wikipedia.org/wiki/Mosquito_nets>, and avoiding areas where
+mosquitoes occur may also be useful.^[1] <#cite_note-CDC2017Q-1> ^[2]
+<#cite_note-WHO2011-2> While there is no specific treatment, pain
+medications <https://en.wikipedia.org/wiki/Pain_medications> may be
+useful.^[1] <#cite_note-CDC2017Q-1>
+
+WNV occurs in Europe, the Middle East, Africa, India, Asia, Australia,
+and North America.^[1] <#cite_note-CDC2017Q-1> In the United States
+thousands of cases are reported a year, with most occurring in August
+and September.^[3] <#cite_note-3> It can occur in outbreaks of
+disease.^[2] <#cite_note-WHO2011-2> The virus was discovered in Uganda
+<https://en.wikipedia.org/wiki/Uganda> in 1937 and was first detected in
+North America in 1999.^[1] <#cite_note-CDC2017Q-1> ^[2]
+<#cite_note-WHO2011-2> Severe disease may also occur in horses and a
+vaccine for these animals is available.^[2] <#cite_note-WHO2011-2> A
+surveillance system in birds is useful for early detection of a
+potential human outbreak.^[2] <#cite_note-WHO2011-2>
 
 
-      Access
+Contents
 
-  * Home Alt+0 <http://www.who.int/en/>
-  * Navigation Alt+1 <#navigation>
-  * Content Alt+2 <#main>
+ [hide] 
 
-//
+  * 1 Signs and symptoms <#Signs_and_symptoms>
+  * 2 Virology <#Virology>
+      o 2.1 Phylogeny <#Phylogeny>
+      o 2.2 Transmission <#Transmission>
+          + 2.2.1 Vertical transmission <#Vertical_transmission>
+      o 2.3 Risk factors <#Risk_factors>
+  * 3 Diagnosis <#Diagnosis>
+      o 3.1 Differential diagnosis <#Differential_diagnosis>
+  * 4 Prevention <#Prevention>
+      o 4.1 Monitoring and control <#Monitoring_and_control>
+  * 5 Treatment <#Treatment>
+  * 6 Prognosis <#Prognosis>
+  * 7 Epidemiology <#Epidemiology>
+  * 8 Research <#Research>
+  * 9 References <#References>
+  * 10 External links <#External_links>
+
+
+    Signs and symptoms[edit
+    <https://en.wikipedia.org/w/index.php?title=West_Nile_fever&action=edit&section=1>]
+
+The incubation period <https://en.wikipedia.org/wiki/Incubation_period>
+for WNV—the amount of time from infection to symptom onset—is typically
+from between 2 and 15 days. Headache can be a prominent symptom of WNV
+fever, meningitis, encephalitis, meningoencephalitis, and it may or may
+not be present in poliomyelitis-like syndrome. Thus, headache is not a
+useful indicator of neuroinvasive disease.
+
+  * *West Nile fever (WNF)*, which occurs in 20 percent of cases, is a
+    febrile <https://en.wikipedia.org/wiki/Fever> syndrome
+    <https://en.wikipedia.org/wiki/Syndrome> that causes flu-like
+    symptoms <https://en.wikipedia.org/wiki/Flu-like_symptoms>.^[4]
+    <#cite_note-4> Most characterizations of WNF generally describe it
+    as a mild, acute <https://en.wikipedia.org/wiki/Acute_(medicine)>
+    syndrome lasting 3 to 6 days after symptom onset. Systematic
+    follow-up studies of patients with WNF have not been done, so this
+    information is largely anecdotal
+    <https://en.wikipedia.org/wiki/Anecdotal_evidence>. In addition to a
+    high fever, headache, chills, excessive sweating
+    <https://en.wikipedia.org/wiki/Diaphoresis>, weakness, fatigue,
+    swollen lymph nodes <https://en.wikipedia.org/wiki/Lymphadenopathy>,
+    drowsiness, pain in the joints and flu-like symptoms
+    <https://en.wikipedia.org/wiki/Flu-like_symptoms>. Gastrointestinal
+    <https://en.wikipedia.org/wiki/Human_gastrointestinal_tract>
+    symptoms that may occur include nausea
+    <https://en.wikipedia.org/wiki/Nausea>, vomiting
+    <https://en.wikipedia.org/wiki/Emesis>, loss of appetite
+    <https://en.wikipedia.org/wiki/Anorexia_(symptom)>, and diarrhea
+    <https://en.wikipedia.org/wiki/Diarrhea>. Fewer than one-third of
+    patients develop a rash <https://en.wikipedia.org/wiki/Rash>.
+  * *West Nile neuroinvasive disease
+    <https://en.wikipedia.org/wiki/Neurotropic_virus> (WNND)*, which
+    occurs in less than 1 percent of cases, is when the virus infects
+    the central nervous system
+    <https://en.wikipedia.org/wiki/Central_nervous_system> resulting in
+    meningitis <https://en.wikipedia.org/wiki/Meningitis>, encephalitis
+    <https://en.wikipedia.org/wiki/Encephalitis>, meningoencephalitis or
+    a poliomyelitis <https://en.wikipedia.org/wiki/Poliomyelitis>-like
+    syndrome.^[5] <#cite_note-Davis2006-5> Many patients with WNND have
+    normal neuroimaging <https://en.wikipedia.org/wiki/Neuroimaging>
+    studies, although abnormalities may be present in various cerebral
+    areas including the basal ganglia
+    <https://en.wikipedia.org/wiki/Basal_ganglia>, thalamus
+    <https://en.wikipedia.org/wiki/Thalamus>, cerebellum
+    <https://en.wikipedia.org/wiki/Cerebellum>, and brainstem
+    <https://en.wikipedia.org/wiki/Brainstem>.^[5] <#cite_note-Davis2006-5>
+  * *West Nile virus encephalitis (WNE)* is the most common
+    neuroinvasive manifestation of WNND. WNE presents with similar
+    symptoms to other viral encephalitis with fever, headaches, and
+    altered mental status. A prominent finding in WNE is muscular
+    weakness <https://en.wikipedia.org/wiki/Muscular_weakness> (30 to 50
+    percent of patients with encephalitis), often with lower motor
+    neuron <https://en.wikipedia.org/wiki/Lower_motor_neuron> symptoms,
+    flaccid paralysis <https://en.wikipedia.org/wiki/Flaccid_paralysis>,
+    and hyporeflexia <https://en.wikipedia.org/wiki/Hyporeflexia> with
+    no sensory <https://en.wikipedia.org/wiki/Sensory_system>
+    abnormalities.^[6] <#cite_note-6> ^[7] <#cite_note-Carson06-7>
+  * *West Nile meningitis (WNM)* usually involves fever, headache, and
+    stiff neck. Pleocytosis <https://en.wikipedia.org/wiki/Pleocytosis>,
+    an increase of white blood cells in cerebrospinal fluid, is also
+    present. Changes in consciousness are not usually seen and are mild
+    when present.
+  * *West Nile meningoencephalitis* is inflammation of both the brain
+    (encephalitis) and meninges (meningitis).
+  * *West Nile poliomyelitis (WNP)*, an acute flaccid paralysis
+    <https://en.wikipedia.org/wiki/Acute_flaccid_paralysis> syndrome
+    associated with WNV infection, is less common than WNM or WNE. This
+    syndrome is generally characterized by the acute onset of asymmetric
+    limb weakness or paralysis in the absence of sensory loss. Pain
+    sometimes precedes the paralysis. The paralysis can occur in the
+    absence of fever, headache, or other common symptoms associated with
+    WNV infection. Involvement of respiratory muscles, leading to acute
+    respiratory failure, can sometimes occur.
+  * *West-Nile reversible paralysis*, Like WNP, the weakness or
+    paralysis is asymmetric.^[8] <#cite_note-Mojumder2014-8> Reported
+    cases have been noted to have an initial preservation of deep tendon
+    reflexes, which is not expected for a pure anterior horn
+    involvement.^[8] <#cite_note-Mojumder2014-8> Disconnect of upper
+    motor neuron influences on the anterior horn cells possibly by
+    myelitis or glutamate excitotoxicity have been suggested as
+    mechanisms.^[8] <#cite_note-Mojumder2014-8> The prognosis for
+    recovery is excellent.
+  * *Nonneurologic complications* of WNV infection that may rarely occur
+    include fulminant hepatitis
+    <https://en.wikipedia.org/wiki/Hepatitis>, pancreatitis
+    <https://en.wikipedia.org/wiki/Pancreatitis>,^[9] <#cite_note-9>
+    myocarditis <https://en.wikipedia.org/wiki/Myocarditis>,
+    rhabdomyolysis <https://en.wikipedia.org/wiki/Rhabdomyolysis>,^[10]
+    <#cite_note-10> orchitis
+    <https://en.wikipedia.org/wiki/Orchitis>,^[11] <#cite_note-11>
+    nephritis <https://en.wikipedia.org/wiki/Nephritis>, optic neuritis
+    <https://en.wikipedia.org/wiki/Optic_neuritis>^[12] <#cite_note-12>
+    and cardiac dysrhythmias
+    <https://en.wikipedia.org/wiki/Cardiac_dysrhythmia> and hemorrhagic
+    fever <https://en.wikipedia.org/wiki/Hemorrhagic_fever> with
+    coagulopathy <https://en.wikipedia.org/wiki/Coagulopathy>.^[13]
+    <#cite_note-13> Chorioretinitis
+    <https://en.wikipedia.org/wiki/Chorioretinitis> may also be more
+    common than previously thought.^[14] <#cite_note-14>
+  * *Cutaneous manifestations* specifically rashes, are not uncommon in
+    WNV-infected patients; however, there is a paucity of detailed
+    descriptions in case reports and there are few clinical images
+    widely available. Punctate erythematous, macular, and papular
+    eruptions, most pronounced on the extremities have been observed in
+    WNV cases and in some cases histopathologic findings have shown a
+    sparse superficial perivascular
+    <https://en.wikipedia.org/wiki/Pericyte> lymphocytic infiltrate, a
+    manifestation commonly seen in viral exanthems. A literature review
+    provides support that this punctate rash is a common cutaneous
+    presentation of WNV infection.^[15] <#cite_note-15>
+
+
+    Virology[edit
+    <https://en.wikipedia.org/w/index.php?title=West_Nile_fever&action=edit&section=2>]
+
+/West Nile virus/
+Em wnvirus j7908i.jpg
+<https://en.wikipedia.org/wiki/File:Em_wnvirus_j7908i.jpg>
+Virus classification <https://en.wikipedia.org/wiki/Virus_classification>
+Group: 	Group IV ((+)ssRNA
+<https://en.wikipedia.org/wiki/Positive-sense_ssRNA_virus>)
+Order: 	/Unassigned/
+Family: 	/Flaviviridae <https://en.wikipedia.org/wiki/Flaviviridae>/
+Genus: 	/Flavivirus <https://en.wikipedia.org/wiki/Flavivirus>/
+Species: 	/*West Nile virus*/
+
+Main article: West nile virus
+<https://en.wikipedia.org/wiki/West_nile_virus>
+<https://en.wikipedia.org/wiki/File:WNV_life_cycle.jpg>
+
+<https://en.wikipedia.org/wiki/File:WNV_life_cycle.jpg>
+West Nile virus life cycle. After binding and uptake, the virion
+envelope fuses with cellular membranes, followed by uncoating of the
+nucleocapsid and release of the RNA genome into the cytoplasm. The viral
+genome serves as messenger RNA (mRNA) for translation of all viral
+proteins and as template during RNA replication. Copies are subsequently
+packaged within new virus particles that are transported in vesicles to
+the cell membrane.
+
+WNV is one of the Japanese encephalitis
+<https://en.wikipedia.org/wiki/Japanese_encephalitis> antigenic
+serocomplex <https://en.wikipedia.org/wiki/Serotype> of viruses. Image
+reconstructions and cryoelectron microscopy
+<https://en.wikipedia.org/wiki/Cryoelectron_microscopy> reveal a
+45–50 nm virion <https://en.wikipedia.org/wiki/Virion> covered with a
+relatively smooth protein <https://en.wikipedia.org/wiki/Protein>
+surface. This structure is similar to the dengue fever
+<https://en.wikipedia.org/wiki/Dengue_fever> virus; both belong to the
+genus /Flavivirus <https://en.wikipedia.org/wiki/Flavivirus>/ within the
+family /Flaviviridae <https://en.wikipedia.org/wiki/Flaviviridae>/. The
+genetic material of WNV is a positive-sense
+<https://en.wikipedia.org/wiki/Sense_(molecular_biology)>, single strand
+of RNA <https://en.wikipedia.org/wiki/RNA>, which is between 11,000 and
+12,000 nucleotides <https://en.wikipedia.org/wiki/Nucleotide> long;
+these genes <https://en.wikipedia.org/wiki/Genes> encode seven
+nonstructural proteins and three structural proteins. The RNA strand is
+held within a nucleocapsid formed from 12-kDa
+<https://en.wikipedia.org/wiki/KDa> protein blocks; the capsid is
+contained within a host-derived membrane
+<https://en.wikipedia.org/wiki/Biological_membrane> altered by two viral
+glycoproteins <https://en.wikipedia.org/wiki/Glycoprotein>.
+
+
+      Phylogeny[edit
+      <https://en.wikipedia.org/w/index.php?title=West_Nile_fever&action=edit&section=3>]
+
+<https://en.wikipedia.org/wiki/File:Phylogenetic_tree_of_West_Nile_viruses.gif>
+
+
+<https://en.wikipedia.org/wiki/File:Phylogenetic_tree_of_West_Nile_viruses.gif>
+Phylogenetic tree <https://en.wikipedia.org/wiki/Phylogeny> of West Nile
+viruses <https://en.wikipedia.org/wiki/Virus> based on sequencing of the
+envelope <https://en.wikipedia.org/wiki/Viral_envelope> gene
+<https://en.wikipedia.org/wiki/Gene> during complete genome sequencing
+<https://en.wikipedia.org/wiki/Complete_genome_sequencing> of the
+virus^[16] <#cite_note-16>
+
+Studies of phylogenetic <https://en.wikipedia.org/wiki/Phylogeny>
+lineages determined WNV emerged as a distinct virus around 1000 years
+ago.^[17] <#cite_note-17> This initial virus developed into two distinct
+lineages. Lineage 1 and its multiple profiles is the source of the
+epidemic transmission in Africa and throughout the world. Lineage 2 was
+considered an African zoonosis <https://en.wikipedia.org/wiki/Zoonosis>.
+However, in 2008, lineage 2, previously only seen in horses in
+sub-Saharan Africa and Madagascar, began to appear in horses in Europe,
+where the first known outbreak affected 18 animals in Hungary in
+2008.^[18] <#cite_note-18> Lineage 1 West Nile virus was detected in
+South Africa in 2010 in a mare <https://en.wikipedia.org/wiki/Mare> and
+her aborted fetus <https://en.wikipedia.org/wiki/Fetus>; previously,
+only lineage 2 West Nile virus had been detected in horses and humans in
+South Africa.^[19] <#cite_note-19> A 2007 fatal case in a killer whale
+<https://en.wikipedia.org/wiki/Killer_whale> in Texas
+<https://en.wikipedia.org/wiki/Texas> broadened the known host range
+<https://en.wikipedia.org/wiki/Host_range> of West Nile virus to include
+cetaceans <https://en.wikipedia.org/wiki/Cetacean>.^[20] <#cite_note-20>
+
+The United States virus was very closely related to a lineage 1 strain
+found in Israel in 1998. Since the first North American cases in 1999,
+the virus has been reported throughout the United States, Canada,
+Mexico, the Caribbean, and Central America. There have been human cases
+and equine cases, and many birds are infected. The Barbary macaque
+<https://en.wikipedia.org/wiki/Barbary_macaque>, /Macaca sylvanus
+<https://en.wikipedia.org/wiki/Macaca_sylvanus>/, was the first nonhuman
+primate <https://en.wikipedia.org/wiki/Primate> to contract WNV.^[21]
+<#cite_note-21> Both the United States and Israeli strains are marked by
+high mortality rates in infected avian populations; the presence of dead
+birds—especially Corvidae <https://en.wikipedia.org/wiki/Corvidae>—can
+be an early indicator of the arrival of the virus.
+
+
+      Transmission[edit
+      <https://en.wikipedia.org/w/index.php?title=West_Nile_fever&action=edit&section=4>]
+
+<https://en.wikipedia.org/wiki/File:West_Nile_virus_transmission_cycle.jpg>
+
+<https://en.wikipedia.org/wiki/File:West_Nile_virus_transmission_cycle.jpg>
+West Nile virus maintains itself in nature by cycling between mosquitoes
+in the genus Culex and certain species of birds. A mosquito (the vector
+<https://en.wikipedia.org/wiki/Vector_(epidemiology)>) bites an
+uninfected bird (the host
+<https://en.wikipedia.org/wiki/Host_(biology)>), the virus amplifies
+within the bird, an uninfected mosquito bites the bird and is in turn
+infected. Other species such as humans and horses are incidental
+infections, because the virus does not amplify well within these species
+and they are considered dead-end hosts.
+
+The prime method of spread of the West Nile virus (WNV) is the female
+mosquito. Only female feeds on blood. In Europe, cats were identified as
+being hosts <https://en.wikipedia.org/wiki/Feline_zoonosis> for West
+Nile virus <https://en.wikipedia.org/wiki/West_Nile_virus>.^[22]
+<#cite_note-RijksCito2016-22> The important mosquito vectors vary
+according to area; in the United States, /Culex pipiens
+<https://en.wikipedia.org/wiki/Culex_pipiens>/ (Eastern United States,
+and urban and residential areas of the United States north of 36–39°N),
+/Culex tarsalis <https://en.wikipedia.org/wiki/Culex_tarsalis>/ (Midwest
+and West), and /Culex quinquefasciatus
+<https://en.wikipedia.org/wiki/Culex_quinquefasciatus>/ (Southeast) are
+the main vector species.^[23] <#cite_note-23>
+
+The mosquito species that are most frequently infected with WNV feed
+primarily on birds.^[24] <#cite_note-Kilpatrick_2011-24> Different
+species of mosquitos take a blood meal
+<https://en.wikipedia.org/wiki/Hematophagy> from different types of
+vertebrate <https://en.wikipedia.org/wiki/Vertebrate> hosts
+<https://en.wikipedia.org/wiki/Host_(biology)>, Mosquitoes show further
+selectivity, exhibiting preference for different species
+<https://en.wikipedia.org/wiki/Species> of birds. In the United States,
+WNV mosquito vectors feed preferentially on members of the Corvidae
+<https://en.wikipedia.org/wiki/Corvidae> and thrush
+<https://en.wikipedia.org/wiki/Thrush_(bird)> family
+<https://en.wikipedia.org/wiki/Family_(biology)>. Among the preferred
+species within these families are the American crow
+<https://en.wikipedia.org/wiki/American_crow>, a corvid, and the
+American robin <https://en.wikipedia.org/wiki/American_robin> (/Turdus
+migratorius/).^[25] <#cite_note-Kilpatrick_2006A-25>
+
+<https://en.wikipedia.org/wiki/File:CulexNil.jpg>
+
+<https://en.wikipedia.org/wiki/File:CulexNil.jpg>
+The proboscis <https://en.wikipedia.org/wiki/Proboscis> of a female
+mosquito—here a southern house mosquito (/Culex
+quinquefasciatus/)—pierces the epidermis
+<https://en.wikipedia.org/wiki/Epidermis_(skin)> and dermis
+<https://en.wikipedia.org/wiki/Dermis> to allow it to feed on human
+blood from a capillary <https://en.wikipedia.org/wiki/Capillary>: this
+one is almost fully tumescent. The mosquito injects saliva
+<https://en.wikipedia.org/wiki/Saliva>, which contains an anesthetic
+<https://en.wikipedia.org/wiki/Anesthetic>, and an anticoagulant
+<https://en.wikipedia.org/wiki/Anticoagulant> into the puncture wound,
+and in infected mosquitoes, West Nile virus.
+
+Some species of birds develop sufficient viral levels (>~10^4.2 log
+PFU/ml;^[26] <#cite_note-Kilpatrick_2007-26> ) after being infected to
+transmit the infection to biting mosquitoes that in turn go on to infect
+other birds. In birds that die from WNV, death usually occurs after 4 to
+6 days.^[27] <#cite_note-Komar_2003-27> In mammals and several species
+of birds, the virus does not multiply as readily and so does not develop
+high viremia <https://en.wikipedia.org/wiki/Viremia> during infection.
+Mosquitoes biting such hosts are not believed to ingest sufficient virus
+to become infected, making them so-called dead-end hosts
+<https://en.wikipedia.org/wiki/Host_(biology)>.^[26]
+<#cite_note-Kilpatrick_2007-26> As a result of the differential
+infectiousness of hosts, the feeding patterns of mosquitoes play an
+important role in WNV transmission,^[24] <#cite_note-Kilpatrick_2011-24>
+^[25] <#cite_note-Kilpatrick_2006A-25> and they are partly genetically
+controlled, even within a species.
+
+Direct human-to-human transmission initially was believed to be caused
+only by occupational exposure, such as in a laboratory setting,^[28]
+<#cite_note-28> or conjunctive exposure to infected blood.^[29]
+<#cite_note-29> The US outbreak identified additional transmission
+methods through blood transfusion,^[30] <#cite_note-30> organ
+transplant,^[31] <#cite_note-31> intrauterine exposure,^[32]
+<#cite_note-32> and breast feeding.^[33] <#cite_note-33> Since 2003,
+blood banks in the United States routinely screen for the virus among
+their donors.^[34] <#cite_note-34> As a precautionary measure, the UK's
+National Blood Service
+<https://en.wikipedia.org/wiki/National_Blood_Service> initially ran a
+test for this disease in donors who donate within 28 days of a visit to
+the United States, Canada, or the northeastern provinces of Italy, and
+the Scottish National Blood Transfusion Service
+<https://en.wikipedia.org/wiki/Scottish_National_Blood_Transfusion_Service>^[35]
+<#cite_note-35> asks prospective donors to wait 28 days after returning
+from North America or the northeastern provinces of Italy before
+donating. There also have been reports of possible transmission of the
+virus from mother to child during pregnancy
+<https://en.wikipedia.org/wiki/Pregnancy> or breastfeeding
+<https://en.wikipedia.org/wiki/Breastfeeding> or exposure to the virus
+in a lab, but these are rare cases and not conclusively confirmed.^[36]
+<#cite_note-Mayo_Clinic-36>
+
+Recently, the potential for mosquito saliva
+<https://en.wikipedia.org/wiki/Mosquito#Saliva> to affect the course of
+WNV disease was demonstrated.^[37] <#cite_note-pmid18000543-37> ^[38]
+<#cite_note-pmid16896145-38> ^[39] <#cite_note-pmid16553552-39>
+Mosquitoes inoculate their saliva into the skin while obtaining blood.
+Mosquito saliva is a pharmacological cocktail of secreted molecules,
+principally proteins, that can affect vascular constriction, blood
+coagulation <https://en.wikipedia.org/wiki/Blood_coagulation>, platelet
+aggregation <https://en.wikipedia.org/wiki/Platelet_aggregation>,
+inflammation <https://en.wikipedia.org/wiki/Inflammation>, and immunity
+<https://en.wikipedia.org/wiki/Immunity_(medical)>. It clearly alters
+the immune response <https://en.wikipedia.org/wiki/Immune_response> in a
+manner that may be advantageous to a virus.^[40]
+<#cite_note-pmid15541033-40> ^[41] <#cite_note-pmid12693849-41> ^[42]
+<#cite_note-pmid15189245-42> ^[43] <#cite_note-pmid10081770-43> Studies
+have shown it can specifically modulate the immune response during early
+virus infection,^[44] <#cite_note-pmid15671753-44> and mosquito feeding
+can exacerbate WNV infection, leading to higher viremia
+<https://en.wikipedia.org/wiki/Viremia> and more severe forms of
+disease.^[37] <#cite_note-pmid18000543-37> ^[38]
+<#cite_note-pmid16896145-38> ^[39] <#cite_note-pmid16553552-39>
+
+
+        Vertical transmission[edit
+        <https://en.wikipedia.org/w/index.php?title=West_Nile_fever&action=edit&section=5>]
+
+Vertical transmission
+<https://en.wikipedia.org/wiki/Vertical_transmission>, the transmission
+of a viral or bacterial disease from the female of the species to her
+offspring, has been observed in various West Nile virus studies, amongst
+different species of mosquitoes in both the laboratory and in
+nature.^[45] <#cite_note-45> Mosquito progeny infected vertically in
+autumn, may potentially serve as a mechanism for WNV to overwinter and
+initiate enzootic <https://en.wikipedia.org/wiki/Enzootic> horizontal
+<https://en.wikipedia.org/wiki/Horizontal_disease_transmission>
+transmission the following spring, although it likely plays little role
+in transmission in the summer and fall.^[46] <#cite_note-46>
+
+
+      Risk factors[edit
+      <https://en.wikipedia.org/w/index.php?title=West_Nile_fever&action=edit&section=6>]
+
+Risk factors independently associated with developing a clinical
+infection with WNV include a suppressed immune system and a patient
+history of organ transplantation.^[47] <#cite_note-47> For neuroinvasive
+disease the additional risk factors include older age (>50+), male sex,
+hypertension <https://en.wikipedia.org/wiki/Hypertension>, and diabetes
+mellitus <https://en.wikipedia.org/wiki/Diabetes_mellitus>.^[48]
+<#cite_note-48> ^[49] <#cite_note-49>
+
+A genetic factor also appears to increase susceptibility to West Nile
+disease. A mutation of the gene /CCR5
+<https://en.wikipedia.org/wiki/CCR5>/ gives some protection against HIV
+<https://en.wikipedia.org/wiki/HIV> but leads to more serious
+complications of WNV infection. Carriers of two mutated copies of /CCR5/
+made up 4.0 to 4.5% of a sample of West Nile disease sufferers, while
+the incidence of the gene in the general population is only 1.0%.^[50]
+<#cite_note-50> ^[51] <#cite_note-51>
+
+
+    Diagnosis[edit
+    <https://en.wikipedia.org/w/index.php?title=West_Nile_fever&action=edit&section=7>]
+
+<https://en.wikipedia.org/wiki/File:IgM.png>
+
+<https://en.wikipedia.org/wiki/File:IgM.png>
+An immunoglobulin M <https://en.wikipedia.org/wiki/IgM> antibody
+<https://en.wikipedia.org/wiki/Antibody> molecule
+<https://en.wikipedia.org/wiki/Molecule>: Definitive diagnosis of WNV is
+obtained through detection of virus-specific IgM and neutralizing
+antibodies <https://en.wikipedia.org/wiki/Neutralizing_antibody>.
+
+Preliminary diagnosis is often based on the patient's clinical symptoms,
+places and dates of travel (if patient is from a nonendemic
+<https://en.wikipedia.org/wiki/Endemic> country or area), activities,
+and epidemiologic <https://en.wikipedia.org/wiki/Epidemiology> history
+of the location where infection occurred. A recent history of mosquito
+bites and an acute febrile illness associated with neurologic signs and
+symptoms should cause clinical suspicion of WNV.
+
+Diagnosis of West Nile virus infections is generally accomplished by
+serologic <https://en.wikipedia.org/wiki/Serology> testing of blood
+serum <https://en.wikipedia.org/wiki/Blood_serum> or cerebrospinal fluid
+<https://en.wikipedia.org/wiki/Cerebrospinal_fluid> (CSF), which is
+obtained via a lumbar puncture
+<https://en.wikipedia.org/wiki/Lumbar_puncture>. Initial screening could
+be done using the ELISA technique detecting immunoglobulins in the sera
+of the tested individuals.
+
+Typical findings of WNV infection include lymphocytic pleocytosis
+<https://en.wikipedia.org/wiki/Lymphocytic_pleocytosis>, elevated
+protein <https://en.wikipedia.org/wiki/Protein> level, reference glucose
+<https://en.wikipedia.org/wiki/Glucose> and lactic acid
+<https://en.wikipedia.org/wiki/Lactic_acid> levels, and no erythrocytes
+<https://en.wikipedia.org/wiki/Erythrocytes>.
+
+Definitive diagnosis of WNV is obtained through detection of
+virus-specific antibody <https://en.wikipedia.org/wiki/Antibody> IgM and
+neutralizing antibodies
+<https://en.wikipedia.org/wiki/Neutralizing_antibody>. Cases of West
+Nile virus meningitis and encephalitis that have been serologically
+confirmed produce similar degrees of CSF pleocytosis and are often
+associated with substantial CSF neutrophilia
+<https://en.wikipedia.org/wiki/Neutrophilia>.^[52] <#cite_note-52>
+Specimens collected within eight days following onset of illness may not
+test positive for West Nile IgM, and testing should be repeated. A
+positive test for West Nile IgG
+<https://en.wikipedia.org/wiki/Immunoglobulin_G> in the absence of a
+positive West Nile IgM is indicative of a previous flavavirus infection
+and is not by itself evidence of an acute West Nile virus
+infection.^[53] <#cite_note-53>
+
+If cases of suspected West Nile virus infection, sera should be
+collected on both the acute and convalescent phases of the illness.
+Convalescent specimens should be collected 2–3 weeks after acute specimens.
+
+It is common in serologic testing for cross-reactions
+<https://en.wikipedia.org/wiki/Cross-reactivity> to occur among
+flaviviruses such as dengue virus
+<https://en.wikipedia.org/wiki/Dengue_virus> (DENV) and tick-borne
+encephalitis virus
+<https://en.wikipedia.org/wiki/Tick-borne_encephalitis_virus>; this
+necessitates caution when evaluating serologic results of flaviviral
+infections.^[54] <#cite_note-54>
+
+Four FDA
+<https://en.wikipedia.org/wiki/Food_and_Drug_Administration>-cleared WNV
+IgM ELISA <https://en.wikipedia.org/wiki/ELISA> kits are commercially
+available from different manufacturers in the U.S., each of these kits
+is indicated for use on serum to aid in the presumptive laboratory
+diagnosis of WNV infection in patients with clinical symptoms of
+meningitis or encephalitis. Positive WNV test results obtained via use
+of these kits should be confirmed by additional testing at a state
+health department laboratory or CDC.
+
+In fatal cases, nucleic acid
+<https://en.wikipedia.org/wiki/Nucleic_acid> amplification,
+histopathology <https://en.wikipedia.org/wiki/Histopathology> with
+immunohistochemistry
+<https://en.wikipedia.org/wiki/Immunohistochemistry>, and virus culture
+of autopsy <https://en.wikipedia.org/wiki/Autopsy> tissues can also be
+useful. Only a few state laboratories or other specialized laboratories,
+including those at CDC, are capable of doing this specialized testing.
+
+
+      Differential diagnosis[edit
+      <https://en.wikipedia.org/w/index.php?title=West_Nile_fever&action=edit&section=8>]
+
+A number of various diseases may present with symptoms similar to those
+caused by a clinical West Nile virus infection. Those causing
+neuroinvasive disease symptoms include the enterovirus infection
+<https://en.wikipedia.org/wiki/Enteroviruses> and bacterial meningitis.
+Accounting for differential diagnoses
+<https://en.wikipedia.org/wiki/Differential_diagnoses> is a crucial step
+in the definitive diagnosis of WNV infection. Consideration of a
+differential diagnosis is required when a patient presents with
+unexplained febrile illness, extreme headache, encephalitis or
+meningitis. Diagnostic and serologic laboratory testing using polymerase
+chain reaction <https://en.wikipedia.org/wiki/Polymerase_chain_reaction>
+(PCR) testing and viral culture
+<https://en.wikipedia.org/wiki/Viral_culture> of CSF to identify the
+specific pathogen causing the symptoms, is the only currently available
+means of differentiating between causes of encephalitis and meningitis.
+
+
+    Prevention[edit
+    <https://en.wikipedia.org/w/index.php?title=West_Nile_fever&action=edit&section=9>]
+
+<https://en.wikipedia.org/wiki/File:Mosquito_Netting.jpg>
+
+<https://en.wikipedia.org/wiki/File:Mosquito_Netting.jpg>
+Low-cost, ceiling hung mosquito netting
+<https://en.wikipedia.org/wiki/Mosquito_netting> for a bed
+
+Personal protective measures can be taken to greatly reduce the risk of
+being bitten by an infected mosquito:
+
+  * Using insect repellent on exposed skin to repel mosquitoes.
+    EPA-registered
+    <https://en.wikipedia.org/wiki/Environmental_Protection_Agency>
+    repellents include products containing DEET
+    <https://en.wikipedia.org/wiki/DEET> (N,N-diethylmetatoluamide) and
+    picaridin <https://en.wikipedia.org/wiki/Picaridin> (KBR 3023). DEET
+    concentrations of 30% to 50% are effective for several hours.
+    Picaridin, available at 7% and 15% concentrations, needs more
+    frequent application. DEET formulations as high as 30% are
+    recommended for children over two months of age.^[55]
+    <#cite_note-55> Protect infants less than two months of age by using
+    a carrier draped with mosquito netting
+    <https://en.wikipedia.org/wiki/Mosquito_netting> with an elastic
+    edge for a tight fit.
+  * When using sunscreen <https://en.wikipedia.org/wiki/Sunscreen>,
+    apply sunscreen first and then repellent. Repellent should be washed
+    off at the end of the day before going to bed.
+  * Wear long-sleeve shirts, which should be tucked in, long pants,
+    socks, and hats to cover exposed skin. Insect repellents should be
+    applied over top of protective clothing for greater protection. Do
+    not apply insect repellents underneath clothing.
+  * The application of permethrin
+    <https://en.wikipedia.org/wiki/Permethrin>-containing (/e.g./,
+    Permanone) or other insect repellents to clothing, shoes, tents,
+    mosquito nets, and other gear for greater protection. Permethrin is
+    not labeled for use directly on skin. Most repellent is generally
+    removed from clothing and gear by a single washing, but
+    permethrin-treated clothing is effective for up to five washings.
+  * Be aware that most mosquitoes that transmit disease are most active
+    during twilight periods (dawn and dusk or in the evening). A notable
+    exception is the Asian tiger mosquito
+    <https://en.wikipedia.org/wiki/Asian_tiger_mosquito>, which is a
+    daytime feeder and is more apt to be found in, or on the periphery
+    of, shaded areas with heavy vegetation. They are now widespread in
+    the United States, and in Florida they have been found in all 67
+    counties.^[56] <#cite_note-A_albopictus-56>
+  * Staying in air-conditioned or well-screened
+    <https://en.wikipedia.org/wiki/Window_screen> housing, and/or
+    sleeping under an insecticide-treated bed net
+    <https://en.wikipedia.org/wiki/Mosquito_net>. Bed nets should be
+    tucked under mattresses and can be sprayed with a repellent if not
+    already treated with an insecticide.
+
+
+      Monitoring and control[edit
+      <https://en.wikipedia.org/w/index.php?title=West_Nile_fever&action=edit&section=10>]
+
+West Nile virus can be sampled from the environment by the pooling of
+trapped mosquitoes via ovitraps <https://en.wikipedia.org/wiki/Ovitrap>,
+carbon dioxide <https://en.wikipedia.org/wiki/Carbon_dioxide>-baited
+light traps, and gravid <https://en.wikipedia.org/wiki/Gravid> traps,
+testing blood samples drawn from wild birds, dogs, and sentinel monkeys,
+as well as testing brains of dead birds found by various animal control
+agencies and the public.
+
+Testing of the mosquito samples requires the use of
+reverse-transcriptase PCR (RT-PCR
+<https://en.wikipedia.org/wiki/RT-PCR>) to directly amplify and show the
+presence of virus in the submitted samples. When using the blood sera of
+wild birds and sentinel chickens, samples must be tested for the
+presence of WNV antibodies <https://en.wikipedia.org/wiki/Antibodies> by
+use of immunohistochemistry
+<https://en.wikipedia.org/wiki/Immunohistochemistry> (IHC)^[57]
+<#cite_note-57> or enzyme-linked immunosorbent assay
+<https://en.wikipedia.org/wiki/Enzyme-linked_immunosorbent_assay>
+(ELISA).^[58] <#cite_note-58>
+
+Dead birds, after necropsy <https://en.wikipedia.org/wiki/Necropsy>, or
+their oral swab samples collected on specific RNA-preserving filter
+paper card,^[59] <#cite_note-59> ^[60] <#cite_note-60> can have their
+virus presence tested by either RT-PCR or IHC, where virus shows up as
+brown-stained tissue because of a substrate-enzyme
+<https://en.wikipedia.org/wiki/Enzyme> reaction.
+
+West Nile control is achieved through mosquito control
+<https://en.wikipedia.org/wiki/Mosquito_control>, by elimination of
+mosquito breeding sites such as abandoned pools, applying larvacide
+<https://en.wikipedia.org/wiki/Larvacide> to active breeding areas, and
+targeting the adult population via lethal ovitraps
+<https://en.wikipedia.org/wiki/Lethal_ovitrap> and aerial spraying
+<https://en.wikipedia.org/wiki/Aerial_spraying> of pesticides
+<https://en.wikipedia.org/wiki/Pesticide>.
+
+Environmentalists <https://en.wikipedia.org/wiki/Environmentalist> have
+condemned attempts to control the transmitting mosquitoes by spraying
+pesticide, saying the detrimental health effects of spraying outweigh
+the relatively few lives that may be saved, and more environmentally
+friendly ways of controlling mosquitoes are available. They also
+question the effectiveness of insecticide spraying, as they believe
+mosquitoes that are resting or flying above the level of spraying will
+not be killed; the most common vector in the northeastern United States,
+/Culex pipiens/, is a canopy
+<https://en.wikipedia.org/wiki/Canopy_(forest)> feeder.
+
+  *
+    <https://en.wikipedia.org/wiki/File:CDC-LightTrap_200.jpg>
+
+    A carbon dioxide
+    <https://en.wikipedia.org/wiki/Carbon_dioxide>-baited CDC light trap
+    at NPSmonitoring
+    <https://en.wikipedia.org/wiki/National_Park_Service> site: The
+    highest individual light trap total for 2010 was from a trap located
+    in a salt marsh <https://en.wikipedia.org/wiki/Salt_marsh> in the
+    Fire Island National Seashore
+    <https://en.wikipedia.org/wiki/Fire_Island_National_Seashore>:
+    around 25,142 mosquitoes were collected during a 16-hour period on
+    August 31.^[61] <#cite_note-61>
+
+  *
+    <https://en.wikipedia.org/wiki/File:Culex_sp_larvae.png>
+
+    Eggs <https://en.wikipedia.org/wiki/Insect_egg> of permanent water
+    mosquitoes <https://en.wikipedia.org/wiki/Mosquito> can hatch, and
+    the larvae <https://en.wikipedia.org/wiki/Larvae> survive, in only a
+    few ounces of water. Less than half the amount that may collect in a
+    discarded coffee cup. Floodwater
+    <https://en.wikipedia.org/wiki/Flood> species lay their eggs on wet
+    soil or other moist surfaces. Hatch time is variable for both types;
+    under favorable circumstances (such as warm weather), the eggs of
+    some species may hatch in as few as 1–3 days after being laid
+    <https://en.wikipedia.org/wiki/Oviposition>.^[62] <#cite_note-62>
+
+  *
+    <https://en.wikipedia.org/wiki/File:Used_tires.jpg>
+
+    Used tires <https://en.wikipedia.org/wiki/Tires> often hold stagnant
+    water <https://en.wikipedia.org/wiki/Stagnant_water> and are a
+    breeding ground for many species
+    <https://en.wikipedia.org/wiki/Species> of mosquitoes. Some species
+    such as the Asian tiger mosquito
+    <https://en.wikipedia.org/wiki/Aedes_albopictus> prefer manmade
+    containers, such as tires, in which to lay their eggs. The rapid
+    spread of this aggressive daytime feeding species beyond their
+    native range <https://en.wikipedia.org/wiki/Invasive_species> has
+    been attributed to the used tire trade.^[56]
+    <#cite_note-A_albopictus-56> ^[63] <#cite_note-63>
+
+
+    Treatment[edit
+    <https://en.wikipedia.org/w/index.php?title=West_Nile_fever&action=edit&section=11>]
+
+Most people recover from West Nile virus without treatment. No specific
+treatment is available for WNV infection. In mild cases over the counter
+pain relievers can help ease mild headaches and muscle aches in adults.
+In severe cases treatment consists of supportive care that often
+involves hospitalization, intravenous fluids
+<https://en.wikipedia.org/wiki/Intravenous_fluids>, pain medication,
+respiratory support, and prevention of secondary infections.
+
+
+    Prognosis[edit
+    <https://en.wikipedia.org/w/index.php?title=West_Nile_fever&action=edit&section=12>]
+
+While the general prognosis is favorable, current studies indicate that
+West Nile Fever can often be more severe than previously recognized,
+with studies of various recent outbreaks indicating that it may take as
+long as 60–90 days to recover.^[7] <#cite_note-Carson06-7> ^[64]
+<#cite_note-64> People with milder WNF are just as likely as those with
+more severe manifestations of neuroinvasive disease to experience
+multiple long term (>1+ years) somatic
+<https://en.wikipedia.org/wiki/Somatic_nervous_system> complaints such
+as tremor, and dysfunction in motor skills
+<https://en.wikipedia.org/wiki/Motor_skill> and executive functions
+<https://en.wikipedia.org/wiki/Executive_functions>. People with milder
+illness are just as likely as people with more severe illness to
+experience adverse outcomes.^[65] <#cite_note-65> Recovery is marked by
+a long convalescence <https://en.wikipedia.org/wiki/Convalescence> with
+fatigue <https://en.wikipedia.org/wiki/Fatigue_(medical)>. One study
+found that neuroinvasive WNV infection was associated with an increased
+risk for subsequent kidney disease.^[66] <#cite_note-66> ^[67]
+<#cite_note-67>
+
+
+    Epidemiology[edit
+    <https://en.wikipedia.org/w/index.php?title=West_Nile_fever&action=edit&section=13>]
+
+<https://en.wikipedia.org/wiki/File:Global_distribution_of_West_Nile_virus-CDC.gif>
+
+
+<https://en.wikipedia.org/wiki/File:Global_distribution_of_West_Nile_virus-CDC.gif>
+Global distribution of West Nile virus (2006)
+See also: List of West Nile virus outbreaks
+<https://en.wikipedia.org/wiki/List_of_West_Nile_virus_outbreaks> and
+West Nile virus in the United States
+<https://en.wikipedia.org/wiki/West_Nile_virus_in_the_United_States>
+
+WNV was first isolated from a feverish 37-year-old woman at Omogo in the
+West Nile District <https://en.wikipedia.org/wiki/West_Nile_sub-region>
+of Uganda <https://en.wikipedia.org/wiki/Uganda> in 1937 during research
+on yellow fever virus
+<https://en.wikipedia.org/wiki/Yellow_fever_virus>.^[68] <#cite_note-68>
+A series of serosurveys <https://en.wikipedia.org/wiki/Serosurvey> in
+1939 in central Africa found anti-WNV positive results ranging from 1.4%
+(Congo) to 46.4% (White Nile region, Sudan). It was subsequently
+identified in Egypt <https://en.wikipedia.org/wiki/Egypt> (1942) and
+India (1953), a 1950 serosurvey in Egypt found 90% of those over 40
+years in age had WNV antibodies. The ecology was characterized in 1953
+with studies in Egypt <https://en.wikipedia.org/wiki/Egypt>^[69]
+<#cite_note-69> and Israel <https://en.wikipedia.org/wiki/Israel>.^[70]
+<#cite_note-70> The virus became recognized as a cause of severe human
+meningoencephalitis <https://en.wikipedia.org/wiki/Meningoencephalitis>
+in elderly patients during an outbreak in Israel in 1957. The disease
+was first noted in horses in Egypt and France in the early 1960s and
+found to be widespread in southern Europe, southwest Asia and Australia.
+
+The first appearance of WNV in the Western Hemisphere was in 1999^[71]
+<#cite_note-Nash01-71> with encephalitis reported in humans, dogs, cats,
+and horses, and the subsequent spread in the United States may be an
+important milestone in the evolving history of this virus. The American
+outbreak began in College Point, Queens
+<https://en.wikipedia.org/wiki/College_Point,_Queens> in New York City
+and was later spread to the neighboring states of New Jersey
+<https://en.wikipedia.org/wiki/New_Jersey> and Connecticut
+<https://en.wikipedia.org/wiki/Connecticut>. The virus is believed to
+have entered in an infected bird or mosquito, although there is no clear
+evidence.^[72] <#cite_note-72> West Nile virus is now endemic
+<https://en.wikipedia.org/wiki/Endemic> in Africa, Europe, the Middle
+East, west and central Asia, Oceania (subtype Kunjin
+<https://en.wikipedia.org/wiki/Kunjin_virus>), and most recently, North
+America and is spreading into Central and South America.
+
+Outbreaks of West Nile virus encephalitis in humans have occurred in
+Algeria <https://en.wikipedia.org/wiki/Algeria> (1994), Romania
+<https://en.wikipedia.org/wiki/Romania> (1996 to 1997), the Czech
+Republic (1997), Congo
+<https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo> (1998),
+Russia (1999), the United States (1999 to 2009), Canada (1999–2007),
+Israel (2000) and Greece (2010).
+
+Epizootics <https://en.wikipedia.org/wiki/Epizootic> of disease in
+horses occurred in Morocco <https://en.wikipedia.org/wiki/Morocco>
+(1996), Italy (1998), the United States (1999 to 2001), and France
+(2000), Mexico (2003) and Sardinia
+<https://en.wikipedia.org/wiki/Sardinia> (2011).
+
+Outdoor workers (including biological fieldworkers, construction
+workers, farmers, landscapers, and painters), healthcare personnel, and
+laboratory personnel who perform necropsies on animals are at risk of
+contracting WNV.^[73] <#cite_note-73>
+
+In 2012, the US experienced one of its worst epidemics
+<https://en.wikipedia.org/wiki/Epidemic> in which 286 people died, with
+the state of Texas being hard hit by this virus.^[74]
+<#cite_note-pmid24210089-74> ^[75] <#cite_note-75>
+
+
+    Research[edit
+    <https://en.wikipedia.org/w/index.php?title=West_Nile_fever&action=edit&section=14>]
+
+A vaccine for horses (ATCvet <https://en.wikipedia.org/wiki/ATCvet>
+code: QI05AA10 <https://en.wikipedia.org/wiki/ATC_code_I05> (WHO
+<https://www.whocc.no/atcvet/atcvet_index/?code=QI05AA10>)) based on
+killed viruses exists; some zoos <https://en.wikipedia.org/wiki/Zoo>
+have given this vaccine to their birds, although its effectiveness is
+unknown. Dogs and cats show few if any signs of infection. There have
+been no known cases of direct canine-human or feline-human transmission;
+although these pets can become infected, it is unlikely they are, in
+turn, capable of infecting native mosquitoes and thus continuing the
+disease cycle.^[76] <#cite_note-76> AMD3100
+<https://en.wikipedia.org/wiki/AMD3100>, which had been proposed as an
+antiretroviral drug for HIV, has shown promise against West Nile
+encephalitis. Morpholino <https://en.wikipedia.org/wiki/Morpholino>
+antisense oligos conjugated to cell penetrating peptides
+<https://en.wikipedia.org/wiki/Cell_penetrating_peptide> have been shown
+to partially protect mice from WNV disease.^[77] <#cite_note-77> There
+have also been attempts to treat infections using ribavirin
+<https://en.wikipedia.org/wiki/Ribavirin>, intravenous immunoglobulin
+<https://en.wikipedia.org/wiki/Immunoglobulin>, or alpha interferon
+<https://en.wikipedia.org/wiki/Alpha_interferon>.^[78] <#cite_note-78>
+GenoMed, a U.S. biotech company, has found that blocking angiotensin II
+can treat the "cytokine storm
+<https://en.wikipedia.org/wiki/Cytokine_storm>" of West Nile virus
+encephalitis as well as other viruses.^[79] <#cite_note-79>
+
+A vaccine called Chimerivax-WNV is being actively researched and has
+undergone phase II Clinical trials
+<https://en.wikipedia.org/wiki/Phases_of_clinical_research#Phase_II> in
+2011.^[80] <#cite_note-80> ^[81] <#cite_note-81> ^[/needs update
+<https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items>/]
+
+
+
+    References[edit
+    <https://en.wikipedia.org/w/index.php?title=West_Nile_fever&action=edit&section=15>]
+
+ 1. ^ Jump up to: ^/*a*/ <#cite_ref-CDC2017Q_1-0> ^/*b*/
+    <#cite_ref-CDC2017Q_1-1> ^/*c*/ <#cite_ref-CDC2017Q_1-2> ^/*d*/
+    <#cite_ref-CDC2017Q_1-3> ^/*e*/ <#cite_ref-CDC2017Q_1-4> ^/*f*/
+    <#cite_ref-CDC2017Q_1-5> ^/*g*/ <#cite_ref-CDC2017Q_1-6> ^/*h*/
+    <#cite_ref-CDC2017Q_1-7> ^/*i*/ <#cite_ref-CDC2017Q_1-8> ^/*j*/
+    <#cite_ref-CDC2017Q_1-9> ^/*k*/ <#cite_ref-CDC2017Q_1-10> ^/*l*/
+    <#cite_ref-CDC2017Q_1-11> ^/*m*/ <#cite_ref-CDC2017Q_1-12> ^/*n*/
+    <#cite_ref-CDC2017Q_1-13> ^/*o*/ <#cite_ref-CDC2017Q_1-14> ^/*p*/
+    <#cite_ref-CDC2017Q_1-15> ^/*q*/ <#cite_ref-CDC2017Q_1-16> ^/*r*/
+    <#cite_ref-CDC2017Q_1-17> ^/*s*/ <#cite_ref-CDC2017Q_1-18> ^/*t*/
+    <#cite_ref-CDC2017Q_1-19> ^/*u*/ <#cite_ref-CDC2017Q_1-20> ^/*v*/
+    <#cite_ref-CDC2017Q_1-21> ^/*w*/ <#cite_ref-CDC2017Q_1-22> ^/*x*/
+    <#cite_ref-CDC2017Q_1-23> ^/*y*/ <#cite_ref-CDC2017Q_1-24> ^/*z*/
+    <#cite_ref-CDC2017Q_1-25> ^/*aa*/ <#cite_ref-CDC2017Q_1-26> "General
+    Questions About West Nile Virus"
+    <https://www.cdc.gov/westnile/faq/genQuestions.html>. /www.cdc.gov/.
+    19 October 2017. Archived
+    <https://web.archive.org/web/20171026111330/https://www.cdc.gov/westnile/faq/genQuestions.html>
+    from the original on 26 October 2017. Retrieved 26 October 2017. 
+ 2. ^ Jump up to: ^/*a*/ <#cite_ref-WHO2011_2-0> ^/*b*/
+    <#cite_ref-WHO2011_2-1> ^/*c*/ <#cite_ref-WHO2011_2-2> ^/*d*/
+    <#cite_ref-WHO2011_2-3> ^/*e*/ <#cite_ref-WHO2011_2-4> ^/*f*/
+    <#cite_ref-WHO2011_2-5> "West Nile virus"
+    <http://www.who.int/mediacentre/factsheets/fs354/en/>. /World Health
+    Organization/. July 2011. Archived
+    <https://web.archive.org/web/20171018044431/http://www.who.int/mediacentre/factsheets/fs354/en/>
+    from the original on 18 October 2017. Retrieved 28 October 2017. 
+ 3. *Jump up ^ <#cite_ref-3>* "Final Cumulative Maps and Data | West
+    Nile Virus | CDC"
+    <https://www.cdc.gov/westnile/statsmaps/cumMapsData.html>.
+    /www.cdc.gov/. 24 October 2017. Archived
+    <https://web.archive.org/web/20171027180705/https://www.cdc.gov/westnile/statsmaps/cumMapsData.html>
+    from the original on 27 October 2017. Retrieved 28 October 2017. 
+ 4. *Jump up ^ <#cite_ref-4>* Olejnik E (1952). "Infectious adenitis
+    transmitted by /Culex molestus"./ Bull Res Counc Isr/. *2*: 210–1.// /
+ 5. ^ Jump up to: ^/*a*/ <#cite_ref-Davis2006_5-0> ^/*b*/
+    <#cite_ref-Davis2006_5-1> Davis LE, DeBiasi R, Goade DE, et al. (Sep
+    2006). "West Nile virus neuroinvasive disease". /Ann Neurol/. *60*
+    (3): 286–300. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1002/ana.20959
+    <https://doi.org/10.1002%2Fana.20959>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 16983682
+    <https://www.ncbi.nlm.nih.gov/pubmed/16983682>. 
+ 6. *Jump up ^ <#cite_ref-6>* Flores Anticona EM, Zainah H, Ouellette
+    DR, Johnson LE (2012). "Two case reports of neuroinvasive west nile
+    virus infection in the critical care unit"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3433121>. /Case Rep
+    Infect Dis/. *2012*: 839458. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1155/2012/839458
+    <https://doi.org/10.1155%2F2012%2F839458>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 3433121
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3433121> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 22966470
+    <https://www.ncbi.nlm.nih.gov/pubmed/22966470>. 
+ 7. ^ Jump up to: ^/*a*/ <#cite_ref-Carson06_7-0> ^/*b*/
+    <#cite_ref-Carson06_7-1> Carson PJ, Konewko P, Wold KS, et al.
+    (2006). "Long-term clinical and neuropsychological outcomes of West
+    Nile virus infection". /Clin. Infect. Dis/. *43* (6): 723–30. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1086/506939
+    <https://doi.org/10.1086%2F506939>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 16912946
+    <https://www.ncbi.nlm.nih.gov/pubmed/16912946>. 
+ 8. ^ Jump up to: ^/*a*/ <#cite_ref-Mojumder2014_8-0> ^/*b*/
+    <#cite_ref-Mojumder2014_8-1> ^/*c*/ <#cite_ref-Mojumder2014_8-2>
+    Mojumder, D. K., Agosto, M., Wilms, H.; et al. (March 2014). "Is
+    initial preservation of deep tendon reflexes in West Nile Virus
+    paralysis a good prognostic sign?"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4229851>. /Neurology
+    Asia/. *19* (1): 93–97. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 4229851
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4229851> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 25400704
+    <https://www.ncbi.nlm.nih.gov/pubmed/25400704>. CS1 maint: Multiple
+    names: authors list (link
+    <https://en.wikipedia.org/wiki/Category:CS1_maint:_Multiple_names:_authors_list>)
+ 9. *Jump up ^ <#cite_ref-9>* Asnis DS, Conetta R, Teixeira AA, Waldman
+    G, Sampson BA (March 2000). "The West Nile Virus outbreak of 1999 in
+    New York: the Flushing Hospital experience". /Clin. Infect. Dis/.
+    *30* (3): 413–8. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1086/313737
+    <https://doi.org/10.1086%2F313737>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 10722421
+    <https://www.ncbi.nlm.nih.gov/pubmed/10722421>. 
+10. *Jump up ^ <#cite_ref-10>* Montgomery SP, Chow CC, Smith SW, Marfin
+    AA, O'Leary DR, Campbell GL (2005). "Rhabdomyolysis in patients with
+    west nile encephalitis and meningitis". /Vector-Borne and Zoonotic
+    Diseases/. *5* (3): 252–7. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1089/vbz.2005.5.252
+    <https://doi.org/10.1089%2Fvbz.2005.5.252>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 16187894
+    <https://www.ncbi.nlm.nih.gov/pubmed/16187894>. 
+11. *Jump up ^ <#cite_ref-11>* Smith RD, Konoplev S, DeCourten-Myers G,
+    Brown T (February 2004). "West Nile virus encephalitis with myositis
+    and orchitis". /Hum. Pathol/. *35* (2): 254–8. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1016/j.humpath.2003.09.007
+    <https://doi.org/10.1016%2Fj.humpath.2003.09.007>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 14991545
+    <https://www.ncbi.nlm.nih.gov/pubmed/14991545>. 
+12. *Jump up ^ <#cite_ref-12>* Anninger WV, Lomeo MD, Dingle J, Epstein
+    AD, Lubow M (2003). "West Nile virus-associated optic neuritis and
+    chorioretinitis". /Am. J. Ophthalmol/. *136* (6): 1183–5. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1016/S0002-9394(03)00738-4
+    <https://doi.org/10.1016%2FS0002-9394%2803%2900738-4>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 14644244
+    <https://www.ncbi.nlm.nih.gov/pubmed/14644244>. 
+13. *Jump up ^ <#cite_ref-13>* Paddock CD, Nicholson WL, Bhatnagar J, et
+    al. (June 2006). "Fatal hemorrhagic fever caused by West Nile virus
+    in the United States". /Clin. Infect. Dis/. *42* (11): 1527–35. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1086/503841
+    <https://doi.org/10.1086%2F503841>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 16652309
+    <https://www.ncbi.nlm.nih.gov/pubmed/16652309>. 
+14. *Jump up ^ <#cite_ref-14>* Shaikh S, Trese MT (2004). "West Nile
+    virus chorioretinitis"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1772450>. /Br J
+    Ophthalmol/. *88* (12): 1599–60. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1136/bjo.2004.049460
+    <https://doi.org/10.1136%2Fbjo.2004.049460>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 1772450
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1772450> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 15548822
+    <https://www.ncbi.nlm.nih.gov/pubmed/15548822>. 
+15. *Jump up ^ <#cite_ref-15>* Anderson RC, Horn KB, Hoang MP, Gottlieb
+    E, Bennin B (November 2004). "Punctate exanthem of West Nile Virus
+    infection: report of 3 cases". /J. Am. Acad. Dermatol/. *51* (5):
+    820–3. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1016/j.jaad.2004.05.031
+    <https://doi.org/10.1016%2Fj.jaad.2004.05.031>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 15523368
+    <https://www.ncbi.nlm.nih.gov/pubmed/15523368>. 
+16. *Jump up ^ <#cite_ref-16>* Lanciotti RS, Ebel GD, Deubel V, et al.
+    (June 2002). "Complete genome sequences and phylogenetic analysis of
+    West Nile virus strains isolated from the United States, Europe, and
+    the Middle East". /Virology/. *298* (1): 96–105. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1006/viro.2002.1449
+    <https://doi.org/10.1006%2Fviro.2002.1449>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 12093177
+    <https://www.ncbi.nlm.nih.gov/pubmed/12093177>. 
+17. *Jump up ^ <#cite_ref-17>* Galli M, Bernini F, Zehender G (July
+    2004). "Alexander the Great and West Nile virus encephalitis".
+    /Emerging Infect. Dis/. *10* (7): 1330–2; author reply 1332–3. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.3201/eid1007.040396
+    <https://doi.org/10.3201%2Feid1007.040396>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 15338540
+    <https://www.ncbi.nlm.nih.gov/pubmed/15338540>. 
+18. *Jump up ^ <#cite_ref-18>* West, Christy (2010-02-08). "Different
+    West Nile Virus Genetic Lineage Evolving?"
+    <http://www.thehorse.com/ViewArticle.aspx?ID=15779>. /The Horse/.
+    Archived
+    <https://web.archive.org/web/20100217033448/http://www.thehorse.com/ViewArticle.aspx?ID=15779>
+    from the original on 2010-02-17. Retrieved 2010-02-10.  From
+    statements by Orsolya Kutasi, DVM, of the Szent Istvan University,
+    Hungary at the 2009 American Association of Equine Practitioners
+    Convention, December 5–9, 2009.
+19. *Jump up ^ <#cite_ref-19>* Venter M, Human S, van Niekerk S,
+    Williams J, van Eeden C, Freeman F (August 2011). "Fatal neurologic
+    disease and abortion in mare infected with lineage 1 West Nile
+    virus, South Africa"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3381566>. /Emerging
+    Infect. Dis/. *17* (8): 1534–6. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.3201/eid1708.101794
+    <https://doi.org/10.3201%2Feid1708.101794>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 3381566
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3381566> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 21801644
+    <https://www.ncbi.nlm.nih.gov/pubmed/21801644>. 
+20. *Jump up ^ <#cite_ref-20>* St Leger J, Wu G, Anderson M, Dalton L,
+    Nilson E, Wang D (2011). "West Nile virus infection in killer whale,
+    Texas, USA, 2007"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3381582>. /Emerging
+    Infect. Dis/. *17* (8): 1531–3. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.3201/eid1708.101979
+    <https://doi.org/10.3201%2Feid1708.101979>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 3381582
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3381582> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 21801643
+    <https://www.ncbi.nlm.nih.gov/pubmed/21801643>. 
+21. *Jump up ^ <#cite_ref-21>* Hogan, C. Michael (2008). Barbary
+    Macaque: Macaca sylvanus, GlobalTwitcher.com
+    <http://globaltwitcher.auderis.se/artspec_information.asp?thingid=31757>
+    Archived
+    <https://web.archive.org/web/20090831095518/http://globaltwitcher.auderis.se/artspec_information.asp?thingid=31757>
+    2009-08-31 at the Wayback Machine
+    <https://en.wikipedia.org/wiki/Wayback_Machine>.
+22. *Jump up ^ <#cite_ref-RijksCito2016_22-0>* Rijks, J.M.; Cito, F.;
+    Cunningham, A.A.; Rantsios, A.T.; Giovannini, A. (2016). "Disease
+    Risk Assessments Involving Companion Animals: an Overview for 15
+    Selected Pathogens Taking a European Perspective". /Journal of
+    Comparative Pathology/. *155* (1): S75–S97. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1016/j.jcpa.2015.08.003
+    <https://doi.org/10.1016%2Fj.jcpa.2015.08.003>. ISSN
+    <https://en.wikipedia.org/wiki/International_Standard_Serial_Number> 0021-9975
+    <https://www.worldcat.org/issn/0021-9975>. 
+23. *Jump up ^ <#cite_ref-23>* Hayes EB, Komar N, Nasci RS, Montgomery
+    SP, O'Leary DR, Campbell GL (2005). "Epidemiology and transmission
+    dynamics of West Nile virus disease"
+    <https://www.cdc.gov/ncidod/EID/vol11no08/05-0289a.htm>. /Emerging
+    Infect. Dis/. *11* (8): 1167–73. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.3201/eid1108.050289a
+    <https://doi.org/10.3201%2Feid1108.050289a>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 3320478
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3320478> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 16102302
+    <https://www.ncbi.nlm.nih.gov/pubmed/16102302>. Archived
+    <https://web.archive.org/web/20110729130816/http://www.cdc.gov/ncidod/EID/vol11no08/05-0289a.htm>
+    from the original on 2011-07-29. 
+24. ^ Jump up to: ^/*a*/ <#cite_ref-Kilpatrick_2011_24-0> ^/*b*/
+    <#cite_ref-Kilpatrick_2011_24-1> Kilpatrick, A.M. (2011).
+    "Globalization, land use, and the invasion of West Nile virus"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3346291>. /Science/.
+    *334* (6054): 323–327. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1126/science.1201010
+    <https://doi.org/10.1126%2Fscience.1201010>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 3346291
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3346291> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 22021850
+    <https://www.ncbi.nlm.nih.gov/pubmed/22021850>. 
+25. ^ Jump up to: ^/*a*/ <#cite_ref-Kilpatrick_2006A_25-0> ^/*b*/
+    <#cite_ref-Kilpatrick_2006A_25-1> Kilpatrick, AM, P Daszak, MJ
+    Jones, PP Marra, LD Kramer (2006). "Host heterogeneity dominates
+    West Nile virus transmission"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1636093>. /Proceedings
+    of the Royal Society B: Biological Sciences/. *273* (1599):
+    2327–2333. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1098/rspb.2006.3575
+    <https://doi.org/10.1098%2Frspb.2006.3575>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 1636093
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1636093> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 16928635
+    <https://www.ncbi.nlm.nih.gov/pubmed/16928635>. CS1 maint: Multiple
+    names: authors list (link
+    <https://en.wikipedia.org/wiki/Category:CS1_maint:_Multiple_names:_authors_list>)
+26. ^ Jump up to: ^/*a*/ <#cite_ref-Kilpatrick_2007_26-0> ^/*b*/
+    <#cite_ref-Kilpatrick_2007_26-1> Kilpatrick, AM, SL LaDeau, PP Marra
+    (2007). "Ecology of West Nile virus transmission and its impact on
+    birds in the western hemisphere". /Auk/. *124* (4): 1121–1136. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1642/0004-8038(2007)124[1121:eownvt]2.0.co;2
+    <https://doi.org/10.1642%2F0004-8038%282007%29124%5B1121%3Aeownvt%5D2.0.co%3B2>. CS1
+    maint: Multiple names: authors list (link
+    <https://en.wikipedia.org/wiki/Category:CS1_maint:_Multiple_names:_authors_list>)
+27. *Jump up ^ <#cite_ref-Komar_2003_27-0>* Komar, N, S Langevin, S
+    Hinten, N Nemeth, E Edwards, D Hettler, B Davis, R Bowen, M Bunning
+    (2003). "Experimental infection of North American birds with the New
+    York 1999 strain of West Nile virus"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2958552>. /Emerging
+    Infectious Diseases/. *9* (3): 311–322. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.3201/eid0903.020628
+    <https://doi.org/10.3201%2Feid0903.020628>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 2958552
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2958552> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 12643825
+    <https://www.ncbi.nlm.nih.gov/pubmed/12643825>. CS1 maint: Multiple
+    names: authors list (link
+    <https://en.wikipedia.org/wiki/Category:CS1_maint:_Multiple_names:_authors_list>)
+28. *Jump up ^ <#cite_ref-28>* Centers for Disease Control and
+    Prevention (CDC) (2002). "Laboratory-acquired West Nile virus
+    infections—United States, 2002". /MMWR Morb. Mortal. Wkly. Rep/.
+    *51* (50): 1133–5. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 12537288
+    <https://www.ncbi.nlm.nih.gov/pubmed/12537288>. 
+29. *Jump up ^ <#cite_ref-29>* Fonseca K, Prince GD, Bratvold J, et al.
+    (2005). "West Nile virus infection and conjunctive exposure"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3366727>. /Emerging
+    Infect. Dis/. *11* (10): 1648–9. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.3201/eid1110.040212
+    <https://doi.org/10.3201%2Feid1110.040212>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 3366727
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3366727> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 16355512
+    <https://www.ncbi.nlm.nih.gov/pubmed/16355512>. 
+30. *Jump up ^ <#cite_ref-30>* Centers for Disease Control and
+    Prevention (CDC) (2002). "Investigation of blood transfusion
+    recipients with West Nile virus infections". /MMWR Morb. Mortal.
+    Wkly. Rep/. *51* (36): 823. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 12269472
+    <https://www.ncbi.nlm.nih.gov/pubmed/12269472>. 
+31. *Jump up ^ <#cite_ref-31>* Centers for Disease Control and
+    Prevention (CDC) (2002). "West Nile virus infection in organ donor
+    and transplant recipients—Georgia and Florida, 2002". /MMWR Morb.
+    Mortal. Wkly. Rep/. *51* (35): 790. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 12227442
+    <https://www.ncbi.nlm.nih.gov/pubmed/12227442>. 
+32. *Jump up ^ <#cite_ref-32>* Centers for Disease Control and
+    Prevention (CDC) (2002). "Intrauterine West Nile virus infection—New
+    York, 2002". /MMWR Morb. Mortal. Wkly. Rep/. *51* (50): 1135–6. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 12537289
+    <https://www.ncbi.nlm.nih.gov/pubmed/12537289>. 
+33. *Jump up ^ <#cite_ref-33>* Centers for Disease Control and
+    Prevention (CDC) (2002). "Possible West Nile virus transmission to
+    an infant through breast-feeding—Michigan, 2002". /MMWR Morb.
+    Mortal. Wkly. Rep/. *51* (39): 877–8. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 12375687
+    <https://www.ncbi.nlm.nih.gov/pubmed/12375687>. 
+34. *Jump up ^ <#cite_ref-34>* Centers for Disease Control and
+    Prevention (CDC) (2003). "Detection of West Nile virus in blood
+    donations—United States, 2003"
+    <https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5232a3.htm>. /MMWR
+    Morb. Mortal. Wkly. Rep/. *52* (32): 769–72. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 12917583
+    <https://www.ncbi.nlm.nih.gov/pubmed/12917583>. Archived
+    <https://web.archive.org/web/20170625121109/https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5232a3.htm>
+    from the original on 2017-06-25. 
+35. *Jump up ^ <#cite_ref-35>* West Nile Virus
+    <https://web.archive.org/web/20080820072151/http://www.scotblood.co.uk/westNile.asp>.
+    Scottish National Blood Transfusion Service.
+36. *Jump up ^ <#cite_ref-Mayo_Clinic_36-0>* "West Nile virus"
+    <https://www.mayoclinic.org/diseases-conditions/west-nile-virus/symptoms-causes/syc-20350320>.
+    /Mayo Clinic/. Archived
+    <https://web.archive.org/web/20171026001453/https://www.mayoclinic.org/diseases-conditions/west-nile-virus/symptoms-causes/syc-20350320>
+    from the original on 26 October 2017. Retrieved 25 October 2017. 
+37. ^ Jump up to: ^/*a*/ <#cite_ref-pmid18000543_37-0> ^/*b*/
+    <#cite_ref-pmid18000543_37-1> Schneider BS, McGee CE, Jordan JM,
+    Stevenson HL, Soong L, Higgs S (2007). Baylis, Matthew, ed. "Prior
+    exposure to uninfected mosquitoes enhances mortality in
+    naturally-transmitted West Nile virus infection"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2048662>. /PLoS ONE/.
+    *2* (11): e1171. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1371/journal.pone.0001171
+    <https://doi.org/10.1371%2Fjournal.pone.0001171>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 2048662
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2048662> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 18000543
+    <https://www.ncbi.nlm.nih.gov/pubmed/18000543>. CS1 maint: Multiple
+    names: authors list (link
+    <https://en.wikipedia.org/wiki/Category:CS1_maint:_Multiple_names:_authors_list>)
+38. ^ Jump up to: ^/*a*/ <#cite_ref-pmid16896145_38-0> ^/*b*/
+    <#cite_ref-pmid16896145_38-1> Styer LM, Bernard KA, Kramer LD
+    (2006). "Enhanced early West Nile virus infection in young chickens
+    infected by mosquito bite: effect of viral dose". /Am. J. Trop. Med.
+    Hyg/. *75* (2): 337–45. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 16896145
+    <https://www.ncbi.nlm.nih.gov/pubmed/16896145>. 
+39. ^ Jump up to: ^/*a*/ <#cite_ref-pmid16553552_39-0> ^/*b*/
+    <#cite_ref-pmid16553552_39-1> Schneider BS, Soong L, Girard YA,
+    Campbell G, Mason P, Higgs S (2006). "Potentiation of West Nile
+    encephalitis by mosquito feeding". /Viral Immunol/. *19* (1): 74–82.
+    doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1089/vim.2006.19.74
+    <https://doi.org/10.1089%2Fvim.2006.19.74>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 16553552
+    <https://www.ncbi.nlm.nih.gov/pubmed/16553552>. 
+40. *Jump up ^ <#cite_ref-pmid15541033_40-0>* Wasserman HA, Singh S,
+    Champagne DE (2004). "Saliva of the Yellow Fever mosquito, /Aedes
+    aegypti/, modulates murine lymphocyte function". /Parasite Immunol/.
+    *26* (6–7): 295–306. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1111/j.0141-9838.2004.00712.x
+    <https://doi.org/10.1111%2Fj.0141-9838.2004.00712.x>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 15541033
+    <https://www.ncbi.nlm.nih.gov/pubmed/15541033>. 
+41. *Jump up ^ <#cite_ref-pmid12693849_41-0>* Limesand KH, Higgs S,
+    Pearson LD, Beaty BJ (2003). "Effect of mosquito salivary gland
+    treatment on vesicular stomatitis New Jersey virus replication and
+    interferon alpha/beta expression in vitro". /J. Med. Entomol/. *40*
+    (2): 199–205. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1603/0022-2585-40.2.199
+    <https://doi.org/10.1603%2F0022-2585-40.2.199>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 12693849
+    <https://www.ncbi.nlm.nih.gov/pubmed/12693849>. 
+42. *Jump up ^ <#cite_ref-pmid15189245_42-0>* Wanasen N, Nussenzveig RH,
+    Champagne DE, Soong L, Higgs S (2004). "Differential modulation of
+    murine host immune response by salivary gland extracts from the
+    mosquitoes /Aedes aegypti/ and /Culex quinquefasciatus/". /Med. Vet.
+    Entomol/. *18* (2): 191–9. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1111/j.1365-2915.2004.00498.x
+    <https://doi.org/10.1111%2Fj.1365-2915.2004.00498.x>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 15189245
+    <https://www.ncbi.nlm.nih.gov/pubmed/15189245>. 
+43. *Jump up ^ <#cite_ref-pmid10081770_43-0>* Zeidner NS, Higgs S, Happ
+    CM, Beaty BJ, Miller BR (1999). "Mosquito feeding modulates Th1 and
+    Th2 cytokines in flavivirus susceptible mice: an effect mimicked by
+    injection of sialokinins, but not demonstrated in flavivirus
+    resistant mice". /Parasite Immunol/. *21* (1): 35–44. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1046/j.1365-3024.1999.00199.x
+    <https://doi.org/10.1046%2Fj.1365-3024.1999.00199.x>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 10081770
+    <https://www.ncbi.nlm.nih.gov/pubmed/10081770>. 
+44. *Jump up ^ <#cite_ref-pmid15671753_44-0>* Schneider BS, Soong L,
+    Zeidner NS, Higgs S (2004). "/Aedes aegypti/ salivary gland extracts
+    modulate anti-viral and TH1/TH2 cytokine responses to sindbis virus
+    infection". /Viral Immunol/. *17* (4): 565–73. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1089/vim.2004.17.565
+    <https://doi.org/10.1089%2Fvim.2004.17.565>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 15671753
+    <https://www.ncbi.nlm.nih.gov/pubmed/15671753>. 
+45. *Jump up ^ <#cite_ref-45>* Bugbee, LM; Forte LR (September 2004).
+    "The discovery of West Nile virus in overwintering /Culex pipiens/
+    (Diptera: Culicidae) mosquitoes in Lehigh County, Pennsylvania".
+    /Journal of the American Mosquito Control Association/. *20* (3):
+    326–7. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 15532939
+    <https://www.ncbi.nlm.nih.gov/pubmed/15532939>. 
+46. *Jump up ^ <#cite_ref-46>* Goddard LB, Roth AE, Reisen WK, Scott TW
+    (November 2003). "Vertical transmission of West Nile Virus by three
+    California Culex (Diptera: Culicidae) species". /J. Med. Entomol/.
+    *40* (6): 743–6. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1603/0022-2585-40.6.743
+    <https://doi.org/10.1603%2F0022-2585-40.6.743>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 14765647
+    <https://www.ncbi.nlm.nih.gov/pubmed/14765647>. 
+47. *Jump up ^ <#cite_ref-47>* Kumar D, Drebot MA, Wong SJ, et al.
+    (2004). "A seroprevalence study of West Nile virus infection in
+    solid organ transplant recipients". /Am. J. Transplant/. *4* (11):
+    1883–8. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1111/j.1600-6143.2004.00592.x
+    <https://doi.org/10.1111%2Fj.1600-6143.2004.00592.x>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 15476490
+    <https://www.ncbi.nlm.nih.gov/pubmed/15476490>. 
+48. *Jump up ^ <#cite_ref-48>* Jean CM, Honarmand S, Louie JK, Glaser CA
+    (December 2007). "Risk factors for West Nile virus neuroinvasive
+    disease, California, 2005"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2876738>. /Emerging
+    Infect. Dis/. *13* (12): 1918–20. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.3201/eid1312.061265
+    <https://doi.org/10.3201%2Feid1312.061265>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 2876738
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2876738> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 18258047
+    <https://www.ncbi.nlm.nih.gov/pubmed/18258047>. 
+49. *Jump up ^ <#cite_ref-49>* Kumar D, Drebot MA, Wong SJ, et al.
+    (2004). "A seroprevalence study of west nile virus infection in
+    solid organ transplant recipients". /Am. J. Transplant/. *4* (11):
+    1883–8. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1111/j.1600-6143.2004.00592.x
+    <https://doi.org/10.1111%2Fj.1600-6143.2004.00592.x>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 15476490
+    <https://www.ncbi.nlm.nih.gov/pubmed/15476490>. 
+50. *Jump up ^ <#cite_ref-50>* Glass, WG; Lim JK; Cholera R; Pletnev AG;
+    Gao JL; Murphy PM (October 17, 2005). "Chemokine receptor CCR5
+    promotes leukocyte trafficking to the brain and survival in West
+    Nile virus infection"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2213214>. /Journal of
+    Experimental Medicine/. *202* (8): 1087–98. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1084/jem.20042530
+    <https://doi.org/10.1084%2Fjem.20042530>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 2213214
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2213214> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 16230476
+    <https://www.ncbi.nlm.nih.gov/pubmed/16230476>. 
+51. *Jump up ^ <#cite_ref-51>* Glass, WG; McDermott DH; Lim JK; Lekhong
+    S; Yu SF; Frank WA; Pape J; Cheshier RC; Murphy PM (January 23,
+    2006). "CCR5 deficiency increases risk of symptomatic West Nile
+    virus infection"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2118086>. /Journal of
+    Experimental Medicine/. *203* (1): 35–40. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1084/jem.20051970
+    <https://doi.org/10.1084%2Fjem.20051970>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 2118086
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2118086> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 16418398
+    <https://www.ncbi.nlm.nih.gov/pubmed/16418398>. 
+52. *Jump up ^ <#cite_ref-52>* Tyler KL, Pape J, Goody RJ, Corkill M,
+    Kleinschmidt-DeMasters BK (February 2006). "CSF findings in 250
+    patients with serologically confirmed West Nile virus meningitis and
+    encephalitis". /Neurology/. *66* (3): 361–5. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1212/01.wnl.0000195890.70898.1f
+    <https://doi.org/10.1212%2F01.wnl.0000195890.70898.1f>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 16382032
+    <https://www.ncbi.nlm.nih.gov/pubmed/16382032>. 
+53. *Jump up ^ <#cite_ref-53>* "2012 DOHMH Advisory #8: West Nile Virus"
+    <http://www.nyc.gov/html/doh/downloads/pdf/cd/2012/12md08.pdf>
+    (PDF). New York City Department of Health and Mental Hygiene. June
+    28, 2012. Archived
+    <https://web.archive.org/web/20131203000040/http://www.nyc.gov/html/doh/downloads/pdf/cd/2012/12md08.pdf>
+    (PDF) from the original on December 3, 2013. 
+54. *Jump up ^ <#cite_ref-54>* Papa A, Karabaxoglou D, Kansouzidou A
+    (October 2011). "Acute West Nile virus neuroinvasive infections:
+    cross-reactivity with dengue virus and tick-borne encephalitis
+    virus". /J. Med. Virol/. *83* (10): 1861–5. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1002/jmv.22180
+    <https://doi.org/10.1002%2Fjmv.22180>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 21837806
+    <https://www.ncbi.nlm.nih.gov/pubmed/21837806>. 
+55. *Jump up ^ <#cite_ref-55>* American Academy of Pediatrics (8 August
+    2012). "Choosing an Insect Repellent for Your Child"
+    <https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Insect-Repellents.aspx>.
+    /healthychildren.org/. Archived
+    <https://web.archive.org/web/20160827225733/https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Insect-Repellents.aspx>
+    from the original on 27 August 2016. Retrieved 24 August 2016. 
+56. ^ Jump up to: ^/*a*/ <#cite_ref-A_albopictus_56-0> ^/*b*/
+    <#cite_ref-A_albopictus_56-1> Rios L, Maruniak JE (October 2011).
+    "Asian Tiger Mosquito, /Aedes albopictus/ (Skuse) (Insecta: Diptera:
+    Culicidae)" <http://edis.ifas.ufl.edu/in594>. Department of
+    Entomology and Nematology, University of Florida. EENY-319. Archived
+    <https://web.archive.org/web/20120926113428/http://edis.ifas.ufl.edu/in594>
+    from the original on 2012-09-26. 
+57. *Jump up ^ <#cite_ref-57>* Jozan, M; Evans R; McLean R; Hall R;
+    Tangredi B; Reed L; Scott J (Fall 2003). "Detection of West Nile
+    virus infection in birds in the United States by blocking ELISA and
+    immunohistochemistry". /Vector-Borne and Zoonotic Diseases/. *3*
+    (3): 99–110. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1089/153036603768395799
+    <https://doi.org/10.1089%2F153036603768395799>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 14511579
+    <https://www.ncbi.nlm.nih.gov/pubmed/14511579>. 
+58. *Jump up ^ <#cite_ref-58>* Hall, RA; Broom AK; Hartnett AC; Howard
+    MJ; Mackenzie JS (February 1995). "Immunodominant epitopes on the
+    NS1 protein of MVE and KUN viruses serve as targets for a blocking
+    ELISA to detect virus-specific antibodies in sentinel animal serum".
+    /Journal of Virological Methods/. *51* (2–3): 201–10. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1016/0166-0934(94)00105-P
+    <https://doi.org/10.1016%2F0166-0934%2894%2900105-P>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 7738140
+    <https://www.ncbi.nlm.nih.gov/pubmed/7738140>. 
+59. *Jump up ^ <#cite_ref-59>* California Department of Public Health
+    Tutorial for Local Agencies to Safely Collect Dead Birds Oral Swab
+    Samples on RNAse Cards for West Nile Virus Testing
+    <http://www.westnile.ca.gov/downloads.php?download_id=2949&filename=RNAse_tutorial.pdf>
+    Archived
+    <https://web.archive.org/web/20140709075706/http://westnile.ca.gov/downloads.php?download_id=2949&filename=RNAse_tutorial.pdf>
+    2014-07-09 at the Wayback Machine
+    <https://en.wikipedia.org/wiki/Wayback_Machine>.
+60. *Jump up ^ <#cite_ref-60>* RNA virus preserving filter paper card
+    <http://www.fortiusbio.com/RNA_Sampling_Card.html> Archived
+    <https://web.archive.org/web/20160110095447/http://fortiusbio.com/RNA_Sampling_Card.html>
+    2016-01-10 at the Wayback Machine
+    <https://en.wikipedia.org/wiki/Wayback_Machine>.. fortiusbio.com
+61. *Jump up ^ <#cite_ref-61>* "Mosquito Monitoring and Management"
+    <http://www.nps.gov/fiis/parkmgmt/mosquito-management.htm>. National
+    Park Service. Archived
+    <https://web.archive.org/web/20130415112435/http://www.nps.gov/fiis/parkmgmt/mosquito-management.htm>
+    from the original on 2013-04-15. 
+62. *Jump up ^ <#cite_ref-62>* Oklahoma State University
+    <https://en.wikipedia.org/wiki/Oklahoma_State_University>:
+    Mosquitoes and West Nile virus
+63. *Jump up ^ <#cite_ref-63>* Benedict MQ, Levine RS, Hawley WA,
+    Lounibos LP (2007). "Spread of the tiger: global risk of invasion by
+    the mosquito /Aedes albopictus/"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2212601>.
+    /Vector-Borne and Zoonotic Diseases/. *7* (1): 76–85. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1089/vbz.2006.0562
+    <https://doi.org/10.1089%2Fvbz.2006.0562>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 2212601
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2212601> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 17417960
+    <https://www.ncbi.nlm.nih.gov/pubmed/17417960>. 
+64. *Jump up ^ <#cite_ref-64>* Watson JT, Pertel PE, Jones RC, et al.
+    (September 2004). "Clinical characteristics and functional outcomes
+    of West Nile Fever"
+    <http://www.annals.org/article.aspx?volume=141&page=360>. /Ann.
+    Intern. Med/. *141* (5): 360–5. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.7326/0003-4819-141-5-200409070-00010
+    <https://doi.org/10.7326%2F0003-4819-141-5-200409070-00010>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 15353427
+    <https://www.ncbi.nlm.nih.gov/pubmed/15353427>. 
+65. *Jump up ^ <#cite_ref-65>* Klee AL, Maidin B, Edwin B, et al. (Aug
+    2004). "Long-term prognosis for clinical West Nile virus infection"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3320418>. /Emerg
+    Infect Dis/. *10* (8): 1405–11. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.3201/eid1008.030879
+    <https://doi.org/10.3201%2Feid1008.030879>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 3320418
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3320418> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 15496241
+    <https://www.ncbi.nlm.nih.gov/pubmed/15496241>. 
+66. *Jump up ^ <#cite_ref-66>* Nolan MS, Podoll AS, Hause AM, Akers KM,
+    Finkel KW, Murray KO (2012). Wang, Tian, ed. "Prevalence of chronic
+    kidney disease and progression of disease over time among patients
+    enrolled in the Houston West Nile virus cohort"
+    <http://dx.plos.org/10.1371/journal.pone.0040374>. /PLoS ONE/. *7*
+    (7): e40374. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1371/journal.pone.0040374
+    <https://doi.org/10.1371%2Fjournal.pone.0040374>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 3391259
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3391259> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 22792293
+    <https://www.ncbi.nlm.nih.gov/pubmed/22792293>. CS1 maint: Multiple
+    names: authors list (link
+    <https://en.wikipedia.org/wiki/Category:CS1_maint:_Multiple_names:_authors_list>)
+67. *Jump up ^ <#cite_ref-67>* "New Study Reveals: West Nile virus is
+    far more menacing & harms far more people"
+    <http://guardianlv.com/2012/08/new-study-reveals-west-nile-virus-is-far-more-menacing-harms-far-more-people/>.
+    /The Guardian Express/. The Guardian Express. 26 August 2012.
+    Archived
+    <https://web.archive.org/web/20121006012354/http://guardianlv.com/2012/08/new-study-reveals-west-nile-virus-is-far-more-menacing-harms-far-more-people/>
+    from the original on 6 October 2012. Retrieved 26 August 2012. 
+68. *Jump up ^ <#cite_ref-68>* Smithburn KC, Hughes TP, Burke AW, Paul
+    JH (June 1940). "A Neurotropic Virus Isolated from the Blood of a
+    Native of Uganda". /Am. J. Trop. Med/. *20* (1): 471–92. 
+69. *Jump up ^ <#cite_ref-69>* Work TH, Hurlbut HS, Taylor RM (1953).
+    "Isolation of West Nile virus from hooded crow and rock pigeon in
+    the Nile delta". /Proc. Soc. Exp. Biol. Med/. *84* (3): 719–22. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.3181/00379727-84-20764
+    <https://doi.org/10.3181%2F00379727-84-20764>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 13134268
+    <https://www.ncbi.nlm.nih.gov/pubmed/13134268>. 
+70. *Jump up ^ <#cite_ref-70>* Bernkopf H, Levine S, Nerson R (1953).
+    "Isolation of West Nile virus in Israel". /J. Infect. Dis/. *93*
+    (3): 207–18. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1093/infdis/93.3.207
+    <https://doi.org/10.1093%2Finfdis%2F93.3.207>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 13109233
+    <https://www.ncbi.nlm.nih.gov/pubmed/13109233>. 
+71. *Jump up ^ <#cite_ref-Nash01_71-0>* Nash D, Mostashari F, Fine A, et
+    al. (June 2001). "The outbreak of West Nile virus infection in the
+    New York City area in 1999". /N. Engl. J. Med/. *344* (24): 1807–14.
+    doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1056/NEJM200106143442401
+    <https://doi.org/10.1056%2FNEJM200106143442401>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 11407341
+    <https://www.ncbi.nlm.nih.gov/pubmed/11407341>. 
+72. *Jump up ^ <#cite_ref-72>* Calisher CH (2000). "West Nile virus in
+    the New World: appearance, persistence, and adaptation to a new
+    econiche—an opportunity taken". /Viral Immunol/. *13* (4): 411–4.
+    doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1089/vim.2000.13.411
+    <https://doi.org/10.1089%2Fvim.2000.13.411>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 11192287
+    <https://www.ncbi.nlm.nih.gov/pubmed/11192287>. 
+73. *Jump up ^ <#cite_ref-73>* "West Nile virus"
+    <https://www.cdc.gov/niosh/topics/westnile/>. NIOSH. August 27,
+    2012. Archived
+    <https://web.archive.org/web/20170729073111/https://www.cdc.gov/niosh/topics/westnile/>
+    from the original on July 29, 2017. 
+74. *Jump up ^ <#cite_ref-pmid24210089_74-0>* Murray KO, Ruktanonchai D,
+    Hesalroad D, Fonken E, Nolan MS (November 2013). "West Nile virus,
+    Texas, USA, 2012" <https://dx.doi.org/10.3201/eid1911.130768>.
+    /Emerging Infectious Diseases/. *19* (11): 1836–8. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.3201/eid1911.130768
+    <https://doi.org/10.3201%2Feid1911.130768>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 3837649
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3837649> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 24210089
+    <https://www.ncbi.nlm.nih.gov/pubmed/24210089>. Retrieved 2014-12-08. 
+75. *Jump up ^ <#cite_ref-75>* Fox, M. (May 13, 2013). "2012 was
+    deadliest year for West Nile in US, CDC says"
+    <http://vitals.nbcnews.com/_news/2013/05/13/18232095-2012-was-deadliest-year-for-west-nile-in-us-cdc-says>.
+    /NBC News/. Archived
+    <https://web.archive.org/web/20130608042431/http://vitals.nbcnews.com/_news/2013/05/13/18232095-2012-was-deadliest-year-for-west-nile-in-us-cdc-says>
+    from the original on June 8, 2013. Retrieved May 13, 2013. 
+76. *Jump up ^ <#cite_ref-76>* "Vertebrate Ecology"
+    <https://www.cdc.gov/ncidod/dvbid/westnile/birds&mammals.htm>. /West
+    Nile Virus/. Division of Vector-Borne Diseases, CDC. 30 April 2009.
+    Archived
+    <https://web.archive.org/web/20130301003126/http://www.cdc.gov/ncidod/dvbid/westnile/birds%26mammals.htm>
+    from the original on 1 March 2013. 
+77. *Jump up ^ <#cite_ref-77>* Deas, Tia S; Bennett CJ; Jones SA;
+    Tilgner M; Ren P; Behr MJ; Stein DA; Iversen PL; Kramer LD; Bernard
+    KA; Shi PY (May 2007). "In vitro resistance selection and in vivo
+    efficacy of morpholino oligomers against West Nile virus"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1913242>. /Antimicrob
+    Agents Chemother/. *51* (7): 2470–82. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1128/AAC.00069-07
+    <https://doi.org/10.1128%2FAAC.00069-07>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 1913242
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1913242> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 17485503
+    <https://www.ncbi.nlm.nih.gov/pubmed/17485503>. 
+78. *Jump up ^ <#cite_ref-78>* Hayes EB, Sejvar JJ, Zaki SR, Lanciotti
+    RS, Bode AV, Campbell GL (2005). "Virology, pathology, and clinical
+    manifestations of West Nile virus disease"
+    <https://www.cdc.gov/ncidod/EID/vol11no08/05-0289b.htm>. /Emerging
+    Infect. Dis/. *11* (8): 1174–9. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.3201/eid1108.050289b
+    <https://doi.org/10.3201%2Feid1108.050289b>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 3320472
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3320472> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 16102303
+    <https://www.ncbi.nlm.nih.gov/pubmed/16102303>. Archived
+    <https://web.archive.org/web/20110804023633/http://www.cdc.gov/ncidod/EID/vol11no08/05-0289b.htm>
+    from the original on 2011-08-04. 
+79. *Jump up ^ <#cite_ref-79>* Moskowitz DW, Johnson FE (2004). "The
+    central role of angiotensin I-converting enzyme in vertebrate
+    pathophysiology". /Curr Top Med Chem/. *4* (13): 1433–54. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.2174/1568026043387818
+    <https://doi.org/10.2174%2F1568026043387818>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 15379656
+    <https://www.ncbi.nlm.nih.gov/pubmed/15379656>. 
+80. *Jump up ^ <#cite_ref-80>* Arroyo, J.; Miller, C.; Catalan, J.;
+    Myers, G. A.; Ratterree, M. S.; Trent, D. W.; Monath, T. P. (2004).
+    "ChimeriVax-West Nile Virus Live-Attenuated Vaccine: Preclinical
+    Evaluation of Safety, Immunogenicity, and Efficacy"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC525070>. /Journal of
+    Virology/. *78* (22): 12497–12507. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1128/JVI.78.22.12497-12507.2004
+    <https://doi.org/10.1128%2FJVI.78.22.12497-12507.2004>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 525070
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC525070> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 15507637
+    <https://www.ncbi.nlm.nih.gov/pubmed/15507637>. 
+81. *Jump up ^ <#cite_ref-81>* Biedenbender, R.; Bevilacqua, J.; Gregg,
+    A. M.; Watson, M.; Dayan, G. (2011). "Phase II, Randomized,
+    Double-Blind, Placebo-Controlled, Multicenter Study to Investigate
+    the Immunogenicity and Safety of a West Nile Virus Vaccine in
+    Healthy Adults"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3086439>. /Journal of
+    Infectious Diseases/. *203* (1): 75–84. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1093/infdis/jiq003
+    <https://doi.org/10.1093%2Finfdis%2Fjiq003>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 3086439
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3086439> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 21148499
+    <https://www.ncbi.nlm.nih.gov/pubmed/21148499>. 
+
+
+    External links[edit
+    <https://en.wikipedia.org/w/index.php?title=West_Nile_fever&action=edit&section=16>]
+
+Classification 	
+V <https://en.wikipedia.org/wiki/Template:Medical_resources> · T
+<https://en.wikipedia.org/wiki/Template_talk:Medical_resources> · D
+<https://www.wikidata.org/wiki/Q158856>
+
+  * *ICD
+    <https://en.wikipedia.org/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems>-10
+    <https://en.wikipedia.org/wiki/ICD-10>*: A92.3
+    <http://apps.who.int/classifications/icd10/browse/2016/en#/A92.3>
+  * *ICD
+    <https://en.wikipedia.org/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems>-9-CM
+    <https://en.wikipedia.org/wiki/List_of_ICD-9_codes>*: 066.4
+    <http://www.icd9data.com/getICD9Code.ashx?icd9=066.4>
+  * *MeSH <https://en.wikipedia.org/wiki/Medical_Subject_Headings>*:
+    D014901
+    <https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D014901>
+  * *DiseasesDB <https://en.wikipedia.org/wiki/Diseases_Database>*:
+    30025 <http://www.diseasesdatabase.com/ddb30025.htm>
+
+External resources 	
+
+  * *MedlinePlus <https://en.wikipedia.org/wiki/MedlinePlus>*: 007186
+    <https://www.nlm.nih.gov/medlineplus/ency/article/007186.htm>
+  * *Patient UK <https://en.wikipedia.org/wiki/Patient_UK>*: West Nile
+    fever <https://patient.info/doctor/West-Nile-Virus>
+
+
+  * iconMedicine portal <https://en.wikipedia.org/wiki/Portal:Medicine>
+  * icon <https://en.wikipedia.org/wiki/File:Sida-aids.png>Viruses
+    portal <https://en.wikipedia.org/wiki/Portal:Viruses>
+
+	Wikimedia Commons has media related to /*West Nile virus
+<https://commons.wikimedia.org/wiki/West_Nile_virus>*/.
+
+  * De Filette M, Ulbert S, Diamond M, Sanders NN (2012). "Recent
+    progress in West Nile virus diagnosis and vaccination"
+    <http://www.veterinaryresearch.org/content/43/1/16>. /Vet. Res/.
+    *43* (1): 16. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1186/1297-9716-43-16
+    <https://doi.org/10.1186%2F1297-9716-43-16>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 3311072
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3311072> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 22380523
+    <https://www.ncbi.nlm.nih.gov/pubmed/22380523>. 
+  * "West Nile Virus" <https://www.cdc.gov/ncidod/dvbid/westnile/>.
+    Division of Vector-Borne Diseases, U.S. Centers for Disease Control
+    and Prevention
+    <https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention>
+    (CDC). 
+  * CDC—West Nile Virus—NIOSH Workplace Safety and Health Topic
+    <https://www.cdc.gov/niosh/topics/westnile/>
+  * West Nile Virus Resource Guide <http://npic.orst.edu/wnv/>—National
+    Pesticide Information Center
+  * Vaccine Research Center (VRC) <http://www.vrc.nih.gov/>—Information
+    concerning WNV vaccine research studies
+  * Virus Pathogen Database and Analysis Resource (ViPR): Flaviviridae
+    <http://www.viprbrc.org/brc/home.do?decorator=flavi>
+  * Species Profile- West Nile Virus (/Flavivirus/)
+    <http://www.invasivespeciesinfo.gov/microbes/westnile.shtml>,
+    National Invasive Species Information Center, United States National
+    Agricultural Library
+    <https://en.wikipedia.org/wiki/United_States_National_Agricultural_Library>.
+    Lists general information and resources for West Nile Virus.
+  * West Nile Virus
+    <http://rad.usuhs.edu/medpix/parent.php3?mode=TFcase_thumbnails&case_prog=/medpix/cow_image.html&pt_id=14187&topic_id=4124&imageid=58164&quiz=no#top>—West
+    Nile Encephalitis Brain Scans
+
+Taxon identifiers
+<https://www.wikidata.org/wiki/Wikidata:WikiProject_Taxonomy> 	
+
+  * Wd <https://en.wikipedia.org/wiki/Wikidata>: Q158856
+    <https://www.wikidata.org/wiki/Q158856>
+  * EoL <https://en.wikipedia.org/wiki/Encyclopedia_of_Life>: 541196
+    <http://eol.org/pages/541196>
+  * ICTV
+    <https://en.wikipedia.org/wiki/International_Committee_on_Taxonomy_of_Viruses>: 00.026.0.01.051.
+    <http://ictvdb.bio-mirror.cn/ICTVdB/00.026.0.01.051.htm>
+  * NCBI
+    <https://en.wikipedia.org/wiki/National_Center_for_Biotechnology_Information>: 11082
+    <https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=11082>
+
+[show <#>]
+
+  * v <https://en.wikipedia.org/wiki/Template:Zoonotic_viral_diseases>
+  * t <https://en.wikipedia.org/wiki/Template_talk:Zoonotic_viral_diseases>
+  * e
+    <https://en.wikipedia.org/w/index.php?title=Template:Zoonotic_viral_diseases&action=edit>
+
+Zoonotic <https://en.wikipedia.org/wiki/Zoonosis> viral diseases
+<https://en.wikipedia.org/wiki/Viral_disease> (A80–B34
+<https://en.wikipedia.org/wiki/A80%E2%80%93B34>, 042–079
+<https://en.wikipedia.org/wiki/042%E2%80%93079>)
+Arthropod-borne <https://en.wikipedia.org/wiki/Arthropod> 	
+Mosquito-borne <https://en.wikipedia.org/wiki/Mosquito-borne_disease> 	
+/Bunyavirales <https://en.wikipedia.org/wiki/Bunyavirales>/ 	
+
+  * Arbovirus encephalitides
+    <https://en.wikipedia.org/wiki/Arbovirus_encephalitis>: La Crosse
+    encephalitis <https://en.wikipedia.org/wiki/La_Crosse_encephalitis>
+      o LACV <https://en.wikipedia.org/wiki/La_Crosse_virus>
+  * Batai virus <https://en.wikipedia.org/wiki/Batai_virus> (BATV)
+  * Bwamba Fever <https://en.wikipedia.org/wiki/Bwamba_Fever> (BWAV)
+  * California encephalitis
+    <https://en.wikipedia.org/wiki/California_encephalitis>
+      o CEV <https://en.wikipedia.org/wiki/California_encephalitis_virus>
+  * Jamestown Canyon virus
+    <https://en.wikipedia.org/wiki/Jamestown_Canyon_virus>
+  * Tete virus <https://en.wikipedia.org/wiki/Tete_virus>
+  * Tahyna virus <https://en.wikipedia.org/wiki/Tahyna_virus> (TAHV)
+
+  * Viral hemorrhagic fevers
+    <https://en.wikipedia.org/wiki/Viral_hemorrhagic_fever>: Rift Valley
+    fever <https://en.wikipedia.org/wiki/Rift_Valley_fever>
+      o RVFV <https://en.wikipedia.org/wiki/Rift_Valley_Fever_virus>
+  * Bunyamwera fever <https://en.wikipedia.org/wiki/Bunyamwera_virus> (BUNV)
+  * Ngari virus
+    <https://en.wikipedia.org/w/index.php?title=Ngari_virus&action=edit&redlink=1>
+    (NRIV)
+
+/Flaviviridae <https://en.wikipedia.org/wiki/Flaviviridae>/ 	
+
+  * Arbovirus encephalitides
+    <https://en.wikipedia.org/wiki/Arbovirus_encephalitis>: Japanese
+    encephalitis <https://en.wikipedia.org/wiki/Japanese_encephalitis>
+      o JEV <https://en.wikipedia.org/wiki/Japanese_encephalitis_virus>
+  * Australian encephalitis
+    <https://en.wikipedia.org/wiki/Murray_Valley_encephalitis_virus>
+      o MVEV
+        <https://en.wikipedia.org/wiki/Murray_Valley_encephalitis_virus>
+      o KUNV <https://en.wikipedia.org/wiki/Kunjin_virus>
+  * Saint Louis encephalitis
+    <https://en.wikipedia.org/wiki/Saint_Louis_encephalitis>
+      o SLEV <https://en.wikipedia.org/wiki/St._Louis_encephalitis_virus>
+  * Usutu virus <https://en.wikipedia.org/wiki/Usutu_virus>
+  * West Nile fever
+      o WNV <https://en.wikipedia.org/wiki/West_Nile_virus>
+
+  * Viral hemorrhagic fevers
+    <https://en.wikipedia.org/wiki/Viral_hemorrhagic_fever>: Dengue
+    fever <https://en.wikipedia.org/wiki/Dengue_fever>
+      o DENV-1-4 <https://en.wikipedia.org/wiki/Dengue_virus>
+  * Yellow fever <https://en.wikipedia.org/wiki/Yellow_fever>
+      o YFV <https://en.wikipedia.org/wiki/Yellow_fever_virus>
+  * Zika fever <https://en.wikipedia.org/wiki/Zika_fever>
+      o Zika virus <https://en.wikipedia.org/wiki/Zika_virus>
+
+/Togaviridae <https://en.wikipedia.org/wiki/Togaviridae>/ 	
+
+  * Arbovirus encephalitides
+    <https://en.wikipedia.org/wiki/Arbovirus_encephalitis>: Eastern
+    equine encephalomyelitis
+    <https://en.wikipedia.org/wiki/Eastern_equine_encephalomyelitis>
+      o EEEV
+        <https://en.wikipedia.org/wiki/Eastern_equine_encephalitis_virus>
+  * Western equine encephalomyelitis
+    <https://en.wikipedia.org/wiki/Western_equine_encephalomyelitis>
+      o WEEV
+        <https://en.wikipedia.org/wiki/Western_equine_encephalitis_virus>
+  * Venezuelan equine encephalomyelitis
+    <https://en.wikipedia.org/wiki/Venezuelan_equine_encephalomyelitis>
+      o VEEV
+        <https://en.wikipedia.org/wiki/Venezuelan_equine_encephalitis_virus>
+  * Chikungunya <https://en.wikipedia.org/wiki/Chikungunya>
+      o CHIKV <https://en.wikipedia.org/wiki/Chikungunya_virus>
+  * O'Nyong-nyong fever
+    <https://en.wikipedia.org/wiki/O%27Nyong-nyong_fever>
+      o ONNV <https://en.wikipedia.org/wiki/O%27nyong%27nyong_virus>
+  * Ross River fever <https://en.wikipedia.org/wiki/Ross_River_fever>
+      o RRV <https://en.wikipedia.org/wiki/Ross_River_virus>
+  * Semliki Forest virus
+    <https://en.wikipedia.org/wiki/Semliki_Forest_virus>
+  * Sindbis fever <https://en.wikipedia.org/wiki/Sindbis_virus>
+
+/Reoviridae <https://en.wikipedia.org/wiki/Reoviridae>/ 	
+
+  * Banna virus encephalitis <https://en.wikipedia.org/wiki/Banna_virus>
+
+Tick-borne <https://en.wikipedia.org/wiki/Tick-borne_disease#Viruses> 	
+/Bunyavirales <https://en.wikipedia.org/wiki/Bunyavirales>/ 	
+
+  * Viral hemorrhagic fevers
+    <https://en.wikipedia.org/wiki/Viral_hemorrhagic_fever>:
+    Crimean–Congo hemorrhagic fever
+    <https://en.wikipedia.org/wiki/Crimean%E2%80%93Congo_hemorrhagic_fever>
+      o CCHFV
+        <https://en.wikipedia.org/wiki/Crimean%E2%80%93Congo_hemorrhagic_fever_virus>
+  * Heartland virus <https://en.wikipedia.org/wiki/Heartland_virus>
+  * Bhanja virus <https://en.wikipedia.org/wiki/Bhanja_virus>
+  * Sandfly fever Naples virus
+    <https://en.wikipedia.org/wiki/Sandfly_fever_Naples_virus>
+  * Lone Star virus <https://en.wikipedia.org/wiki/Lone_Star_virus>
+  * Tete virus <https://en.wikipedia.org/wiki/Tete_virus>
+
+/Flaviviridae <https://en.wikipedia.org/wiki/Flaviviridae>/ 	
+
+  * Arbovirus encephalitides
+    <https://en.wikipedia.org/wiki/Arbovirus_encephalitis>: Tick-borne
+    encephalitis <https://en.wikipedia.org/wiki/Tick-borne_encephalitis>
+      o TBEV <https://en.wikipedia.org/wiki/Tick-borne_encephalitis_virus>
+  * Powassan encephalitis
+    <https://en.wikipedia.org/wiki/Powassan_encephalitis>
+      o POWV <https://en.wikipedia.org/wiki/Powassan_virus>
+
+  * Viral hemorrhagic fevers
+    <https://en.wikipedia.org/wiki/Viral_hemorrhagic_fever>: Omsk
+    hemorrhagic fever
+    <https://en.wikipedia.org/wiki/Omsk_hemorrhagic_fever>
+      o OHFV <https://en.wikipedia.org/wiki/Omsk_hemorrhagic_fever_virus>
+  * Kyasanur forest disease
+    <https://en.wikipedia.org/wiki/Kyasanur_forest_disease>
+      o KFDV <https://en.wikipedia.org/wiki/Kyasanur_forest_disease_virus>
+      o AHFV <https://en.wikipedia.org/wiki/Alkhurma_virus>
+  * Langat virus (LGTV) <https://en.wikipedia.org/wiki/Langat_virus>
+
+/Reoviridae <https://en.wikipedia.org/wiki/Reoviridae>/ 	
+
+  * Colorado tick fever <https://en.wikipedia.org/wiki/Colorado_tick_fever>
+      o CTFV <https://en.wikipedia.org/wiki/Colorado_tick_fever_virus>
+  * Kemerovo tickborne viral fever
+    <https://en.wikipedia.org/wiki/Kemerovo_tickborne_viral_fever>
+
+Sandfly-borne <https://en.wikipedia.org/wiki/Sandfly#Viruses> 	
+/Bunyavirales <https://en.wikipedia.org/wiki/Bunyavirales>/ 	
+
+  * Adria virus <https://en.wikipedia.org/wiki/Adria_virus> (ADRV)
+  * Pappataci fever <https://en.wikipedia.org/wiki/Pappataci_fever>
+      o Toscana virus <https://en.wikipedia.org/wiki/Toscana_virus>
+  * Sandfly fever Naples virus
+    <https://en.wikipedia.org/wiki/Sandfly_fever_Naples_virus>
+  * Oropouche fever <https://en.wikipedia.org/wiki/Oropouche_fever>
+      o Oropouche virus <https://en.wikipedia.org/wiki/Oropouche_virus>
+  * SFTS virus <https://en.wikipedia.org/wiki/SFTS_virus>
+
+/Rhabdoviridae <https://en.wikipedia.org/wiki/Rhabdoviridae>/ 	
+
+  * Chandipura virus <https://en.wikipedia.org/wiki/Chandipura_virus>
+
+Mammal-borne <https://en.wikipedia.org/wiki/Mammal> 	
+Rodent-borne <https://en.wikipedia.org/wiki/Rodent> 	
+/Arenaviridae <https://en.wikipedia.org/wiki/Arenavirus>/ 	
+
+  * Viral hemorrhagic fevers
+    <https://en.wikipedia.org/wiki/Viral_hemorrhagic_fever>: Lassa fever
+    <https://en.wikipedia.org/wiki/Lassa_fever>
+      o LASV <https://en.wikipedia.org/wiki/Lassa_virus>
+  * Venezuelan hemorrhagic fever
+    <https://en.wikipedia.org/wiki/Venezuelan_hemorrhagic_fever>
+      o GTOV <https://en.wikipedia.org/wiki/Guanarito_virus>
+  * Argentine hemorrhagic fever
+    <https://en.wikipedia.org/wiki/Argentine_hemorrhagic_fever>
+      o JUNV <https://en.wikipedia.org/wiki/Junin_virus>
+  * Brazilian hemorrhagic fever
+    <https://en.wikipedia.org/wiki/Brazilian_hemorrhagic_fever>
+      o SABV <https://en.wikipedia.org/wiki/Brazilian_hemorrhagic_fever>
+  * Bolivian hemorrhagic fever
+    <https://en.wikipedia.org/wiki/Bolivian_hemorrhagic_fever>
+      o MACV <https://en.wikipedia.org/wiki/Machupo_virus>
+  * LUJV <https://en.wikipedia.org/wiki/Lujo_virus>
+  * CHPV <https://en.wikipedia.org/wiki/Chapare_virus>
+
+/Bunyavirales <https://en.wikipedia.org/wiki/Bunyavirales>/ 	
+
+  * Hemorrhagic fever with renal syndrome
+    <https://en.wikipedia.org/wiki/Hantavirus_hemorrhagic_fever_with_renal_syndrome>
+
+      o DOBV <https://en.wikipedia.org/wiki/Dobrava-Belgrade_virus>
+      o HTNV <https://en.wikipedia.org/wiki/Hantaan_River_virus>
+      o PUUV <https://en.wikipedia.org/wiki/Puumala_virus>
+      o SEOV <https://en.wikipedia.org/wiki/Seoul_virus>
+      o AMRV <https://en.wikipedia.org/wiki/Amur_virus>
+
+  * Hantavirus pulmonary syndrome
+    <https://en.wikipedia.org/wiki/Hantavirus>
+      o ANDV <https://en.wikipedia.org/wiki/Andes_virus>
+      o SNV <https://en.wikipedia.org/wiki/Sin_Nombre_virus>
+
+Bat-borne <https://en.wikipedia.org/wiki/Bat#Disease_transmission> 	
+/Filoviridae <https://en.wikipedia.org/wiki/Filoviridae>/ 	
+
+  * Viral hemorrhagic fevers
+    <https://en.wikipedia.org/wiki/Viral_hemorrhagic_fever>: Ebola virus
+    disease <https://en.wikipedia.org/wiki/Ebola_virus_disease>
+  * BDBV <https://en.wikipedia.org/wiki/Bundibugyo_virus>
+  * EBOV <https://en.wikipedia.org/wiki/Ebola_virus>
+  * SUDV <https://en.wikipedia.org/wiki/Sudan_virus>
+  * TAFV <https://en.wikipedia.org/wiki/Ta%C3%AF_Forest_virus>
+  * Marburg virus disease
+    <https://en.wikipedia.org/wiki/Marburg_virus_disease>
+  * MARV <https://en.wikipedia.org/wiki/Marburg_virus>
+  * RAVV <https://en.wikipedia.org/wiki/Ravn_virus>
+
+/Rhabdoviridae <https://en.wikipedia.org/wiki/Rhabdoviridae>/ 	
+
+  * Rabies <https://en.wikipedia.org/wiki/Rabies>
+      o ABLV <https://en.wikipedia.org/wiki/Australian_bat_lyssavirus>
+      o MOKV <https://en.wikipedia.org/wiki/Mokola_virus>
+      o DUVV <https://en.wikipedia.org/wiki/Duvenhage_virus>
+      o LBV <https://en.wikipedia.org/wiki/Lagos_bat_virus>
+  * CHPV <https://en.wikipedia.org/wiki/Chandipura_virus>
+
+/Paramyxoviridae <https://en.wikipedia.org/wiki/Paramyxoviridae>/ 	
+
+  * Henipavirus encephalitis <https://en.wikipedia.org/wiki/Henipavirus>
+      o HeV <https://en.wikipedia.org/wiki/Hendra_virus>
+      o NiV <https://en.wikipedia.org/wiki/Nipah_virus>
+
+/Primate-borne <https://en.wikipedia.org/wiki/Primate>/ 	
+/Herpesviridae <https://en.wikipedia.org/wiki/Herpesviridae>/ 	
+
+  * Herpes B virus <https://en.wikipedia.org/wiki/Herpes_B_virus>
+
+/Retroviridae <https://en.wikipedia.org/wiki/Retroviridae>/ 	
+
+  * Simian foamy virus <https://en.wikipedia.org/wiki/Simian_foamy_virus>
+  * HTLV-1 <https://en.wikipedia.org/wiki/Human_T-lymphotropic_virus_1>
+  * HTLV-2 <https://en.wikipedia.org/wiki/Human_T-lymphotropic_virus_2>
+
+/Poxviridae <https://en.wikipedia.org/wiki/Poxviridae>/ 	
+
+  * Tanapox <https://en.wikipedia.org/wiki/Tanapox>
+  * Yaba monkey tumor virus
+    <https://en.wikipedia.org/wiki/Yaba_monkey_tumor_virus>
+
+Multiple vectors 	
+/Rhabdoviridae <https://en.wikipedia.org/wiki/Rhabdoviridae>/ 	
+
+  * Rabies <https://en.wikipedia.org/wiki/Rabies>
+      o RABV <https://en.wikipedia.org/wiki/Rabies_virus>
+  * Mokola virus <https://en.wikipedia.org/wiki/Mokola_virus>
+
+/Poxviridae <https://en.wikipedia.org/wiki/Poxviridae>/ 	
+
+  * Monkeypox <https://en.wikipedia.org/wiki/Monkeypox>
+
+Retrieved from
+"https://en.wikipedia.org/w/index.php?title=West_Nile_fever&oldid=814828061"
+
+Categories <https://en.wikipedia.org/wiki/Help:Category>:
+
+  * Horse diseases <https://en.wikipedia.org/wiki/Category:Horse_diseases>
+  * Bird diseases <https://en.wikipedia.org/wiki/Category:Bird_diseases>
+  * Flaviviruses <https://en.wikipedia.org/wiki/Category:Flaviviruses>
+  * Arthropod-borne viral fevers and viral haemorrhagic fevers
+    <https://en.wikipedia.org/wiki/Category:Arthropod-borne_viral_fevers_and_viral_haemorrhagic_fevers>
+  * Zoonoses <https://en.wikipedia.org/wiki/Category:Zoonoses>
+  * Tropical diseases
+    <https://en.wikipedia.org/wiki/Category:Tropical_diseases>
+  * Insect-borne diseases
+    <https://en.wikipedia.org/wiki/Category:Insect-borne_diseases>
+  * Animal vaccines <https://en.wikipedia.org/wiki/Category:Animal_vaccines>
+  * Encephalitis <https://en.wikipedia.org/wiki/Category:Encephalitis>
+  * Animal viral diseases
+    <https://en.wikipedia.org/wiki/Category:Animal_viral_diseases>
+
+Hidden categories:
+
+  * CS1 maint: Multiple names: authors list
+    <https://en.wikipedia.org/wiki/Category:CS1_maint:_Multiple_names:_authors_list>
+  * Webarchive template wayback links
+    <https://en.wikipedia.org/wiki/Category:Webarchive_template_wayback_links>
+  * Infobox medical condition (new)
+    <https://en.wikipedia.org/wiki/Category:Infobox_medical_condition_(new)>
+  * Articles with 'species' microformats
+    <https://en.wikipedia.org/wiki/Category:Articles_with_%27species%27_microformats>
+  * Wikipedia articles in need of updating from June 2016
+    <https://en.wikipedia.org/wiki/Category:Wikipedia_articles_in_need_of_updating_from_June_2016>
+  * All Wikipedia articles in need of updating
+    <https://en.wikipedia.org/wiki/Category:All_Wikipedia_articles_in_need_of_updating>
+  * RTT <https://en.wikipedia.org/wiki/Category:RTT>
+
+
+    Navigation menu
+
+
+Personal tools
+
+  * Not logged in
+  * Talk <https://en.wikipedia.org/wiki/Special:MyTalk>
+  * Contributions <https://en.wikipedia.org/wiki/Special:MyContributions>
+  * Create account
+    <https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=West+Nile+fever>
+  * Log in
+    <https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=West+Nile+fever>
+
+
+Namespaces
+
+  * Article
+
+    <https://en.wikipedia.org/wiki/West_Nile_fever>
+  * Talk
+
+    <https://en.wikipedia.org/wiki/Talk:West_Nile_fever>
+
+
+      Variants
+
+
+Views
+
+  * Read
+
+    <https://en.wikipedia.org/wiki/West_Nile_fever>
+  * Edit
+
+    <https://en.wikipedia.org/w/index.php?title=West_Nile_fever&action=edit>
+  * View history
+
+    <https://en.wikipedia.org/w/index.php?title=West_Nile_fever&action=history>
+
+
+      More
 
 
       Search
 
-Search the WHO.int site
-
-Submit
-
-Advanced search
-<http://search.who.int/search?ie=utf8&site=who&lr=lang_en&client=_en_r&proxystylesheet=_en_r&output=xml_no_dtd&oe=UTF-8&access=p&entqr=3&ud=1&proxycustom=%3CADVANCED/%3E>
-
-
-//
-
-
-      Navigation
-
-  * Home
-
-    <http://www.who.int/en/>
-  * Health topics
-
-    <http://www.who.int/topics/en/>
-  * Data
-
-    <http://www.who.int/entity/gho/en/>
-  * Media centre
-
-    <http://www.who.int/entity/mediacentre/en/>
-  * Publications
-
-    <http://www.who.int/publications/en/>
-  * Countries
-
-    <http://www.who.int/countries/en/>
-  * Programmes
-
-    <http://www.who.int/entity/en/>
-  * Governance
-
-    <http://www.who.int/governance/en/>
-  * About WHO
-
-    <http://www.who.int/about/en/>
-
-
-      Language
-
-عربي
-
-<http://www.who.int/mediacentre/factsheets/fs354/ar/index.html>
-中文
-
-<http://www.who.int/mediacentre/factsheets/fs354/zh/index.html>
-English
-
-<http://www.who.int/mediacentre/factsheets/fs354/en/index.html>
-Français
-
-<http://www.who.int/mediacentre/factsheets/fs354/fr/index.html>
-Русский
-
-<http://www.who.int/mediacentre/factsheets/fs354/ru/index.html>
-Español
-
-<http://www.who.int/mediacentre/factsheets/fs354/es/index.html>
-
-RSSFollow on RSS
-
-<http://www.who.int/about/licensing/rss/en/index.html>YouTubeFollow on
-YouTube
-
-<http://www.youtube.com/user/who?sub_confirmation=1>TwitterFollow on Twitter
-
-<http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=who>FacebookFollow
-on Facebook
-
-<http://www.facebook.com/WHO>Google+Follow on Google Follow
-
-<https://plus.google.com/+who/posts>InstagramFollow on Instagram
-
-<http://instagram.com/who>
-
-
-    Media centre
-
-
-Menu
-
-  * Media centre
-
-    <http://www.who.int/entity/mediacentre/en/>
-  * News
-
-    <http://www.who.int/entity/mediacentre/news/en/>
-      o News releases
-
-        <http://www.who.int/entity/mediacentre/news/releases/en/>
-          + Previous years
-
-            <http://www.who.int/entity/mediacentre/news/releases/previous/en/>
-
-      o Statements
-
-        <http://www.who.int/entity/mediacentre/news/statements/en/>
-          + Previous years
-
-            <http://www.who.int/entity/mediacentre/news/statements/previous/en/>
-
-      o Notes for the media
-
-        <http://www.who.int/entity/mediacentre/news/notes/en/>
-          + Previous years
-
-            <http://www.who.int/entity/mediacentre/news/notes/previous/en/>
-  * Commentaries
-
-    <http://www.who.int/entity/mediacentre/commentaries/en/>
-      o 2016
-
-        <http://www.who.int/entity/mediacentre/commentaries/2016/en/>
-      o 2015
-
-        <http://www.who.int/entity/mediacentre/commentaries/2015/en/>
-      o 2014
-
-        <http://www.who.int/entity/mediacentre/commentaries/2014/en/>
-  * Events
-
-    <http://www.who.int/entity/mediacentre/events/en/>
-      o Official WHO health days
-
-        <http://www.who.int/entity/mediacentre/events/official_days/en/>
-      o Meetings and consultations
-
-        <http://www.who.int/entity/mediacentre/events/meetings/en/>
-  * Fact sheets
-
-    <http://www.who.int/entity/mediacentre/factsheets/en/>
-  * Fact files
-
-    <http://www.who.int/features/factfiles/en/>
-  * Questions & answers
-
-    <http://www.who.int/features/qa/en/>
-  * Features
-
-    <http://www.who.int/features/en/>
-  * Multimedia
-
-    <http://www.who.int/entity/mediacentre/multimedia/en/>
-  * Contacts
-
-    <http://www.who.int/entity/mediacentre/contacts/en/>
-
-
-  West Nile virus
-
-Fact sheet N°354
-July 2011
-
-------------------------------------------------------------------------
-
-
-      Key facts
-
-  * West Nile virus can cause a fatal neurological disease in humans.
-  * However, approximately 80% of people who are infected will not show
-    any symptoms.
-  * West Nile virus is mainly transmitted to people through the bites of
-    infected mosquitoes.
-  * The virus can cause severe disease and death in horses.
-  * Vaccines are available for use in horses but not yet available for
-    people.
-  * Birds are the natural hosts of West Nile virus.
-
-------------------------------------------------------------------------
-
-West Nile Virus (WNV) can cause neurological disease and death in
-people. WNV is commonly found in Africa, Europe, the Middle East, North
-America and West Asia. WNV is maintained in nature in a cycle involving
-transmission between birds and mosquitoes. Humans, horses and other
-mammals can be infected.
-
-West Nile Virus (WNV) is a member of the /flavivirus/ genus and belongs
-to the Japanese encephalitis antigenic complex of the family
-/Flaviviridae/.
-
-
-      Outbreaks
-
-West Nile Virus (WNV) was first isolated in a woman in the West Nile
-district of Uganda in 1937. It was identified in birds (crows and
-columbiformes) in Nile delta region in 1953. Before 1997 WNV was not
-considered pathogenic for birds, but at that time in Israel a more
-virulent strain caused the death of different bird species presenting
-signs of encephalitis and paralysis. Human infections attributable to
-WNV have been reported in many countries in the World for over 50 years.
-
-In 1999 a WNV circulating in Israel and Tunisia was imported in New York
-producing a large and dramatic outbreak that spread throughout the
-continental United States of America (USA) in the following years. The
-WNV outbreak in USA (1999-2010) highlighted that importation and
-establishment of vector-borne pathogens outside their current habitat
-represent a serious danger to the world.
-
-The largest outbreaks occurred in Greece, Israel, Romania, Russia and
-USA. Outbreak sites are on major birds migratory routes. In its original
-range, WNV was prevalent throughout Africa, parts of Europe, Middle
-East, West Asia, and Australia. Since its introduction in 1999 into USA,
-the virus has spread and is now widely established from Canada to Venezuela.
-
-
-      Transmission
-
-Human infection is most often the result of bites from infected
-mosquitoes. Mosquitoes become infected when they feed on infected birds,
-which circulate the virus in their blood for a few days. The virus
-eventually gets into the mosquito's salivary glands. During later blood
-meals (when mosquitoes bite), the virus may be injected into humans and
-animals, where it can multiply and possibly cause illness.
-
-The virus may also be transmitted through contact with other infected
-animals, their blood, or other tissues.
-
-A very small proportion of human infections have occurred through organ
-transplant, blood transfusions and breast milk. There is one reported
-case of transplacental (mother-to-child) WNV transmission.
-
-To date, no human-to-human transmission of WNV through casual contact
-has been documented, and no transmission of WNV to health care workers
-has been reported when standard infection control precautions have been
-put in place.
-
-Transmission of WNV to laboratory workers has been reported.
-
-
-      Signs and symptoms
-
-Infection with WNV is either asymptomatic (no symptoms) in around 80% of
-infected people, or can lead to West Nile fever or severe West Nile
-disease.
-
-About 20% of people who become infected with WNV will develop West Nile
-fever. Symptoms include fever, headache, tiredness, and body aches,
-nausea, vomiting, occasionally with a skin rash (on the trunk of the
-body) and swollen lymph glands.
-
-The symptoms of severe disease (also called neuroinvasive disease, such
-as West Nile encephalitis or meningitis or West Nile poliomyelitis)
-include headache, high fever, neck stiffness, stupor, disorientation,
-coma, tremors, convulsions, muscle weakness, and paralysis. It is
-estimated that approximately 1 in 150 persons infected with the West
-Nile virus will develop a more severe form of disease. Serious illness
-can occur in people of any age, however people over the age of 50 and
-some immunocompromised persons (for example, transplant patients) are at
-the highest risk for getting severely ill when infected with WNV.
-
-The incubation period is usually 3 to 14 days.
-
-
-      Diagnosis
-
-West Nile virus can be diagnosed by a number of different tests:
-
-  * IgG antibody sero-conversion (or significant increase in antibody
-    titers) in two serial specimen collected at a one week interval by
-    enzyme-linked immunosorbent assay (ELISA);
-  * IgM antibody capture enzyme-linked immunosorbent assay (ELISA);
-  * neutralisation assays;
-  * viral detection by reverse transcription polymerase chain reaction
-    (RT-PCR) assay, and
-  * virus isolation by cell culture.
-
-IgM can be detected in nearly all cerebrospinal fluid (CSF) and serum
-specimens received from WNV infected patients at the time of their
-clinical presentation. Serum IgM antibody may persist for more than a year.
-
-
-      Treatment and vaccine
-
-Treatment is supportive for patients with neuro-invasive West Nile
-virus, often involving hospitalization, intravenous fluids, respiratory
-support, and prevention of secondary infections. No vaccine is available
-for humans.
-
-
-      Vector and animal hosts
-
-WN virus is maintained in nature in a mosquito-bird-mosquito
-transmission cycle. Mosquitoes of the genus /Culex/ are generally
-considered the principal vectors of WNV, in particular /Cx. Pipiens/.
-WNV is maintained in mosquito populations through vertical transmission
-(adults to eggs).
-
-Birds are the reservoir hosts of WNV. In Europe, Africa, Middle East and
-Asia, mortality in birds associated with WNV infection is rare. In
-striking contrast, the virus is highly pathogenic for birds in the
-Americas. Members of the crow family (/Corvidae/) are particularly
-susceptible, but virus has been detected in dead and dying birds of more
-than 250 species. Birds can be infected by a variety of routes other
-than mosquito bites, and different species may have different potential
-for maintaining the transmission cycle.
-
-Horses, just like humans, are “dead-end” hosts, meaning that while they
-become infected, they do not spread the infection. Symptomatic
-infections in horses are also rare and generally mild, but can cause
-neurologic disease, including fatal encephalomyelitis.
-
-
-      Prevention
-
-
-        Preventing transmission in horses
-
-Since WNV outbreaks in animals precede human cases, the establishment of
-an active animal health surveillance system to detect new cases in birds
-and horses is essential in providing early warning for veterinary and
-human public health authorities. In the Americas, it is important to
-help the community by reporting dead birds to local authorities.
-
-Vaccines have been developed for horses. Treatment is supportive and
-consistent with standard veterinary practices for animals infected with
-a viral agent.
-
-
-        Reducing the risk of infection in people
-
-In the absence of a vaccine, the only way to reduce infection in people
-is by raising awareness of the risk factors and educating people about
-the measures they can take to reduce exposure to the virus.
-
-Public health educational messages should focus on the following:
-
-  * Reducing the risk of mosquito transmission. Efforts to prevent
-    transmission should first focus on personal and community protection
-    against mosquito bites through the use of mosquito nets, personal
-    insect repellent, by wearing light coloured clothing (long-sleeved
-    shirts and trousers) and by avoiding outdoor activity at peak biting
-    times. In addition community programmes should encourage communities
-    to destroy mosquito breeding sites in residential areas.
-  * Reducing the risk of animal-to-human transmission. Gloves and other
-    protective clothing should be worn while handling sick animals or
-    their tissues, and during slaughtering and culling procedures.
-  * Reducing the risk of transmission through blood transfusion and
-    organ transplant. Blood and organ donation restrictions and
-    laboratory testing should be considered at the time of the outbreak
-    in the affected areas after assessing the local/regional
-    epidemiological situation.
-
-
-        Vector Control
-
-Effective prevention of human WNV infections depends on the development
-of comprehensive, integrated mosquito surveillance and control
-programmes in areas where the virus occurs. Studies should identify
-local mosquito species that play a role in WNV transmission, including
-those that might serve as a “bridge” from birds to human beings.
-Emphasis should be on integrated control measures including source
-reduction (with community participation), water management, chemicals,
-and biological control methods.
-
-
-        Preventing infection in health-care settings
-
-Health-care workers caring for patients with suspected or confirmed WNV
-infection, or handling specimens from them, should implement standard
-infection control precautions. Samples taken from people and animals
-with suspected WNV infection should be handled by trained staff working
-in suitably equipped laboratories.
-
-
-      WHO response
-
-The WHO regional office for Europe and WHO region of the Americas are
-intensively supporting WNV surveillance and outbreak response activities
-respectively in Europe and in North America, Latin America and the
-Caribbean, together with country offices and international partners.
-
-AddThis Sharing Buttons
-Share to PrintPrintShare to EmailEmailShare to FacebookFacebookShare to
-TwitterTwitterShare to Google+Google+Share to MoreAddthis
-
-
-      For more information contact:
-
-WHO Media centre
-E-mail: mediainquiries@who.int <mailto:mediainquiries@who.int>
-
-
-      Related links
-
-  * Mosquito-borne diseases
-    <http://www.who.int/entity/neglected_diseases/vector_ecology/mosquito-borne-diseases/en/index.html>
-
-  * Standard precautions in health care
-    <http://www.who.int/entity/csr/resources/publications/standardprecautions/en/index.html>
-
-  * Blood safety
-    pdf, 212kb
-    <http://www.who.int/entity/medicines/publications/WHO_CCs2nd-IVD_MeetingReport.pdf>
-
-  * Vector control and WHO Pesticide Evaluation Scheme: "WHOPES"
-    <http://www.who.int/entity/whopes/en/index.html>
-  * West Nile virus in the USA <http://www.cdc.gov/ncidod/dvbid/westnile/>
-  * West Nile virus in Canada
-    <http://www.health.alberta.ca/health-info/west-nile-virus.html>
-
-
-    You are here:
-
-  * Media centre <http://www.who.int/entity/mediacentre/en/>
-  * Fact sheets <http://www.who.int/entity/mediacentre/factsheets/en/>
-
-
-    Quick Links
-
-
-      Sitemap
-
-  * Home <http://www.who.int/en/index.html>
-  * Health topics <http://www.who.int/topics/en/index.html>
-  * Data <http://www.who.int/entity/gho/en/index.html>
-  * Media centre <http://www.who.int/entity/mediacentre/en/index.html>
-  * Publications <http://www.who.int/publications/en/index.html>
-  * Countries <http://www.who.int/countries/en/index.html>
-  * Programmes and projects <http://www.who.int/entity/en/index.html>
-  * Governance <http://www.who.int/governance/en/index.html>
-  * About WHO <http://www.who.int/about/en/index.html>
-
-
-      Help and Services
-
-  * Contacts <http://www.who.int/about/contacthq/en/index.html>
-  * FAQs <http://www.who.int/suggestions/faq/en/index.html>
-  * Employment <http://www.who.int/entity/employment/en/index.html>
-  * Feedback <http://www.who.int/suggestions/en/index.html>
-  * Privacy <http://www.who.int/about/privacy/en/index.html>
-  * E-mail scams <http://www.who.int/about/scamalert/en/index.html>
-
-
-      WHO Regional Offices
-
-  * WHO African Region <http://www.afro.who.int/>
-  * WHO Region of the Americas <http://www.paho.org/>
-  * WHO South-East Asia Region <http://www.searo.who.int/>
-  * WHO European Region <http://www.euro.who.int/>
-  * WHO Eastern Mediterranean Region <http://www.emro.who.int/>
-  * WHO Western Pacific Region <http://www.wpro.who.int/>
-
-RSSFollow on RSS
-
-<http://www.who.int/about/licensing/rss/en/index.html>YouTubeFollow on
-YouTube
-
-<http://www.youtube.com/user/who?sub_confirmation=1>TwitterFollow on Twitter
-
-<http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=who>FacebookFollow
-on Facebook
-
-<http://www.facebook.com/WHO>Google+Follow on Google Follow
-
-<https://plus.google.com/+who/posts>InstagramFollow on Instagram
-
-<http://instagram.com/who>
-
-<https://play.google.com/store/apps/details?id=uk.co.adappt.whoapp&hl=en>
-
-<https://itunes.apple.com/gb/app/who-info/id895463794?mt=8>
-
-© WHO 2017 <http://www.who.int/about/copyright/en/>
-
-Back to top <#>
-Email Address
-
-Sign up for WHO updates
-
-<#>
-
-loading
-
+<https://en.wikipedia.org/wiki/Main_Page>
+
+
+Navigation
+
+  * Main page <https://en.wikipedia.org/wiki/Main_Page>
+  * Contents <https://en.wikipedia.org/wiki/Portal:Contents>
+  * Featured content <https://en.wikipedia.org/wiki/Portal:Featured_content>
+  * Current events <https://en.wikipedia.org/wiki/Portal:Current_events>
+  * Random article <https://en.wikipedia.org/wiki/Special:Random>
+  * Donate to Wikipedia
+    <https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en>
+  * Wikipedia store <https://shop.wikimedia.org/>
+
+
+      Interaction
+
+  * Help <https://en.wikipedia.org/wiki/Help:Contents>
+  * About Wikipedia <https://en.wikipedia.org/wiki/Wikipedia:About>
+  * Community portal
+    <https://en.wikipedia.org/wiki/Wikipedia:Community_portal>
+  * Recent changes <https://en.wikipedia.org/wiki/Special:RecentChanges>
+  * Contact page <https://en.wikipedia.org/wiki/Wikipedia:Contact_us>
+
+
+      Tools
+
+  * What links here
+    <https://en.wikipedia.org/wiki/Special:WhatLinksHere/West_Nile_fever>
+  * Related changes
+    <https://en.wikipedia.org/wiki/Special:RecentChangesLinked/West_Nile_fever>
+  * Upload file <https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard>
+  * Special pages <https://en.wikipedia.org/wiki/Special:SpecialPages>
+  * Permanent link
+    <https://en.wikipedia.org/w/index.php?title=West_Nile_fever&oldid=814828061>
+  * Page information
+    <https://en.wikipedia.org/w/index.php?title=West_Nile_fever&action=info>
+  * Wikidata item <https://www.wikidata.org/wiki/Special:EntityPage/Q158856>
+  * Cite this page
+    <https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=West_Nile_fever&id=814828061>
+
+
+      Print/export
+
+  * Create a book
+    <https://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=West+Nile+fever>
+  * Download as PDF
+    <https://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=West+Nile+fever&action=show-download-screen>
+  * Printable version
+    <https://en.wikipedia.org/w/index.php?title=West_Nile_fever&printable=yes>
+
+
+      In other projects
+
+  * Wikimedia Commons
+    <https://commons.wikimedia.org/wiki/Category:West_Nile_virus>
+  * Wikispecies <https://species.wikimedia.org/wiki/West_Nile_virus>
+
+
+      Languages
+
+  * العربية
+    <https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D8%B1%D9%88%D8%B3_%D8%BA%D8%B1%D8%A8_%D8%A7%D9%84%D9%86%D9%8A%D9%84>
+  * Bân-lâm-gú
+    <https://zh-min-nan.wikipedia.org/wiki/Se_N%C3%AE-l%C3%B4-h%C3%B4_p%C4%93%E2%81%BF-to%CC%8Dk>
+  * Català <https://ca.wikipedia.org/wiki/Virus_del_Nil_occidental>
+  * Deutsch <https://de.wikipedia.org/wiki/West-Nil-Virus>
+  * Eesti <https://et.wikipedia.org/wiki/L%C3%A4%C3%A4ne-Niiluse_viirus>
+  * Español <https://es.wikipedia.org/wiki/Virus_del_Nilo_Occidental>
+  * Esperanto <https://eo.wikipedia.org/wiki/Okcidentnila_viruso>
+  * فارسی
+    <https://fa.wikipedia.org/wiki/%D9%88%DB%8C%D8%B1%D9%88%D8%B3_%D9%86%DB%8C%D9%84_%D8%BA%D8%B1%D8%A8%DB%8C>
+  * Français <https://fr.wikipedia.org/wiki/Virus_du_Nil_occidental>
+  * Bahasa Indonesia <https://id.wikipedia.org/wiki/Virus_West_Nile>
+  * Italiano <https://it.wikipedia.org/wiki/Virus_del_Nilo_occidentale>
+  * עברית
+    <https://he.wikipedia.org/wiki/%D7%A7%D7%93%D7%97%D7%AA_%D7%9E%D7%A2%D7%A8%D7%91_%D7%94%D7%A0%D7%99%D7%9C%D7%95%D7%A1>
+  * Nederlands <https://nl.wikipedia.org/wiki/Westnijlvirus>
+  * 日本語
+    <https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A8%E3%82%B9%E3%83%88%E3%83%8A%E3%82%A4%E3%83%AB%E7%86%B1>
+  * Norsk <https://no.wikipedia.org/wiki/Vestnilfeber>
+  * Polski <https://pl.wikipedia.org/wiki/Wirus_Zachodniego_Nilu>
+  * Português <https://pt.wikipedia.org/wiki/V%C3%ADrus_do_oeste_do_Nilo>
+  * Română <https://ro.wikipedia.org/wiki/Virusul_West_Nile>
+  * Русский
+    <https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%80%D1%83%D1%81_%D0%BB%D0%B8%D1%85%D0%BE%D1%80%D0%B0%D0%B4%D0%BA%D0%B8_%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%9D%D0%B8%D0%BB%D0%B0>
+  * Simple English <https://simple.wikipedia.org/wiki/West_Nile_virus>
+  * Slovenčina
+    <https://sk.wikipedia.org/wiki/Z%C3%A1padon%C3%ADlsky_v%C3%ADrus>
+  * Српски / srpski
+    <https://sr.wikipedia.org/wiki/%D0%92%D0%B8%D1%80%D1%83%D1%81_%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%B3_%D0%9D%D0%B8%D0%BB%D0%B0>
+  * Suomi <https://fi.wikipedia.org/wiki/L%C3%A4nsi-Niilin_virus>
+  * ไทย
+    <https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%80%E0%B8%A7%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B9%84%E0%B8%99%E0%B8%A5%E0%B9%8C>
+  * Türkçe <https://tr.wikipedia.org/wiki/Bat%C4%B1_Nil_vir%C3%BCs%C3%BC>
+  * Walon
+    <https://wa.wikipedia.org/wiki/Ecefalite_do_N%C3%AEl_co%C3%BBtchantrece>
+  * 中文
+    <https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%B0%BC%E7%BE%85%E6%B2%B3%E7%97%85%E6%AF%92>
+
+Edit links
+<https://www.wikidata.org/wiki/Special:EntityPage/Q158856#sitelinks-wikipedia>
+
+  * This page was last edited on 11 December 2017, at 04:30.
+  * Text is available under the Creative Commons Attribution-ShareAlike
+    License
+    <https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License><https://creativecommons.org/licenses/by-sa/3.0/>;
+    additional terms may apply. By using this site, you agree to the
+    Terms of Use <https://wikimediafoundation.org/wiki/Terms_of_Use> and
+    Privacy Policy
+    <https://wikimediafoundation.org/wiki/Privacy_policy>. Wikipedia® is
+    a registered trademark of the Wikimedia Foundation, Inc.
+    <https://www.wikimediafoundation.org/>, a non-profit organization.
+
+  * Privacy policy <https://wikimediafoundation.org/wiki/Privacy_policy>
+  * About Wikipedia <https://en.wikipedia.org/wiki/Wikipedia:About>
+  * Disclaimers <https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer>
+  * Contact Wikipedia <https://en.wikipedia.org/wiki/Wikipedia:Contact_us>
+  * Developers
+    <https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute>
+  * Cookie statement <https://wikimediafoundation.org/wiki/Cookie_statement>
+  * Mobile view
+    <https://en.m.wikipedia.org/w/index.php?title=West_Nile_fever&mobileaction=toggle_view_mobile>
+  * Enable previews <#>
+
+  * Wikimedia Foundation <https://wikimediafoundation.org/>	
+  * Powered by MediaWiki <https://www.mediawiki.org/>	
+
+<https://en.wikipedia.org/wiki/West_Nile_fever?action=edit>

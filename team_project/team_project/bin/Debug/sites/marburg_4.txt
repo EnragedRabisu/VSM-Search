@@ -1,498 +1,1368 @@
-Skip to main content
+﻿<https://en.wikipedia.org/wiki/Marburg_virus>
 
-<#content>
+  Marburg virus
 
-<http://www.who.int/en/>
+From Wikipedia, the free encyclopedia
+Jump to: navigation <#mw-head>, search <#p-search>
+For the genus, see Marburgvirus
+<https://en.wikipedia.org/wiki/Marburgvirus>.
+Marburg virus (MARV)
+Marburg virus.jpg <https://en.wikipedia.org/wiki/File:Marburg_virus.jpg>
+Transmission electron micrograph of Marburg virus
+Virus classification <https://en.wikipedia.org/wiki/Virus_classification>
+Group: 	Group V ((−)ssRNA
+<https://en.wikipedia.org/wiki/Negative-sense_ssRNA_virus>)
+Order: 	/Mononegavirales <https://en.wikipedia.org/wiki/Mononegavirales>/
+Family: 	/Filoviridae <https://en.wikipedia.org/wiki/Filoviridae>/
+Genus: 	/Marburgvirus <https://en.wikipedia.org/wiki/Marburgvirus>/
+Species: 	/Marburg marburgvirus
+<https://en.wikipedia.org/wiki/Marburg_marburgvirus>/
+
+*Marburg virus*^[1] <#cite_note-KuhnArch-1> is a hemorrhagic fever virus
+<https://en.wikipedia.org/wiki/Hemorrhagic_fever_virus> of the
+/Filoviridae <https://en.wikipedia.org/wiki/Filoviridae>/ family of
+viruses and a member of the species /Marburg marburgvirus
+<https://en.wikipedia.org/wiki/Marburg_marburgvirus>/, genus
+/Marburgvirus <https://en.wikipedia.org/wiki/Marburgvirus>/. Marburg
+virus (MARV) causes Marburg virus disease
+<https://en.wikipedia.org/wiki/Marburg_virus_disease> in humans
+<https://en.wikipedia.org/wiki/Human> and nonhuman primates
+<https://en.wikipedia.org/wiki/Primates>, a form of viral hemorrhagic
+fever <https://en.wikipedia.org/wiki/Viral_hemorrhagic_fever>.^[2]
+<#cite_note-Spickler-2> The virus is considered to be extremely
+dangerous. The WHO
+<https://en.wikipedia.org/wiki/World_Health_Organization> rates it as a
+Risk Group 4 Pathogen (requiring biosafety level 4-equivalent
+containment
+<https://en.wikipedia.org/wiki/Biosafety_level#Biosafety_level_4>).^[3]
+<#cite_note-BMBL5-3> In the United States, the NIH
+<https://en.wikipedia.org/wiki/National_Institutes_of_Health>/National
+Institute of Allergy and Infectious Diseases
+<https://en.wikipedia.org/wiki/National_Institute_of_Allergy_and_Infectious_Diseases>
+ranks it as a Category A Priority Pathogen^[4]
+<#cite_note-PriorityPathogens-4> and the Centers for Disease Control and
+Prevention
+<https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention>
+lists it as a Category A Bioterrorism Agent
+<https://en.wikipedia.org/wiki/Bioterrorism>.^[5]
+<#cite_note-CategoryBioterrorism-5> It is also listed as a biological
+agent for export control by the Australia Group
+<https://en.wikipedia.org/wiki/Australia_Group>.^[6]
+<#cite_note-AustraliaGroup-6>
+
+The virus can be transmitted by exposure to one species of fruit bats or
+it can be transmitted between people via body fluids through unprotected
+copulation and broken skin. The disease can cause bleeding
+(haemorrhage), fever and other symptoms much like Ebola. Funeral rituals
+are a particular risk. Actual treatment of the virus after infection is
+not possible but early, professional treatment of symptoms like
+dehydration considerably increase survival chances.^[7] <#cite_note-7>
+
+In 2009, expanded clinical trials
+<https://en.wikipedia.org/wiki/Clinical_trial> of an Ebola
+<https://en.wikipedia.org/wiki/Ebola> and Marburg vaccine
+<https://en.wikipedia.org/wiki/Vaccine> began in Kampala
+<https://en.wikipedia.org/wiki/Kampala>, Uganda
+<https://en.wikipedia.org/wiki/Uganda>.^[8] <#cite_note-8> ^[9]
+<#cite_note-9>
 
 
-      Access
+Contents
 
-  * Home Alt+0 <http://www.who.int/en/>
-  * Navigation Alt+1 <#navigation>
-  * Content Alt+2 <#main>
+ [hide] 
 
-//
+  * 1 Discovery <#Discovery>
+      o 1.1 Nomenclature <#Nomenclature>
+  * 2 Human disease <#Human_disease>
+      o 2.1 Recorded outbreaks <#Recorded_outbreaks>
+  * 3 Virology <#Virology>
+      o 3.1 Genome <#Genome>
+      o 3.2 Structure <#Structure>
+      o 3.3 Entry <#Entry>
+      o 3.4 Replication <#Replication>
+  * 4 Ecology <#Ecology>
+  * 5 Evolution <#Evolution>
+  * 6 Biological weapon <#Biological_weapon>
+  * 7 References <#References>
+  * 8 Further reading <#Further_reading>
+  * 9 External links <#External_links>
+
+
+    Discovery[edit
+    <https://en.wikipedia.org/w/index.php?title=Marburg_virus&action=edit&section=1>]
+
+Marburg virus was first described in 1967.^[10]
+<#cite_note-Siegert1967-10> It was noticed during small outbreaks in the
+German cities Marburg <https://en.wikipedia.org/wiki/Marburg> and
+Frankfurt <https://en.wikipedia.org/wiki/Frankfurt> and the Yugoslav
+capital Belgrade <https://en.wikipedia.org/wiki/Belgrade> in the 1960s.
+German workers were exposed to tissues of infected grivet monkeys
+<https://en.wikipedia.org/wiki/Grivet> (/Chlorocebus aethiops/) at the
+city's former main industrial plant, the Behringwerke, then part of
+Hoechst <https://en.wikipedia.org/wiki/Hoechst_AG>, and today of CSL
+Behring <https://en.wikipedia.org/wiki/CSL_Behring>. During these
+outbreaks, 31 people became infected and seven of them died. MARV is a
+Select Agent <https://en.wikipedia.org/wiki/Select_Agent>.^[11]
+<#cite_note-SelectAgents-11>
+
+
+      Nomenclature[edit
+      <https://en.wikipedia.org/w/index.php?title=Marburg_virus&action=edit&section=2>]
+
+The virus is one of two members of the species
+<https://en.wikipedia.org/wiki/International_Committee_on_Taxonomy_of_Viruses>
+/Marburg marburgvirus
+<https://en.wikipedia.org/wiki/Marburg_marburgvirus>/, which is included
+in the genus
+<https://en.wikipedia.org/wiki/International_Committee_on_Taxonomy_of_Viruses>
+/Marburgvirus <https://en.wikipedia.org/wiki/Marburgvirus>/, family
+<https://en.wikipedia.org/wiki/International_Committee_on_Taxonomy_of_Viruses>
+/Filoviridae <https://en.wikipedia.org/wiki/Filoviridae>/, order
+<https://en.wikipedia.org/wiki/International_Committee_on_Taxonomy_of_Viruses>
+/Mononegavirales <https://en.wikipedia.org/wiki/Mononegavirales>/. The
+name Marburg virus is derived from Marburg
+<https://en.wikipedia.org/wiki/Marburg> (the city in Hesse
+<https://en.wikipedia.org/wiki/Hesse>, Germany, where the virus was
+first discovered) and the taxonomic
+<https://en.wikipedia.org/wiki/Taxonomy_(biology)> suffix
+<https://en.wikipedia.org/wiki/Suffix> /virus/.^[1] <#cite_note-KuhnArch-1>
+
+According to the rules for taxon naming established by the International
+Committee on Taxonomy of Viruses (ICTV)
+<https://en.wikipedia.org/wiki/International_Committee_on_Taxonomy_of_Viruses>,
+the name Marburg virus is always to be capitalized
+<https://en.wikipedia.org/wiki/Capitalization>, but is never italicized
+<https://en.wikipedia.org/wiki/Italic_type>, and may be abbreviated
+<https://en.wikipedia.org/wiki/Abbreviation> (with MARV being the
+official abbreviation).^[/citation needed
+<https://en.wikipedia.org/wiki/Wikipedia:Citation_needed>/]
+
+Marburg virus was first introduced under this name in 1967.^[10]
+<#cite_note-Siegert1967-10> In 2005, the virus name was changed to Lake
+Victoria marburgvirus, which unfortunately was the same spelling as its
+species /Lake Victoria marburgvirus/.^[12] <#cite_note-Feldmann2005-12>
+^[13] <#cite_note-13> However, most scientific articles continued to
+refer to Marburg virus. Consequently, in 2010, the name Marburg virus
+was reinstated and the species name changed.^[1] <#cite_note-KuhnArch-1>
+
+
+    Human disease[edit
+    <https://en.wikipedia.org/w/index.php?title=Marburg_virus&action=edit&section=3>]
+
+Main article: Marburg virus disease
+<https://en.wikipedia.org/wiki/Marburg_virus_disease>
+
+MARV is one of two Marburg viruses that causes Marburg virus disease
+(MVD) <https://en.wikipedia.org/wiki/Marburg_virus_disease> in humans
+(in the literature also often referred to as Marburg hemorrhagic fever,
+MHF). The other one is Ravn virus
+<https://en.wikipedia.org/wiki/Ravn_virus> (RAVV). Both viruses fulfill
+the criteria for being a member of the species Marburg marburgvirus
+because their genomes <https://en.wikipedia.org/wiki/Genome> diverge
+from the prototype Marburg marburgvirus or the Marburg virus variant
+Musoke (MARV/Mus) by <10% at the nucleotide
+<https://en.wikipedia.org/wiki/Nucleotide> level.^[1]
+<#cite_note-KuhnArch-1>
+
+
+      Recorded outbreaks[edit
+      <https://en.wikipedia.org/w/index.php?title=Marburg_virus&action=edit&section=4>]
+
+Marburg virus disease (MVD)
+<https://en.wikipedia.org/wiki/Marburg_virus_disease> outbreaks due to
+Marburg virus (MARV) infection *Year* 	*Geographic location* 	*Human
+Deaths/Cases (case-fatality rate)*
+1967 	Marburg <https://en.wikipedia.org/wiki/Marburg> and Frankfurt
+<https://en.wikipedia.org/wiki/Frankfurt>, West Germany, and Belgrade
+<https://en.wikipedia.org/wiki/Belgrade>, Yugoslavia
+<https://en.wikipedia.org/wiki/Yugoslavia> 	7/31 (23%)^[10]
+<#cite_note-Siegert1967-10> ^[14] <#cite_note-Smith1967-14> ^[15]
+<#cite_note-Kissling1968-15> ^[16] <#cite_note-Martini1968-16> ^[17]
+<#cite_note-Stille1968-17> ^[18] <#cite_note-Bonin1969-18> ^[19]
+<#cite_note-Jacob1971-19> ^[20] <#cite_note-Stojkovic1971-20>
+1975 	Rhodesia <https://en.wikipedia.org/wiki/Rhodesia> and Johannesburg
+<https://en.wikipedia.org/wiki/Johannesburg>, South Africa
+<https://en.wikipedia.org/wiki/South_Africa> 	1/3 (33%)^[21]
+<#cite_note-Gear1975-21> ^[22] <#cite_note-Gear1977-22> ^[23]
+<#cite_note-Conrad1978-23>
+1980 	Kenya <https://en.wikipedia.org/wiki/Kenya> 	1/2 (50%)^[24]
+<#cite_note-Smith1982-24>
+1987 	Kenya <https://en.wikipedia.org/wiki/Kenya> 	1/1 (100%)^[25]
+<#cite_note-25> ^[26] <#cite_note-26>
+1988 	Koltsovo
+<https://en.wikipedia.org/wiki/Koltsovo,_Novosibirsk_Oblast>, Soviet
+Union <https://en.wikipedia.org/wiki/Soviet_Union> 	1/1 (100%)
+[laboratory accident]^[27] <#cite_note-Beer1999-27>
+1990 	Koltsovo
+<https://en.wikipedia.org/wiki/Koltsovo,_Novosibirsk_Oblast>, Soviet
+Union <https://en.wikipedia.org/wiki/Soviet_Union> 	0/1 (0%) [laboratory
+accident]^[28] <#cite_note-Nikiforov1994-28>
+1998–2000 	Durba
+<https://en.wikipedia.org/wiki/Durba,_Democratic_Republic_of_the_Congo>
+and Watsa <https://en.wikipedia.org/wiki/Watsa>, Democratic Republic of
+the Congo
+<https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo> 	 ? (A
+total of 154 cases and 128 deaths of marburgvirus infection were
+recorded during this outbreak. The case fatality was 83%. Two different
+marburgviruses, MARV and Ravn virus (RAVV)
+<https://en.wikipedia.org/wiki/Ravn_virus>, cocirculated and caused
+disease. It has never been published how many cases and deaths were due
+to MARV or RAVV infection)^[29] <#cite_note-Bertherat1999-29> ^[30]
+<#cite_note-Bausch2003-30> ^[31] <#cite_note-Bausch2006-31>
+2004–2005 	Angola <https://en.wikipedia.org/wiki/Angola> 	227/252
+(90%)^[32] <#cite_note-Hovette2005-32> ^[33]
+<#cite_note-Ndayimirije2005-33> ^[34] <#cite_note-Towner2006-34> ^[35]
+<#cite_note-Jeffs2007-35> ^[36] <#cite_note-Roddy2007-36> ^[37]
+<#cite_note-Roddy2009-37> ^[38] <#cite_note-Roddy2010-38>
+2007 	Uganda <https://en.wikipedia.org/wiki/Uganda> 	1/3 (33%)^[39]
+<#cite_note-Towner2009-39> ^[40] <#cite_note-Adjemian2011-40>
+2008 	Uganda <https://en.wikipedia.org/wiki/Uganda>, Netherlands
+<https://en.wikipedia.org/wiki/Netherlands>, United States 	1/2
+(50%)^[41] <#cite_note-Timen2009-41>
+2012 	Uganda <https://en.wikipedia.org/wiki/Uganda> 	9/18 (50%)^[42]
+<#cite_note-42>
+2014 	Uganda <https://en.wikipedia.org/wiki/Uganda> 	1/1 (100%)^[43]
+<#cite_note-43> ^[44] <#cite_note-44>
+2017 	Uganda <https://en.wikipedia.org/wiki/Uganda> 	2/5 (40%, not final
+figures)^[45] <#cite_note-45>
+
+
+    Virology[edit
+    <https://en.wikipedia.org/w/index.php?title=Marburg_virus&action=edit&section=5>]
+
+
+      Genome[edit
+      <https://en.wikipedia.org/w/index.php?title=Marburg_virus&action=edit&section=6>]
+
+Like all mononegaviruses
+<https://en.wikipedia.org/wiki/Mononegavirales>, marburgvirions contain
+non-infectious, linear nonsegmented, single-stranded RNA
+<https://en.wikipedia.org/wiki/RNA> genomes
+<https://en.wikipedia.org/wiki/Genome> of negative polarity that possess
+inverse-complementary 3' and 5' termini, do not possess a 5' cap
+<https://en.wikipedia.org/wiki/5%27_cap>, are not polyadenylated
+<https://en.wikipedia.org/wiki/Polyadenylation>, and are not covalently
+<https://en.wikipedia.org/wiki/Covalent_bond> linked to a protein
+<https://en.wikipedia.org/wiki/Protein>.^[46]
+<#cite_note-Fauquet2005-46> Marburgvirus genomes are approximately 19 kb
+<https://en.wikipedia.org/wiki/Base_pair> long and contain seven genes
+<https://en.wikipedia.org/wiki/Gene> in the order 3'-UTR
+<https://en.wikipedia.org/wiki/Three_prime_untranslated_region>-/NP/-/VP35/-/VP40/-/GP/-/VP30/-/VP24/-/L/-5'-UTR
+<https://en.wikipedia.org/wiki/Five_prime_untranslated_region>.^[47]
+<#cite_note-Kiley1982-47>
+
+
+      Structure[edit
+      <https://en.wikipedia.org/w/index.php?title=Marburg_virus&action=edit&section=7>]
+
+<https://en.wikipedia.org/wiki/File:Marburg_em1986.png>
+
+<https://en.wikipedia.org/wiki/File:Marburg_em1986.png>
+CryoEM reconstruction of a section of the Marburg virus nucleocapsid.
+EMDB <https://en.wikipedia.org/wiki/EMDB> entry EMD-1986
+<https://www.ebi.ac.uk/pdbe/entry/pdb/EMD-1986>^[48] <#cite_note-48>
+
+Like all filoviruses <https://en.wikipedia.org/wiki/Filoviridae>,
+marburgvirions are filamentous particles that may appear in the shape of
+a shepherd's crook or in the shape of a "U" or a "6", and they may be
+coiled, toroid, or branched.^[47] <#cite_note-Kiley1982-47>
+Marburgvirions are generally 80 nm in width
+<https://en.wikipedia.org/wiki/Width>, but vary somewhat in length. In
+general, the median particle length of marburgviruses ranges from 795 to
+828 nm (in contrast to ebolavirions
+<https://en.wikipedia.org/wiki/Ebolavirus>, whose median particle length
+was measured to be 974–1,086 nm ), but particles as long as 14,000 nm
+have been detected in tissue culture.^[49] <#cite_note-Geisbert1995-49>
+Marburgvirions consist of seven structural proteins. At the center is
+the helical <https://en.wikipedia.org/wiki/Helix> ribonucleocapsid
+<https://en.wikipedia.org/wiki/Ribonucleoprotein>, which consists of the
+genomic RNA wrapped around a polymer
+<https://en.wikipedia.org/wiki/Polymer> of nucleoproteins
+<https://en.wikipedia.org/wiki/Nucleoprotein> (NP). Associated with the
+ribonucleoprotein is the RNA-dependent RNA polymerase
+<https://en.wikipedia.org/wiki/RNA-dependent_RNA_polymerase> (L) with
+the polymerase cofactor (VP35) and a transcription activator (VP30). The
+ribonucleoprotein is embedded in a matrix, formed by the major (VP40)
+and minor (VP24) matrix proteins. These particles are surrounded by a
+lipid membrane <https://en.wikipedia.org/wiki/Lipid_bilayer> derived
+from the host cell membrane. The membrane anchors a glycoprotein (GP_1,2
+) that projects 7 to 10 nm spikes away from its surface. While nearly
+identical to ebolavirions in structure, marburgvirions are antigenically
+<https://en.wikipedia.org/wiki/Antigen> distinct.^[/citation needed
+<https://en.wikipedia.org/wiki/Wikipedia:Citation_needed>/]
+
+
+      Entry[edit
+      <https://en.wikipedia.org/w/index.php?title=Marburg_virus&action=edit&section=8>]
+
+Niemann–Pick C1 <https://en.wikipedia.org/wiki/NPC1> (NPC1) cholesterol
+transporter protein appears to be essential for infection with both
+Ebola <https://en.wikipedia.org/wiki/Ebola_virus> and Marburg virus. Two
+independent studies reported in the same issue of /Nature
+<https://en.wikipedia.org/wiki/Nature_(journal)>/ showed that Ebola
+virus <https://en.wikipedia.org/wiki/Ebola_virus> cell entry and
+replication requires NPC1.^[50] <#cite_note-pmid21866103-50> ^[51]
+<#cite_note-pmid21866101-51> When cells from patients lacking NPC1 were
+exposed to Ebola virus in the laboratory, the cells survived and
+appeared immune to the virus <https://en.wikipedia.org/wiki/Virus>,
+further indicating that Ebola relies on NPC1 to enter cells. This might
+imply that genetic mutations in the NPC1 gene in humans could make some
+people resistant to one of the deadliest known viruses affecting humans.
+The same studies described similar results with Marburg virus, showing
+that it also needs NPC1 to enter cells.^[50]
+<#cite_note-pmid21866103-50> ^[51] <#cite_note-pmid21866101-51>
+Furthermore, NPC1 was shown to be critical to filovirus
+<https://en.wikipedia.org/wiki/Filovirus> entry because it mediates
+infection by binding directly to the viral envelope
+<https://en.wikipedia.org/wiki/Viral_envelope> glycoprotein^[51]
+<#cite_note-pmid21866101-51> and that the second lysosomal domain of
+NPC1 mediates this binding.^[52] <#cite_note-pmid22395071-52>
+
+In one of the original studies, a small molecule
+<https://en.wikipedia.org/wiki/Small_molecule> was shown to inhibit
+Ebola virus infection by preventing the virus glycoprotein from binding
+to NPC1.^[51] <#cite_note-pmid21866101-51> ^[53]
+<#cite_note-pmid21959282-53> In the other study, mice that were
+heterozygous for NPC1 were shown to be protected from lethal challenge
+with mouse-adapted Ebola virus.^[50] <#cite_note-pmid21866103-50>
+
+
+      Replication[edit
+      <https://en.wikipedia.org/w/index.php?title=Marburg_virus&action=edit&section=9>]
+
+The marburg virus life cycle
+<https://en.wikipedia.org/wiki/Biological_life_cycle> begins with virion
+attachment to specific cell-surface receptors
+<https://en.wikipedia.org/wiki/Receptor_(biochemistry)>, followed by
+fusion <https://en.wikipedia.org/wiki/Lipid_bilayer_fusion> of the
+virion envelope with cellular membranes and the concomitant release of
+the virus nucleocapsid <https://en.wikipedia.org/wiki/Nucleocapsid> into
+the cytosol <https://en.wikipedia.org/wiki/Cytosol>. The virus RdRp
+partially uncoats the nucleocapsid and transcribes
+<https://en.wikipedia.org/wiki/Transcription_(genetics)> the genes
+<https://en.wikipedia.org/wiki/Genes> into positive-stranded mRNAs
+<https://en.wikipedia.org/wiki/MRNA>, which are then translated
+<https://en.wikipedia.org/wiki/Translation_(biology)> into structural
+and nonstructural proteins <https://en.wikipedia.org/wiki/Proteins>.
+Marburgvirus L binds to a single promoter
+<https://en.wikipedia.org/wiki/Promoter_(biology)> located at the 3' end
+of the genome. Transcription either terminates after a gene or continues
+to the next gene downstream. This means that genes close to the 3' end
+of the genome are transcribed in the greatest abundance, whereas those
+toward the 5' end are least likely to be transcribed. The gene order is
+therefore a simple but effective form of transcriptional regulation. The
+most abundant protein produced is the nucleoprotein
+<https://en.wikipedia.org/wiki/Nucleoprotein>, whose concentration
+<https://en.wikipedia.org/wiki/Concentration> in the cell determines
+when L switches from gene transcription to genome replication.
+Replication results in full-length, positive-stranded antigenomes that
+are in turn transcribed into negative-stranded virus progeny genome
+copies. Newly synthesized structural proteins and genomes self-assemble
+and accumulate near the inside of the cell membrane
+<https://en.wikipedia.org/wiki/Cell_membrane>. Virions bud
+<https://en.wikipedia.org/wiki/Budding> off from the cell, gaining their
+envelopes from the cellular membrane they bud from. The mature progeny
+particles then infect other cells to repeat the cycle.^[12]
+<#cite_note-Feldmann2005-12>
+
+
+    Ecology[edit
+    <https://en.wikipedia.org/w/index.php?title=Marburg_virus&action=edit&section=10>]
+
+In 2009, the successful isolation of infectious MARV was reported from
+caught healthy Egyptian fruit bats (/Rousettus aegyptiacus/)
+<https://en.wikipedia.org/wiki/Rousettus_aegyptiacus>.^[39]
+<#cite_note-Towner2009-39> This isolation, together with the isolation
+of infectious RAVV <https://en.wikipedia.org/wiki/RAVV>,^[39]
+<#cite_note-Towner2009-39> strongly suggests that Old World
+<https://en.wikipedia.org/wiki/Old_World> fruit bats
+<https://en.wikipedia.org/wiki/Bat> are involved in the natural
+maintenance of marburgviruses. Further studies are necessary to
+establish whether Egyptian rousettes are the actual hosts of MARV and
+RAVV or whether they get infected via contact with another animal and
+therefore serve only as intermediate hosts. Recently the first
+experimental infection study of /Rousettus aegyptiacus/ with MARV
+provided further insight into the possible involvement of these bats in
+MARV ecology.^[54] <#cite_note-54> Experimentally infected bats
+developed relatively low viremia lasting at least 5 days, but remained
+healthy and didn't develop any notable gross pathology. The virus also
+replicated to high titers in major organs (liver and spleen), and organs
+that might possibly be involved in virus transmission (lung, intestine,
+reproductive organ, salivary gland, kidney, bladder and mammary gland).
+The relatively long period of viremia noted in this experiment could
+possibly also facilitate mechanical transmission by blood sucking
+arthropods or infection of susceptible vertebrate hosts by direct
+contact with infected blood.^[/citation needed
+<https://en.wikipedia.org/wiki/Wikipedia:Citation_needed>/]
+
+
+    Evolution[edit
+    <https://en.wikipedia.org/w/index.php?title=Marburg_virus&action=edit&section=11>]
+
+The viral strains fall into two clades — Ravn virus and Marburg
+virus.^[55] <#cite_note-Zehender2016-55> The Marburg strains can be
+divided into two — A and B. The A strains were isolated from Uganda
+<https://en.wikipedia.org/wiki/Uganda> (five from 1967), Kenya
+<https://en.wikipedia.org/wiki/Kenya> (1980) and Angola
+<https://en.wikipedia.org/wiki/Angola> (2004–2005) while the B strains
+were from the Democratic Republic of the Congo
+<https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo>
+epidemic (1999–2000) and a group of Ugandan isolates isolated in
+2007-2009. The mean evolutionary rate of the whole genome was 3.3 ×
+10^−4 substitutions/site/year (credibility interval 2.0–4.8).The Marburg
+strains had a mean root time of the most recent common ancestor of 177.9
+years ago (95% highest posterior density 87–284) suggesting an origin in
+the mid 1800s. In contrast the Ravn strains origin dated back to a mean
+33.8 years ago (early 1980s). The most probable location of the Marburg
+virus ancestor was Uganda whereas that of the RAVV ancestor was
+Kenya.^[/citation needed
+<https://en.wikipedia.org/wiki/Wikipedia:Citation_needed>/]
+
+
+    Biological weapon[edit
+    <https://en.wikipedia.org/w/index.php?title=Marburg_virus&action=edit&section=12>]
+
+The Soviet Union <https://en.wikipedia.org/wiki/Soviet_Union> had an
+extensive offensive and defensive biological weapons
+<https://en.wikipedia.org/wiki/Biological_warfare> program that included
+MARV.^[56] <#cite_note-Alibek1999-56> At least three Soviet research
+institutes had MARV research programs during the Cold War
+<https://en.wikipedia.org/wiki/Cold_War>: the Virology Center of the
+Scientific-Research Institute for Microbiology in Zagorsk (today Sergiev
+Posad <https://en.wikipedia.org/wiki/Sergiev_Posad>), the
+Scientific-Production Association "Vektor" (today the State Research
+Center of Virology and Biotechnology "Vektor"
+<https://en.wikipedia.org/wiki/State_Research_Center_of_Virology_and_Biotechnology_VECTOR>)
+in Koltsovo
+<https://en.wikipedia.org/wiki/Koltsovo,_Novosibirsk_Oblast>, and the
+Irkutsk Scientific-Research Anti-Plague Institute of Siberia and the Far
+East in Irkutsk <https://en.wikipedia.org/wiki/Irkutsk>. As most
+performed research was highly classified
+<https://en.wikipedia.org/wiki/Classified_information>, it remains
+unclear how successful the MARV program was. However, Soviet defector
+<https://en.wikipedia.org/wiki/Defection> Ken Alibek
+<https://en.wikipedia.org/wiki/Ken_Alibek> claimed that a weapon filled
+with MARV was tested at the Stepnogorsk Scientific Experimental and
+Production Base
+<https://en.wikipedia.org/wiki/Stepnagorsk_Scientific_and_Technical_Institute_for_Microbiology>
+in Stepnogorsk <https://en.wikipedia.org/wiki/Stepnogorsk>, Kazakh
+Soviet Socialist Republic
+<https://en.wikipedia.org/wiki/Kazakh_Soviet_Socialist_Republic> (today
+Kazakhstan <https://en.wikipedia.org/wiki/Kazakhstan>),^[56]
+<#cite_note-Alibek1999-56> suggesting that the development of a MARV
+biological weapon had reached advanced stages. Independent confirmation
+for this claim is lacking. At least one laboratory accident with MARV,
+resulting in the death of Koltsovo researcher Nikolai Ustinov, occurred
+during the Cold War in the Soviet Union and was first described in
+detail by Alibek.^[56] <#cite_note-Alibek1999-56>
+
+
+    References[edit
+    <https://en.wikipedia.org/w/index.php?title=Marburg_virus&action=edit&section=13>]
+
+ 1. ^ Jump up to: ^/*a*/ <#cite_ref-KuhnArch_1-0> ^/*b*/
+    <#cite_ref-KuhnArch_1-1> ^/*c*/ <#cite_ref-KuhnArch_1-2> ^/*d*/
+    <#cite_ref-KuhnArch_1-3> Kuhn, J. H.; Becker, S.; Ebihara, H.;
+    Geisbert, T. W.; Johnson, K. M.; Kawaoka, Y.; Lipkin, W. I.;
+    Negredo, A. I.; Netesov, S. V.; Nichol, S. T.; Palacios, G.; Peters,
+    C. J.; Tenorio, A.; Volchkov, V. E.; Jahrling, P. B. (2010).
+    "Proposal for a revised taxonomy of the family Filoviridae:
+    Classification, names of taxa and viruses, and virus abbreviations"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3074192>. /Archives of
+    Virology/. *155* (12): 2083–2103. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1007/s00705-010-0814-x
+    <https://doi.org/10.1007%2Fs00705-010-0814-x>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 3074192
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3074192> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 21046175
+    <https://www.ncbi.nlm.nih.gov/pubmed/21046175>. 
+ 2. *Jump up ^ <#cite_ref-Spickler_2-0>* Spickler, Anna. "Ebolavirus and
+    Marburgvirus Infections"
+    <http://www.cfsph.iastate.edu/Factsheets/pdfs/viral_hemorrhagic_fever_filovirus.pdf>
+    (PDF). 
+ 3. *Jump up ^ <#cite_ref-BMBL5_3-0>* US Department of Health and Human
+    Services. "Biosafety in Microbiological and Biomedical Laboratories
+    (BMBL) 5th Edition"
+    <https://www.cdc.gov/biosafety/publications/bmbl5/>. Retrieved
+    2011-10-16. 
+ 4. *Jump up ^ <#cite_ref-PriorityPathogens_4-0>* "Archived copy"
+    <https://web.archive.org/web/20111022004715/http://www.niaid.nih.gov/topics/biodefenserelated/biodefense/research/pages/cata.aspx>.
+    Archived from the original
+    <http://www.niaid.nih.gov/topics/biodefenserelated/biodefense/research/pages/cata.aspx>
+    on 2011-10-22. Retrieved 2011-10-16. 
+ 5. *Jump up ^ <#cite_ref-CategoryBioterrorism_5-0>* US Centers for
+    Disease Control and Prevention (CDC). "Bioterrorism Agents/Diseases"
+    <https://web.archive.org/web/20140722181901/http://www.bt.cdc.gov/agent/agentlist-category.asp>.
+    Archived from the original
+    <http://www.bt.cdc.gov/agent/agentlist-category.asp> on 2014-07-22.
+    Retrieved 2011-10-16. 
+ 6. *Jump up ^ <#cite_ref-AustraliaGroup_6-0>* The Australia Group.
+    "List of Biological Agents for Export Control"
+    <https://web.archive.org/web/20110806112546/http://www.australiagroup.net/en/biological_agents.html>.
+    Archived from the original
+    <http://www.australiagroup.net/en/biological_agents.html> on
+    2011-08-06. Retrieved 2011-10-16. 
+ 7. *Jump up ^ <#cite_ref-7>* Marburg virus disease Fact sheet Updated
+    October 2017 http://www.who.int/mediacentre/factsheets/fs_marburg/en/
+ 8. *Jump up ^ <#cite_ref-8>* Beth Skwarecki Ebola, Marburg DNA Vaccines
+    Prove Safe in Phase 1 Trial
+    <http://www.medscape.com/viewarticle/831858> Medscape Medical News,
+    September 17, 2014
+ 9. *Jump up ^ <#cite_ref-9>* Evaluating an Ebola and a Marburg Vaccine
+    in Uganda <http://clinicaltrials.gov/show/NCT00997607> U.S.
+    Department of Health & Human Services
+    <https://en.wikipedia.org/wiki/U.S._Department_of_Health_%26_Human_Services>
+10. ^ Jump up to: ^/*a*/ <#cite_ref-Siegert1967_10-0> ^/*b*/
+    <#cite_ref-Siegert1967_10-1> ^/*c*/ <#cite_ref-Siegert1967_10-2>
+    Siegert, R.; Shu, H. L.; Slenczka, W.; Peters, D.; Müller, G.
+    (2009). "Zur Ätiologie einer unbekannten, von Affen ausgegangenen
+    menschlichen Infektionskrankheit". /DMW - Deutsche Medizinische
+    Wochenschrift/. *92* (51): 2341–3. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1055/s-0028-1106144
+    <https://doi.org/10.1055%2Fs-0028-1106144>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 4294540
+    <https://www.ncbi.nlm.nih.gov/pubmed/4294540>. 
+11. *Jump up ^ <#cite_ref-SelectAgents_11-0>* US Animal and Plant Health
+    Inspection Service (APHIS) and US Centers for Disease Control and
+    Prevention (CDC). "National Select Agent Registry (NSAR)"
+    <http://www.selectagents.gov/>. Retrieved 2011-10-16. 
+12. ^ Jump up to: ^/*a*/ <#cite_ref-Feldmann2005_12-0> ^/*b*/
+    <#cite_ref-Feldmann2005_12-1> Feldmann, H.; Geisbert, T. W.;
+    Jahrling, P. B.; Klenk, H.-D.; Netesov, S. V.; Peters, C. J.;
+    Sanchez, A.; Swanepoel, R.; et al. (2005). "Family Filoviridae". In
+    Fauquet, C. M.; Mayo, M. A.; Maniloff, J.; Desselberger, U.; Ball,
+    L. A. /Virus Taxonomy—Eighth Report of the International Committee
+    on Taxonomy of Viruses/. San Diego, US: Elsevier/Academic Press.
+    pp. 645–653. ISBN
+    <https://en.wikipedia.org/wiki/International_Standard_Book_Number> 0-12-370200-3
+    <https://en.wikipedia.org/wiki/Special:BookSources/0-12-370200-3> 
+13. *Jump up ^ <#cite_ref-13>* Mayo, M. A. (2002). "ICTV at the Paris
+    ICV: results of the plenary session and the binomial ballot".
+    /Archives of Virology/. *147* (11): 2254–60. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1007/s007050200052
+    <https://doi.org/10.1007%2Fs007050200052>. 
+14. *Jump up ^ <#cite_ref-Smith1967_14-0>* Smith, C. E.; Simpson, D. I.;
+    Bowen, E. T.; Zlotnik, I. (1967). "Fatal human disease from vervet
+    monkeys". /Lancet/. *2* (7526): 1119–21. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1016/s0140-6736(67)90621-6
+    <https://doi.org/10.1016%2Fs0140-6736%2867%2990621-6>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 4168558
+    <https://www.ncbi.nlm.nih.gov/pubmed/4168558>. 
+15. *Jump up ^ <#cite_ref-Kissling1968_15-0>* Kissling, R. E.; Robinson,
+    R. Q.; Murphy, F. A.; Whitfield, S. G. (1968). "Agent of disease
+    contracted from green monkeys". /Science/. *160* (830): 888–890. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1126/science.160.3830.888
+    <https://doi.org/10.1126%2Fscience.160.3830.888>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 4296724
+    <https://www.ncbi.nlm.nih.gov/pubmed/4296724>. 
+16. *Jump up ^ <#cite_ref-Martini1968_16-0>* Martini, G. A.; Knauff, H.
+    G.; Schmidt, H. A.; Mayer, G.; Baltzer, G. (2009). "Über eine bisher
+    unbekannte, von Affen eingeschleppte Infektionskrankheit:
+    Marburg-Virus-Krankheit". /DMW - Deutsche Medizinische
+    Wochenschrift/. *93* (12): 559–571. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1055/s-0028-1105098
+    <https://doi.org/10.1055%2Fs-0028-1105098>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 4966280
+    <https://www.ncbi.nlm.nih.gov/pubmed/4966280>. 
+17. *Jump up ^ <#cite_ref-Stille1968_17-0>* Stille, W.; Böhle, E.; Helm,
+    E.; Van Rey, W.; Siede, W. (2009). "Über eine durch Cercopithecus
+    aethiops übertragene Infektionskrankheit". /DMW – Deutsche
+    Medizinische Wochenschrift/. *93* (12): 572–582. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1055/s-0028-1105099
+    <https://doi.org/10.1055%2Fs-0028-1105099>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 4966281
+    <https://www.ncbi.nlm.nih.gov/pubmed/4966281>. 
+18. *Jump up ^ <#cite_ref-Bonin1969_18-0>* Bonin, O. (1969). "The
+    Cercopithecus monkey disease in Marburg and Frankfurt (Main), 1967".
+    /Acta zoologica et pathologica Antverpiensia/. *48*: 319–331. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 5005859
+    <https://www.ncbi.nlm.nih.gov/pubmed/5005859>. 
+19. *Jump up ^ <#cite_ref-Jacob1971_19-0>* Jacob, H.; Solcher, H.
+    (1968). "An infectious disease transmitted by Cercopithecus aethiops
+    ("marbury disease") with glial nodule encephalitis". /Acta
+    Neuropathologica/. *11* (1): 29–44. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1007/bf00692793
+    <https://doi.org/10.1007%2Fbf00692793>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 5748997
+    <https://www.ncbi.nlm.nih.gov/pubmed/5748997>. 
+20. *Jump up ^ <#cite_ref-Stojkovic1971_20-0>* Stojkovic, L.; Bordjoski,
+    M.; Gligic, A.; Stefanovic, Z. (1971). "Two Cases of
+    Cercopithecus-Monkeys-Associated Haemorrhagic Fever". In Martini, G.
+    A.; Siegert, R. /Marburg Virus Disease/. Berlin, Germany:
+    Springer-Verlag. pp. 24–33. ISBN
+    <https://en.wikipedia.org/wiki/International_Standard_Book_Number> 978-0-387-05199-4
+    <https://en.wikipedia.org/wiki/Special:BookSources/978-0-387-05199-4> 
+21. *Jump up ^ <#cite_ref-Gear1975_21-0>* Gear, J. S.; Cassel, G. A.;
+    Gear, A. J.; Trappler, B.; Clausen, L.; Meyers, A. M.; Kew, M. C.;
+    Bothwell, T. H.; Sher, R.; Miller, G. B.; Schneider, J.; Koornhof,
+    H. J.; Gomperts, E. D.; Isaäcson, M.; Gear, J. H. (1975). "Outbreake
+    of Marburg virus disease in Johannesburg"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1675587>. /British
+    Medical Journal/. *4* (5995): 489–493. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1136/bmj.4.5995.489
+    <https://doi.org/10.1136%2Fbmj.4.5995.489>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 1675587
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1675587> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 811315
+    <https://www.ncbi.nlm.nih.gov/pubmed/811315>. 
+22. *Jump up ^ <#cite_ref-Gear1977_22-0>* Gear, J. H. (1977).
+    "Haemorrhagic fevers of Africa: An account of two recent outbreaks".
+    /Journal of the South African Veterinary Association/. *48* (1):
+    5–8. PMID <https://en.wikipedia.org/wiki/PubMed_Identifier> 406394
+    <https://www.ncbi.nlm.nih.gov/pubmed/406394>. 
+23. *Jump up ^ <#cite_ref-Conrad1978_23-0>* Conrad, J. L.; Isaacson, M.;
+    Smith, E. B.; Wulff, H.; Crees, M.; Geldenhuys, P.; Johnston, J.
+    (1978). "Epidemiologic investigation of Marburg virus disease,
+    Southern Africa, 1975". /The American Journal of Tropical Medicine
+    and Hygiene/. *27* (6): 1210–5. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 569445
+    <https://www.ncbi.nlm.nih.gov/pubmed/569445>. 
+24. *Jump up ^ <#cite_ref-Smith1982_24-0>* Smith, D. H.; Johnson, B. K.;
+    Isaacson, M.; Swanapoel, R.; Johnson, K. M.; Killey, M.; Bagshawe,
+    A.; Siongok, T.; Keruga, W. K. (1982). "Marburg-virus disease in
+    Kenya". /Lancet/. *1* (8276): 816–820. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1016/S0140-6736(82)91871-2
+    <https://doi.org/10.1016%2FS0140-6736%2882%2991871-2>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 6122054
+    <https://www.ncbi.nlm.nih.gov/pubmed/6122054>. 
+25. *Jump up ^ <#cite_ref-25>* Marburg and Ebola viruses; Advances in
+    Virus Research; Volume 47, 1996, Pages 1–52
+26. *Jump up ^ <#cite_ref-26>* Known Cases and Outbreaks of Marburg
+    Hemorrhagic Fever, in Chronological Order
+    <https://www.cdc.gov/vhf/marburg/resources/outbreak-table.html>
+27. *Jump up ^ <#cite_ref-Beer1999_27-0>* Beer, B.; Kurth, R.; Bukreyev,
+    A. (1999). "Characteristics of Filoviridae: Marburg and Ebola
+    viruses". /Die Naturwissenschaften/. *86* (1): 8–17. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1007/s001140050562
+    <https://doi.org/10.1007%2Fs001140050562>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 10024977
+    <https://www.ncbi.nlm.nih.gov/pubmed/10024977>. 
+28. *Jump up ^ <#cite_ref-Nikiforov1994_28-0>* Nikiforov, V. V.;
+    Turovskiĭ, I.; Kalinin, P. P.; Akinfeeva, L. A.; Katkova, L. R.;
+    Barmin, V. S.; Riabchikova, E. I.; Popkova, N. I.; Shestopalov, A.
+    M.; Nazarov, V. P. (1994). "A case of a laboratory infection with
+    Marburg fever". /Zhurnal mikrobiologii, epidemiologii, i
+    immunobiologii/ (3): 104–6. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 7941853
+    <https://www.ncbi.nlm.nih.gov/pubmed/7941853>. 
+29. *Jump up ^ <#cite_ref-Bertherat1999_29-0>* Bertherat, E.; Talarmin,
+    A.; Zeller, H. (1999). "Democratic Republic of the Congo: Between
+    civil war and the Marburg virus. International Committee of
+    Technical and Scientific Coordination of the Durba Epidemic".
+    /Medecine tropicale : revue du Corps de sante colonial/. *59* (2):
+    201–4. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 10546197
+    <https://www.ncbi.nlm.nih.gov/pubmed/10546197>. 
+30. *Jump up ^ <#cite_ref-Bausch2003_30-0>* Bausch, D. G.; Borchert, M.;
+    Grein, T.; Roth, C.; Swanepoel, R.; Libande, M. L.; Talarmin, A.;
+    Bertherat, E.; Muyembe-Tamfum, J. J.; Tugume, B.; Colebunders, R.;
+    Kondé, K. M.; Pirad, P.; Olinda, L. L.; Rodier, G. R.; Campbell, P.;
+    Tomori, O.; Ksiazek, T. G.; Rollin, P. E. (2003). "Risk Factors for
+    Marburg Hemorrhagic Fever, Democratic Republic of the Congo"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3034318>. /Emerging
+    Infectious Diseases/. *9* (12): 1531–7. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.3201/eid0912.030355
+    <https://doi.org/10.3201%2Feid0912.030355>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 3034318
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3034318> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 14720391
+    <https://www.ncbi.nlm.nih.gov/pubmed/14720391>. 
+31. *Jump up ^ <#cite_ref-Bausch2006_31-0>* Bausch, D. G.; Nichol, S.
+    T.; Muyembe-Tamfum, J. J.; Borchert, M.; Rollin, P. E.; Sleurs, H.;
+    Campbell, P.; Tshioko, F. K.; Roth, C.; Colebunders, R.; Pirard, P.;
+    Mardel, S.; Olinda, L. A.; Zeller, H.; Tshomba, A.; Kulidri, A.;
+    Libande, M. L.; Mulangu, S.; Formenty, P.; Grein, T.; Leirs, H.;
+    Braack, L.; Ksiazek, T.; Zaki, S.; Bowen, M. D.; Smit, S. B.; Leman,
+    P. A.; Burt, F. J.; Kemp, A.; Swanepoel, R. (2006). "Marburg
+    Hemorrhagic Fever Associated with Multiple Genetic Lineages of
+    Virus". /New England Journal of Medicine/. *355* (9): 909–919. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1056/NEJMoa051465
+    <https://doi.org/10.1056%2FNEJMoa051465>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 16943403
+    <https://www.ncbi.nlm.nih.gov/pubmed/16943403>. 
+32. *Jump up ^ <#cite_ref-Hovette2005_32-0>* Hovette, P. (2005).
+    "Epidemic of Marburg hemorrhagic fever in Angola". /Medecine
+    tropicale: revue du Corps de sante colonial/. *65* (2): 127–8. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 16038348
+    <https://www.ncbi.nlm.nih.gov/pubmed/16038348>. 
+33. *Jump up ^ <#cite_ref-Ndayimirije2005_33-0>* Ndayimirije, N.;
+    Kindhauser, M. K. (2005). "Marburg Hemorrhagic Fever in
+    Angola—Fighting Fear and a Lethal Pathogen". /New England Journal of
+    Medicine/. *352* (21): 2155–7. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1056/NEJMp058115
+    <https://doi.org/10.1056%2FNEJMp058115>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 15917379
+    <https://www.ncbi.nlm.nih.gov/pubmed/15917379>. 
+34. *Jump up ^ <#cite_ref-Towner2006_34-0>* Towner, J. S.; Khristova, M.
+    L.; Sealy, T. K.; Vincent, M. J.; Erickson, B. R.; Bawiec, D. A.;
+    Hartman, A. L.; Comer, J. A.; Zaki, S. R.; Ströher, U.; Gomes Da
+    Silva, F.; Del Castillo, F.; Rollin, P. E.; Ksiazek, T. G.; Nichol,
+    S. T. (2006). "Marburgvirus Genomics and Association with a Large
+    Hemorrhagic Fever Outbreak in Angola"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1488971>. /Journal of
+    Virology/. *80* (13): 6497–6516. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1128/JVI.00069-06
+    <https://doi.org/10.1128%2FJVI.00069-06>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 1488971
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1488971> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 16775337
+    <https://www.ncbi.nlm.nih.gov/pubmed/16775337>. 
+35. *Jump up ^ <#cite_ref-Jeffs2007_35-0>* Jeffs, B.; Roddy, P.;
+    Weatherill, D.; De La Rosa, O.; Dorion, C.; Iscla, M.; Grovas, I.;
+    Palma, P. P.; Villa, L.; Bernal, O.; Rodriguez-Martinez, J.;
+    Barcelo, B.; Pou, D.; Borchert, M. (2007). "The Médecins Sans
+    Frontières Intervention in the Marburg Hemorrhagic Fever Epidemic,
+    Uige, Angola, 2005. I. Lessons Learned in the Hospital". /The
+    Journal of Infectious Diseases/. *196*: S154–S161. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1086/520548
+    <https://doi.org/10.1086%2F520548>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 17940944
+    <https://www.ncbi.nlm.nih.gov/pubmed/17940944>. 
+36. *Jump up ^ <#cite_ref-Roddy2007_36-0>* Roddy, P.; Weatherill, D.;
+    Jeffs, B.; Abaakouk, Z.; Dorion, C.; Rodriguez-Martinez, J.; Palma,
+    P. P.; De La Rosa, O.; Villa, L.; Grovas, I.; Borchert, M. (2007).
+    "The Médecins Sans Frontières Intervention in the Marburg
+    Hemorrhagic Fever Epidemic, Uige, Angola, 2005. II. Lessons Learned
+    in the Community". /The Journal of Infectious Diseases/. *196*:
+    S162–7. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1086/520544
+    <https://doi.org/10.1086%2F520544>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 17940945
+    <https://www.ncbi.nlm.nih.gov/pubmed/17940945>. 
+37. *Jump up ^ <#cite_ref-Roddy2009_37-0>* Roddy, P.; Marchiol, A.;
+    Jeffs, B.; Palma, P. P.; Bernal, O.; De La Rosa, O.; Borchert, M.
+    (2009). "Decreased peripheral health service utilisation during an
+    outbreak of Marburg haemorrhagic fever, Uíge, Angola, 2005".
+    /Transactions of the Royal Society of Tropical Medicine and
+    Hygiene/. *103* (2): 200–2. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1016/j.trstmh.2008.09.001
+    <https://doi.org/10.1016%2Fj.trstmh.2008.09.001>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 18838150
+    <https://www.ncbi.nlm.nih.gov/pubmed/18838150>. 
+38. *Jump up ^ <#cite_ref-Roddy2010_38-0>* Roddy, P.; Thomas, S. L.;
+    Jeffs, B.; Nascimento Folo, P.; Pablo Palma, P.; Moco Henrique, B.;
+    Villa, L.; Damiao Machado, F. P.; Bernal, O.; Jones, S. M.; Strong,
+    J. E.; Feldmann, H.; Borchert, M. (2010). "Factors Associated with
+    Marburg Hemorrhagic Fever: Analysis of Patient Data from Uige,
+    Angola" <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3407405>. /The
+    Journal of Infectious Diseases/. *201* (12): 1909–18. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1086/652748
+    <https://doi.org/10.1086%2F652748>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 3407405
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3407405> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 20441515
+    <https://www.ncbi.nlm.nih.gov/pubmed/20441515>. 
+39. ^ Jump up to: ^/*a*/ <#cite_ref-Towner2009_39-0> ^/*b*/
+    <#cite_ref-Towner2009_39-1> ^/*c*/ <#cite_ref-Towner2009_39-2>
+    Towner, J. S.; Amman, B. R.; Sealy, T. K.; Carroll, S. A. R.; Comer,
+    J. A.; Kemp, A.; Swanepoel, R.; Paddock, C. D.; Balinandi, S.;
+    Khristova, M. L.; Formenty, P. B.; Albarino, C. G.; Miller, D. M.;
+    Reed, Z. D.; Kayiwa, J. T.; Mills, J. N.; Cannon, D. L.; Greer, P.
+    W.; Byaruhanga, E.; Farnon, E. C.; Atimnedi, P.; Okware, S.;
+    Katongole-Mbidde, E.; Downing, R.; Tappero, J. W.; Zaki, S. R.;
+    Ksiazek, T. G.; Nichol, S. T.; Rollin, P. E. (2009). Fouchier, Ron
+    A. M., ed. "Isolation of Genetically Diverse Marburg Viruses from
+    Egyptian Fruit Bats"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2713404>. /PLoS
+    Pathogens/. *5* (7): e1000536. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1371/journal.ppat.1000536
+    <https://doi.org/10.1371%2Fjournal.ppat.1000536>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 2713404
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2713404> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 19649327
+    <https://www.ncbi.nlm.nih.gov/pubmed/19649327>. 
+40. *Jump up ^ <#cite_ref-Adjemian2011_40-0>* Adjemian, J.; Farnon, E.
+    C.; Tschioko, F.; Wamala, J. F.; Byaruhanga, E.; Bwire, G. S.;
+    Kansiime, E.; Kagirita, A.; Ahimbisibwe, S.; Katunguka, F.; Jeffs,
+    B.; Lutwama, J. J.; Downing, R.; Tappero, J. W.; Formenty, P.;
+    Amman, B.; Manning, C.; Towner, J.; Nichol, S. T.; Rollin, P. E.
+    (2011). "Outbreak of Marburg Hemorrhagic Fever Among Miners in
+    Kamwenge and Ibanda Districts, Uganda, 2007"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3203392>. /Journal of
+    Infectious Diseases/. *204* (Suppl 3): S796–9. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1093/infdis/jir312
+    <https://doi.org/10.1093%2Finfdis%2Fjir312>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 3203392
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3203392> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 21987753
+    <https://www.ncbi.nlm.nih.gov/pubmed/21987753>. 
+41. *Jump up ^ <#cite_ref-Timen2009_41-0>* Timen, A.; Koopmans, M. P.;
+    Vossen, A. C.; Van Doornum, G. J.; Günther, S.; Van Den Berkmortel,
+    F.; Verduin, K. M.; Dittrich, S.; Emmerich, P.; Osterhaus, A. D. M.
+    E.; Van Dissel, J. T.; Coutinho, R. A. (2009). "Response to Imported
+    Case of Marburg Hemorrhagic Fever, the Netherlands"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2815969>. /Emerging
+    Infectious Diseases/. *15* (8): 1171–5. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.3201/eid1508.090015
+    <https://doi.org/10.3201%2Feid1508.090015>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 2815969
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2815969> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 19751577
+    <https://www.ncbi.nlm.nih.gov/pubmed/19751577>. 
+42. *Jump up ^ <#cite_ref-42>* "Marburg hemorrhagic fever outbreak
+    continues in Uganda"
+    <http://www.healio.com/pediatrics/emerging-diseases/news/online/%7B52F1CE80-ACF7-4302-AB14-05428DDDA440%7D/Marburg-hemorrhagic-fever-outbreak-continues-in-Uganda->.
+    October 2012. 
+43. *Jump up ^ <#cite_ref-43>* "1st LD-Writethru: Deadly Marburg
+    hemorrhagic fever breaks out in Uganda"
+    <http://www.china.org.cn/world/Off_the_Wire/2014-10/05/content_33686011.htm>.
+    October 5, 2014. 
+44. *Jump up ^ <#cite_ref-44>* Ntale, Samson (October 8, 2014). "99 in
+    Uganda quarantined after Marburg virus death"
+    <http://www.cnn.com/2014/10/07/health/uganda-marburg-death/index.html?hpt=wo_bn7>.
+    /CNN/. Retrieved 2014-10-19. 
+45. *Jump up ^ <#cite_ref-45>* "Marburg virus disease – Uganda Disease
+    outbreak news"
+    <http://www.who.int/csr/don/25-october-2017-marburg-uganda/en/>.
+    October 25, 2017. 
+46. *Jump up ^ <#cite_ref-Fauquet2005_46-0>* Pringle, C. R. (2005).
+    "Order Mononegavirales". In Fauquet, C. M.; Mayo, M. A.; Maniloff,
+    J.; Desselberger, U.; Ball, L. A. /Virus Taxonomy—Eighth Report of
+    the International Committee on Taxonomy of Viruses/. San Diego, US:
+    Elsevier/Academic Press. pp. 609–614. ISBN
+    <https://en.wikipedia.org/wiki/International_Standard_Book_Number> 0-12-370200-3
+    <https://en.wikipedia.org/wiki/Special:BookSources/0-12-370200-3> 
+47. ^ Jump up to: ^/*a*/ <#cite_ref-Kiley1982_47-0> ^/*b*/
+    <#cite_ref-Kiley1982_47-1> Kiley, M. P.; Bowen, E. T.; Eddy, G. A.;
+    Isaäcson, M.; Johnson, K. M.; McCormick, J. B.; Murphy, F. A.;
+    Pattyn, S. R.; Peters, D.; Prozesky, O. W.; Regnery, R. L.; Simpson,
+    D. I.; Slenczka, W.; Sureau, P.; Van Der Groen, G.; Webb, P. A.;
+    Wulff, H. (1982). "Filoviridae: A taxonomic home for Marburg and
+    Ebola viruses?". /Intervirology/. *18* (1–2): 24–32. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1159/000149300
+    <https://doi.org/10.1159%2F000149300>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 7118520
+    <https://www.ncbi.nlm.nih.gov/pubmed/7118520>. 
+48. *Jump up ^ <#cite_ref-48>* Bharat, C.A.T; Riches, J. D.;
+    Kolesnikova, L.; Welsch, S.; Krähling, V.; Davey, N.; Parsy, M. L.;
+    Becker, S.; Briggs, J. A. G. (2011). Rey, Félix A, ed.
+    "Cryo-Electron Tomography of Marburg Virus Particles and Their
+    Morphogenesis within Infected Cells"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3217011>. /PLoS
+    Biology/. *9* (11): e1001196. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1371/journal.pbio.1001196
+    <https://doi.org/10.1371%2Fjournal.pbio.1001196>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 3217011
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3217011> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 22110401
+    <https://www.ncbi.nlm.nih.gov/pubmed/22110401>. 
+49. *Jump up ^ <#cite_ref-Geisbert1995_49-0>* Geisbert, T. W.; Jahrling,
+    P. B. (1995). "Differentiation of filoviruses by electron
+    microscopy". /Virus research/. *39* (2–3): 129–150. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1016/0168-1702(95)00080-1
+    <https://doi.org/10.1016%2F0168-1702%2895%2900080-1>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 8837880
+    <https://www.ncbi.nlm.nih.gov/pubmed/8837880>. 
+50. ^ Jump up to: ^/*a*/ <#cite_ref-pmid21866103_50-0> ^/*b*/
+    <#cite_ref-pmid21866103_50-1> ^/*c*/ <#cite_ref-pmid21866103_50-2>
+    Carette JE, Raaben M, Wong AC, Herbert AS, Obernosterer G, Mulherkar
+    N, Kuehne AI, Kranzusch PJ, Griffin AM, Ruthel G, Dal Cin P, Dye JM,
+    Whelan SP, Chandran K, Brummelkamp TR (September 2011). "Ebola virus
+    entry requires the cholesterol transporter Niemann-Pick C1"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3175325>. /Nature/.
+    *477* (7364): 340–3. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1038/nature10348
+    <https://doi.org/10.1038%2Fnature10348>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 3175325
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3175325> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 21866103
+    <https://www.ncbi.nlm.nih.gov/pubmed/21866103>. Lay summary
+    <https://www.nytimes.com/2012/01/17/health/npc1-protein-may-give-ebola-its-opening.html>
+    – /New York Times/. 
+51. ^ Jump up to: ^/*a*/ <#cite_ref-pmid21866101_51-0> ^/*b*/
+    <#cite_ref-pmid21866101_51-1> ^/*c*/ <#cite_ref-pmid21866101_51-2>
+    ^/*d*/ <#cite_ref-pmid21866101_51-3> Côté M, Misasi J, Ren T,
+    Bruchez A, Lee K, Filone CM, Hensley L, Li Q, Ory D, Chandran K,
+    Cunningham J (September 2011). "Small molecule inhibitors reveal
+    Niemann-Pick C1 is essential for Ebola virus infection"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230319>. /Nature/.
+    *477* (7364): 344–8. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1038/nature10380
+    <https://doi.org/10.1038%2Fnature10380>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 3230319
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3230319> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 21866101
+    <https://www.ncbi.nlm.nih.gov/pubmed/21866101>. Lay summary
+    <https://www.nytimes.com/2012/01/17/health/npc1-protein-may-give-ebola-its-opening.html>
+    – /New York Times/. 
+52. *Jump up ^ <#cite_ref-pmid22395071_52-0>* Miller EH, Obernosterer G,
+    Raaben M, Herbert AS, Deffieu MS, Krishnan A, Ndungo E, Sandesara
+    RG, Carette JE, Kuehne AI, Ruthel G, Pfeffer SR, Dye JM, Whelan SP,
+    Brummelkamp TR, Chandran K (March 2012). "Ebola virus entry requires
+    the host-programmed recognition of an intracellular receptor"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3343336>. /EMBO
+    Journal/. *31* (8): 1947–60. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1038/emboj.2012.53
+    <https://doi.org/10.1038%2Femboj.2012.53>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 3343336
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3343336> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 22395071
+    <https://www.ncbi.nlm.nih.gov/pubmed/22395071>. 
+53. *Jump up ^ <#cite_ref-pmid21959282_53-0>* Flemming A (October 2011).
+    "Achilles heel of Ebola viral entry". /Nat Rev Drug Discov/. *10*
+    (10): 731. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1038/nrd3568
+    <https://doi.org/10.1038%2Fnrd3568>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 21959282
+    <https://www.ncbi.nlm.nih.gov/pubmed/21959282>. 
+54. *Jump up ^ <#cite_ref-54>* Paweska, J. T.; Jansen Van Vuren, P.;
+    Masumu, J.; Leman, P. A.; Grobbelaar, A. A.; Birkhead, M.; Clift,
+    S.; Swanepoel, R.; Kemp, A. (2012). "Virological and Serological
+    Findings in Rousettus aegyptiacus Experimentally Inoculated with
+    Vero Cells-Adapted Hogan Strain of Marburg Virus"
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3444458>. /PLoS ONE/.
+    *7* (9): e45479. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1371/journal.pone.0045479
+    <https://doi.org/10.1371%2Fjournal.pone.0045479>. PMC
+    <https://en.wikipedia.org/wiki/PubMed_Central> 3444458
+    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3444458> Freely
+    accessible. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 23029039
+    <https://www.ncbi.nlm.nih.gov/pubmed/23029039>.  open access
+    publication – free to read <https://en.wikipedia.org/wiki/Open_access>
+55. *Jump up ^ <#cite_ref-Zehender2016_55-0>* Zehender G, Sorrentino C,
+    Veo C, Fiaschi L, Gioffrè S, Ebranati E, Tanzi E, Ciccozzi M, Lai A,
+    Galli M (2016). "Distribution of Marburg virus in Africa: An
+    evolutionary approach"
+    <https://linkinghub.elsevier.com/retrieve/pii/S1567-1348(16)30238-6>. /Infect.
+    Genet. Evol/. *44*: 8–16. doi
+    <https://en.wikipedia.org/wiki/Digital_object_identifier>:10.1016/j.meegid.2016.06.014
+    <https://doi.org/10.1016%2Fj.meegid.2016.06.014>. PMID
+    <https://en.wikipedia.org/wiki/PubMed_Identifier> 27282469
+    <https://www.ncbi.nlm.nih.gov/pubmed/27282469>. 
+56. ^ Jump up to: ^/*a*/ <#cite_ref-Alibek1999_56-0> ^/*b*/
+    <#cite_ref-Alibek1999_56-1> ^/*c*/ <#cite_ref-Alibek1999_56-2>
+    Alibek, Steven; Handelman. /Biohazard: The Chilling True Story of
+    the Largest Covert Biological Weapons Program in the World—Told from
+    Inside by the Man Who Ran It/. New York: Random House. ISBN
+    <https://en.wikipedia.org/wiki/International_Standard_Book_Number> 0-385-33496-6
+    <https://en.wikipedia.org/wiki/Special:BookSources/0-385-33496-6> 
+
+
+    Further reading[edit
+    <https://en.wikipedia.org/w/index.php?title=Marburg_virus&action=edit&section=14>]
+
+  * Klenk, Hans-Dieter (1999). /Marburg and Ebola Viruses/. Current
+    Topics in Microbiology and Immunology. *235*. Berlin, Germany:
+    Springer-Verlag. ISBN
+    <https://en.wikipedia.org/wiki/International_Standard_Book_Number> 978-3-540-64729-4
+    <https://en.wikipedia.org/wiki/Special:BookSources/978-3-540-64729-4> 
+  * Klenk, Hans-Dieter; Feldmann, Heinz (2004). /Ebola and Marburg
+    Viruses: Molecular and Cellular Biology/. Wymondham, Norfolk, UK:
+    Horizon Bioscience. ISBN
+    <https://en.wikipedia.org/wiki/International_Standard_Book_Number> 978-1-904933-49-6
+    <https://en.wikipedia.org/wiki/Special:BookSources/978-1-904933-49-6> 
+  * Kuhn, Jens H. (2008). /Filoviruses: A Compendium of 40 Years of
+    Epidemiological, Clinical, and Laboratory Studies. Archives of
+    Virology Supplement, vol. 20/. Vienna, Austria: SpringerWienNewYork.
+    ISBN
+    <https://en.wikipedia.org/wiki/International_Standard_Book_Number> 978-3-211-20670-6
+    <https://en.wikipedia.org/wiki/Special:BookSources/978-3-211-20670-6> 
+  * Martini, G. A.; Siegert, R. (1971). /Marburg Virus Disease/. Berlin,
+    Germany: Springer-Verlag. ISBN
+    <https://en.wikipedia.org/wiki/International_Standard_Book_Number> 978-0-387-05199-4
+    <https://en.wikipedia.org/wiki/Special:BookSources/978-0-387-05199-4>. 
+  * Ryabchikova, Elena I.; Price, Barbara B. (2004). /Ebola and Marburg
+    Viruses: A View of Infection Using Electron Microscopy/. Columbus,
+    Ohio, US: Battelle Press. ISBN
+    <https://en.wikipedia.org/wiki/International_Standard_Book_Number> 978-1-57477-131-2
+    <https://en.wikipedia.org/wiki/Special:BookSources/978-1-57477-131-2> 
+
+
+    External links[edit
+    <https://en.wikipedia.org/w/index.php?title=Marburg_virus&action=edit&section=15>]
+
+	Wikimedia Commons has media related to /*Marburg virus
+<https://commons.wikimedia.org/wiki/Category:Marburg_virus>*/.
+
+  * International Committee on Taxonomy of Viruses (ICTV)
+    <http://talk.ictvonline.org/>
+  * FILOVIR — scientific resources for research on filoviruses
+    <http://www.filovir.com/>
+
+Taxon identifiers
+<https://www.wikidata.org/wiki/Wikidata:WikiProject_Taxonomy> 	
+
+  * Wd <https://en.wikipedia.org/wiki/Wikidata>: Q6755280
+    <https://www.wikidata.org/wiki/Q6755280>
+  * EoL <https://en.wikipedia.org/wiki/Encyclopedia_of_Life>: 741149
+    <http://eol.org/pages/741149>
+  * NCBI
+    <https://en.wikipedia.org/wiki/National_Center_for_Biotechnology_Information>: 11269
+    <https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=11269>
+
+[show <#>]
+
+  * v <https://en.wikipedia.org/wiki/Template:Filoviridae>
+  * t <https://en.wikipedia.org/wiki/Template_talk:Filoviridae>
+  * e
+    <https://en.wikipedia.org/w/index.php?title=Template:Filoviridae&action=edit>
+
+Family /Filoviridae <https://en.wikipedia.org/wiki/Filoviridae>/
+/Cuevavirus <https://en.wikipedia.org/wiki/Cuevavirus>/ 	
+Species 	
+
+  * /Lloviu cuevavirus
+    <https://en.wikipedia.org/wiki/Lloviu_cuevavirus>/ (LLOV
+    <https://en.wikipedia.org/wiki/Lloviu_virus>)
+
+/Ebolavirus <https://en.wikipedia.org/wiki/Ebolavirus>/ 	
+Species 	
+
+  * /Bundibugyo ebolavirus
+    <https://en.wikipedia.org/wiki/Bundibugyo_ebolavirus>/ (BDBV
+    <https://en.wikipedia.org/wiki/Bundibugyo_virus>)
+  * /Reston ebolavirus
+    <https://en.wikipedia.org/wiki/Reston_ebolavirus>/ (RESTV
+    <https://en.wikipedia.org/wiki/Reston_virus>)
+  * /Sudan ebolavirus <https://en.wikipedia.org/wiki/Sudan_ebolavirus>/
+    (SUDV <https://en.wikipedia.org/wiki/Sudan_virus>)
+  * /Taï Forest ebolavirus
+    <https://en.wikipedia.org/wiki/Ta%C3%AF_Forest_ebolavirus>/ (TAFV
+    <https://en.wikipedia.org/wiki/Ta%C3%AF_Forest_virus>)
+  * /Zaire ebolavirus <https://en.wikipedia.org/wiki/Zaire_ebolavirus>/
+    (EBOV <https://en.wikipedia.org/wiki/Ebola_virus>)
+
+Outbreaks <https://en.wikipedia.org/wiki/List_of_Ebola_outbreaks> 	
+
+  * 1976 Sudan outbreak
+    <https://en.wikipedia.org/wiki/Ebola_virus_disease#Sudan_outbreak>
+  * 1976 Zaire outbreak
+    <https://en.wikipedia.org/wiki/Yambuku#Ebola_outbreak>
+  * 2013−2016 West African Ebola virus epidemic
+    <https://en.wikipedia.org/wiki/West_African_Ebola_virus_epidemic>
+      o Timeline
+        <https://en.wikipedia.org/wiki/West_African_Ebola_virus_epidemic_timeline>
+      o Reported cases and deaths
+        <https://en.wikipedia.org/wiki/West_African_Ebola_virus_epidemic_timeline_of_reported_cases_and_deaths>
+      o Responses
+        <https://en.wikipedia.org/wiki/Responses_to_the_West_African_Ebola_virus_epidemic>
+      o United Nations Ebola Response Fund
+        <https://en.wikipedia.org/wiki/United_Nations_Ebola_Response_Fund>
+      o Operation United Assistance
+        <https://en.wikipedia.org/wiki/Operation_United_Assistance>
+      o in Guinea
+        <https://en.wikipedia.org/wiki/Ebola_virus_epidemic_in_Guinea>
+      o in Liberia
+        <https://en.wikipedia.org/wiki/Ebola_virus_epidemic_in_Liberia>
+      o in Mali <https://en.wikipedia.org/wiki/Ebola_virus_disease_in_Mali>
+      o in Nigeria
+        <https://en.wikipedia.org/wiki/Ebola_virus_disease_in_Nigeria>
+      o in Sierra Leone
+        <https://en.wikipedia.org/wiki/Ebola_virus_epidemic_in_Sierra_Leone>
+      o in Spain
+        <https://en.wikipedia.org/wiki/Ebola_virus_disease_in_Spain>
+      o in the US
+        <https://en.wikipedia.org/wiki/Ebola_virus_cases_in_the_United_States>
+      o in the UK
+        <https://en.wikipedia.org/wiki/Ebola_virus_disease_in_the_United_Kingdom>
+      o Ouse to Ouse Tock <https://en.wikipedia.org/wiki/Ouse_to_Ouse_Tock>
+      o Womey massacre <https://en.wikipedia.org/wiki/Womey_massacre>
+  * 2014 DR Congo outbreak
+    <https://en.wikipedia.org/wiki/2014_Democratic_Republic_of_the_Congo_Ebola_virus_outbreak>
+  * 2017 DR Congo outbreak
+    <https://en.wikipedia.org/wiki/2017_Democratic_Republic_of_the_Congo_Ebola_virus_outbreak>
+
+Drug candidates 	
+
+  * BCX4430 <https://en.wikipedia.org/wiki/BCX4430>
+  * Brincidofovir <https://en.wikipedia.org/wiki/Brincidofovir>
+  * DZNep <https://en.wikipedia.org/wiki/3-Deazaneplanocin_A>
+  * Favipiravir <https://en.wikipedia.org/wiki/Favipiravir>
+  * FGI-103 <https://en.wikipedia.org/wiki/FGI-103>
+  * FGI-104 <https://en.wikipedia.org/wiki/FGI-104>
+  * FGI-106 <https://en.wikipedia.org/wiki/FGI-106>
+  * JK-05 <https://en.wikipedia.org/wiki/JK-05>
+  * Lamivudine <https://en.wikipedia.org/wiki/Lamivudine>
+  * TKM-Ebola <https://en.wikipedia.org/wiki/TKM-Ebola> (failed)
+  * Triazavirin <https://en.wikipedia.org/wiki/Triazavirin>
+  * ZMapp <https://en.wikipedia.org/wiki/ZMapp>
+  * Vaccines <https://en.wikipedia.org/wiki/Ebola_vaccine>
+      o cAd3-ZEBOV <https://en.wikipedia.org/wiki/CAd3-ZEBOV>
+      o rVSV-ZEBOV <https://en.wikipedia.org/wiki/RVSV-ZEBOV_vaccine>
+
+Notable people 	
+
+  * William Close <https://en.wikipedia.org/wiki/William_Close>
+  * Peter Piot <https://en.wikipedia.org/wiki/Peter_Piot>
+  * Selected patients
+    <https://en.wikipedia.org/wiki/List_of_Ebola_patients>
+      o Ameyo Adadevoh <https://en.wikipedia.org/wiki/Ameyo_Adadevoh>
+      o Kent Brantly <https://en.wikipedia.org/wiki/Kent_Brantly>
+      o Pauline Cafferkey <https://en.wikipedia.org/wiki/Pauline_Cafferkey>
+      o Thomas Eric Duncan
+        <https://en.wikipedia.org/wiki/Thomas_Eric_Duncan>
+      o Salome Karwah <https://en.wikipedia.org/wiki/Salome_Karwah>
+      o Sheik Umar Khan <https://en.wikipedia.org/wiki/Sheik_Umar_Khan>
+      o Matthew Lukwiya <https://en.wikipedia.org/wiki/Matthew_Lukwiya>
+      o Mayinga N'Seka <https://en.wikipedia.org/wiki/Mayinga_N%27Seka>
+      o Patrick Sawyer <https://en.wikipedia.org/wiki/Patrick_Sawyer>
+
+Popular culture
+<https://en.wikipedia.org/wiki/Cultural_effects_of_the_Ebola_crisis> 	
+
+  * /The Hot Zone <https://en.wikipedia.org/wiki/The_Hot_Zone>/ (1995
+    book by Richard Preston <https://en.wikipedia.org/wiki/Richard_Preston>)
+  * /Outbreak <https://en.wikipedia.org/wiki/Outbreak_(film)>/ (1995 film)
+  * /Ebola Syndrome <https://en.wikipedia.org/wiki/Ebola_Syndrome>/
+    (1996 film)
+  * /Executive Orders <https://en.wikipedia.org/wiki/Executive_Orders>/
+    (1996 novel)
+  * /93 Days <https://en.wikipedia.org/wiki/93_Days>/ (2016 film)
+
+Miscellaneous 	
+
+  * Ebola virus disease <https://en.wikipedia.org/wiki/Ebola_virus_disease>
+      o Treatment research
+        <https://en.wikipedia.org/wiki/Ebola_virus_disease_treatment_research>
+  * Ebola River <https://en.wikipedia.org/wiki/Ebola_River>
+
+/Marburgvirus <https://en.wikipedia.org/wiki/Marburgvirus>/ 	
+Species 	
+
+  * /Marburg marburgvirus
+    <https://en.wikipedia.org/wiki/Marburg_marburgvirus>/
+      o MARV
+      o RAVV <https://en.wikipedia.org/wiki/Ravn_virus>
+
+Outbreaks 	
+
+  * 2017 Uganda Marburg virus outbreak
+    <https://en.wikipedia.org/wiki/2017_Uganda_Marburg_virus_outbreak>
+
+Drug candidates 	
+
+  * BCX4430 <https://en.wikipedia.org/wiki/BCX4430>
+  * FGI-103 <https://en.wikipedia.org/wiki/FGI-103>
+  * FGI-106 <https://en.wikipedia.org/wiki/FGI-106>
+
+Popular culture 	
+
+  * /The Hot Zone <https://en.wikipedia.org/wiki/The_Hot_Zone>/ (1995 book)
+
+Miscellaneous 	
+
+  * Marburg virus disease
+    <https://en.wikipedia.org/wiki/Marburg_virus_disease>
+  * Marburg <https://en.wikipedia.org/wiki/Marburg>
+
+  * Commons page Commons
+    <https://commons.wikimedia.org/wiki/Special:Search/Filoviridae>
+  * Wikispecies page Wikispecies
+    <https://species.wikimedia.org/wiki/Special:Search/Filoviridae>
+
+Retrieved from
+"https://en.wikipedia.org/w/index.php?title=Marburg_virus&oldid=811473917"
+Categories <https://en.wikipedia.org/wiki/Help:Category>:
+
+  * Marburgviruses <https://en.wikipedia.org/wiki/Category:Marburgviruses>
+  * Animal viral diseases
+    <https://en.wikipedia.org/wiki/Category:Animal_viral_diseases>
+  * Arthropod-borne viral fevers and viral haemorrhagic fevers
+    <https://en.wikipedia.org/wiki/Category:Arthropod-borne_viral_fevers_and_viral_haemorrhagic_fevers>
+  * Biological weapons
+    <https://en.wikipedia.org/wiki/Category:Biological_weapons>
+  * Hemorrhagic fevers
+    <https://en.wikipedia.org/wiki/Category:Hemorrhagic_fevers>
+  * Tropical diseases
+    <https://en.wikipedia.org/wiki/Category:Tropical_diseases>
+  * Primate diseases
+    <https://en.wikipedia.org/wiki/Category:Primate_diseases>
+  * Zoonoses <https://en.wikipedia.org/wiki/Category:Zoonoses>
+  * Filoviridae <https://en.wikipedia.org/wiki/Category:Filoviridae>
+
+Hidden categories:
+
+  * Articles with inconsistent citation formats
+    <https://en.wikipedia.org/wiki/Category:Articles_with_inconsistent_citation_formats>
+  * Articles with 'species' microformats
+    <https://en.wikipedia.org/wiki/Category:Articles_with_%27species%27_microformats>
+  * All articles with unsourced statements
+    <https://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements>
+  * Articles with unsourced statements from October 2017
+    <https://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_October_2017>
+  * Commons category with local link different than on Wikidata
+    <https://en.wikipedia.org/wiki/Category:Commons_category_with_local_link_different_than_on_Wikidata>
+
+
+    Navigation menu
+
+
+Personal tools
+
+  * Not logged in
+  * Talk <https://en.wikipedia.org/wiki/Special:MyTalk>
+  * Contributions <https://en.wikipedia.org/wiki/Special:MyContributions>
+  * Create account
+    <https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Marburg+virus>
+  * Log in
+    <https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Marburg+virus>
+
+
+Namespaces
+
+  * Article
+
+    <https://en.wikipedia.org/wiki/Marburg_virus>
+  * Talk
+
+    <https://en.wikipedia.org/wiki/Talk:Marburg_virus>
+
+
+      Variants
+
+
+Views
+
+  * Read
+
+    <https://en.wikipedia.org/wiki/Marburg_virus>
+  * Edit
+
+    <https://en.wikipedia.org/w/index.php?title=Marburg_virus&action=edit>
+  * View history
+
+    <https://en.wikipedia.org/w/index.php?title=Marburg_virus&action=history>
+
+
+      More
 
 
       Search
 
-Search the WHO.int site
-
-Submit
-
-Advanced search
-<http://search.who.int/search?ie=utf8&site=who&lr=lang_en&client=_en_r&proxystylesheet=_en_r&output=xml_no_dtd&oe=UTF-8&access=p&entqr=3&ud=1&proxycustom=%3CADVANCED/%3E>
-
-
-//
-
-
-      Navigation
-
-  * Home
-
-    <http://www.who.int/en/>
-  * Health topics
-
-    <http://www.who.int/topics/en/>
-  * Data
-
-    <http://www.who.int/entity/gho/en/>
-  * Media centre
-
-    <http://www.who.int/entity/mediacentre/en/>
-  * Publications
-
-    <http://www.who.int/publications/en/>
-  * Countries
-
-    <http://www.who.int/countries/en/>
-  * Programmes
-
-    <http://www.who.int/entity/en/>
-  * Governance
-
-    <http://www.who.int/governance/en/>
-  * About WHO
-
-    <http://www.who.int/about/en/>
-
-
-      Language
-
-عربي
-
-<http://www.who.int/csr/disease/marburg/ar/index.html>
-中文
-
-<http://www.who.int/csr/disease/marburg/zh/index.html>
-English
-
-<http://www.who.int/csr/disease/marburg/en/index.html>
-Français
-
-<http://www.who.int/csr/disease/marburg/fr/index.html>
-Русский
-
-<http://www.who.int/csr/disease/marburg/ru/index.html>
-Español
-
-<http://www.who.int/csr/disease/marburg/es/index.html>
-
-RSSFollow on RSS
-
-<http://www.who.int/about/licensing/rss/en/index.html>YouTubeFollow on
-YouTube
-
-<http://www.youtube.com/user/who?sub_confirmation=1>TwitterFollow on Twitter
-
-<http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=who>FacebookFollow
-on Facebook
-
-<http://www.facebook.com/WHO>Google+Follow on Google Follow
-
-<https://plus.google.com/+who/posts>InstagramFollow on Instagram
-
-<http://instagram.com/who>
-
-
-    Emergencies preparedness, response
-
-
-Menu
-
-  * Home
-
-    <http://www.who.int/entity/csr/en/>
-  * Ebola outbreak in DRC
-
-    <http://www.who.int/entity/emergencies/ebola-DRC-2017/en/>
-  * Alert and response operations
-
-    <http://www.who.int/entity/csr/alertresponse/en/>
-  * Diseases
-
-    <http://www.who.int/entity/csr/disease/en/>
-  * Biorisk reduction
-
-    <http://www.who.int/entity/csr/bioriskreduction/en/>
-  * Disease outbreak news
-
-    <http://www.who.int/entity/csr/don/en/>
-
-
-  Marburg virus disease
-
-
-    Health workers urged to work with communities to stop Marburg virus
-    disease
-
-WHO
-
-4 November 2017 - As the Marburg virus disease continues to unfold in
-Kween district, eastern Uganda, frontline health workers battling the
-outbreak have been urged to nurture local capacity to be able to respond
-to the current and future outbreaks.
-
-“Community engagement is the cornerstone of emergency response. Work
-with the communities to build their capacity for success and
-sustainability,” said Dr Zabulon Yoti, WHO Technical Coordinator for
-Emergencies, Regional Office for Africa.
-
-  * Read the story
-    <http://www.afro.who.int/news/health-workers-urged-work-communities-stop-marburg>
-
-
-    WHO supports containment of rare virus on Uganda-Kenya border
-    <http://www.who.int/entity/mediacentre/news/releases/2017/virus-uganda-kenya/en/index.html>
-
-
-<http://www.who.int/entity/mediacentre/news/releases/2017/virus-uganda-kenya/en/index.html>
-
-WHO
-
-20 October 2017 - WHO is working to contain an outbreak of Marburg virus
-disease that has appeared in eastern Uganda on the border with Kenya.
-The Ministry of Health has sent a rapid response team to the area
-supported by staff from WHO, the Centers for Disease Control and
-Prevention (CDC) and the African Field Epidemiology Network (AFNET).
-
-WHO is providing medical supplies, guidance on safe and dignified
-burials, and has released USD 500 000 from its Contingency Fund for
-Emergencies to finance immediate response activities.
-
-  * Read the press release
-    <http://www.who.int/entity/mediacentre/news/releases/2017/virus-uganda-kenya/en/index.html>
-
-WHO/P. Formenty
-
-Marburg virus disease is a severe and highly fatal disease caused by a
-virus from the same family as the one that causes Ebola virus disease.
-These viruses are among the most virulent pathogens known to infect
-humans. Both diseases are rare, but have a capacity to cause dramatic
-outbreaks with high fatality.
-
-Two large outbreaks that occurred simultaneously in Marburg and
-Frankfurt in Germany, and in Belgrade, Serbia, in 1967, led to the
-initial recognition of the Marburg virus disease. Subsequently,
-outbreaks and sporadic cases have been reported in Angola, Democratic
-Republic of the Congo, Kenya, South Africa and Uganda.
-
-  * Causes
-
-    <#page11>
-  * Symptoms
-
-    <#page21>
-  * Diagnosis
-
-    <#page31>
-  * Treatment
-
-    <#page41>
-  * Prevention and control
-
-    <#page51>
-
-Initially, human infection with Marburg virus disease results from
-prolonged exposure to mines or caves inhabited by Rousettus bat colonies.
-Marburg spreads through human-to-human transmission via direct contact
-(through broken skin or mucous membranes) with the blood, secretions,
-organs or other bodily fluids of infected people, and with surfaces and
-materials (e.g. bedding, clothing) contaminated with these fluids.
-
-  * Read the fact sheet
-    <http://www.who.int/entity/mediacentre/factsheets/fs_marburg/en/index.html>
-
-
-The incubation period (interval from infection to onset of symptoms)
-varies from 2 to 21 days.
-Illness caused by Marburg virus begins abruptly, with high fever, severe
-headache and severe malaise. Muscle aches and pains are a common
-feature. Severe watery diarrhoea, abdominal pain and cramping, nausea
-and vomiting can begin on the third day. Diarrhoea can persist for a
-week. The appearance of patients at this phase has been described as
-showing “ghost-like” drawn features, deep-set eyes, expressionless
-faces, and extreme lethargy. In the 1967 European outbreak, non-itchy
-rash was a feature noted in most patients between 2 and 7 days after
-onset of symptoms.
-
-Many patients develop severe haemorrhagic manifestations between 5 and 7
-days, and fatal cases usually have some form of bleeding, often from
-multiple areas. Fresh blood in vomitus and faeces is often accompanied
-by bleeding from the nose, gums, and vagina. Spontaneous bleeding at
-venepuncture sites (where intravenous access is obtained to give fluids
-or obtain blood samples) can be particularly troublesome. During the
-severe phase of illness, patients have sustained high fevers.
-Involvement of the central nervous system can result in confusion,
-irritability, and aggression. Orchitis (inflammation of one or both
-testicles) has been reported occasionally in the late phase of disease
-(15 days).
-
-In fatal cases, death occurs most often between 8 and 9 days after
-symptom onset, usually preceded by severe blood loss and shock.
-
-It can be difficult to clinically distinguish MVD from other infectious
-diseases such as malaria, typhoid fever, shigellosis, meningitis and
-other viral haemorrhagic fevers. Confirmation that symptoms are caused
-by Marburg virus infection are made using the following diagnostic methods:
-
-  * 1. antibody enzyme-linked immunosorbent assay (ELISA);
-  * 2. antigen detection tests;
-  * 3. serum neutralization tests;
-  * 4. reverse-transcriptase polymerase chain reaction (RT-PCR) assay; and
-  * 5. virus isolation by cell culture
-
-
-
-Samples collected from patients are an extreme biohazard risk;
-laboratory testing on non-inactivated samples should be conducted under
-maximum biological containment conditions. All biological specimens
-should be packaged using the triple packaging system when transported
-nationally and internationally.
-
-Supportive care – rehydration with oral or intravenous fluids – and
-treatment of specific symptoms, improves survival. There is as yet no
-proven treatment available for Marburg virus disease. However, a range
-of potential treatments including blood products, immune therapies and
-drug therapies are currently being evaluated.
-
-Good outbreak control relies on applying a package of interventions,
-namely case management, surveillance and contact tracing, a good
-laboratory service, safe and dignified burials, and social mobilization.
-Community engagement is key to successfully controlling outbreaks.
-Raising awareness of risk factors for Marburg infection and protective
-measures that individuals can take is an effective way to reduce human
-transmission.
-
-Healthcare workers should always take standard precautions when caring
-for patients, regardless of their presumed diagnosis. These include
-basic hand hygiene, respiratory hygiene, use of personal protective
-equipment (to block splashes or other contact with infected materials),
-safe injection practices and safe and dignified burial practices.
-
-------------------------------------------------------------------------
-
-
-    Technical information
-
-
-      Maps
-
-Geographical distribution of Marburg virus disease outbreaks and fruit
-bats of /Pteropodidae/ family
-
-  * Enlarge map
-    png, 149kb
-    <http://www.who.int/entity/csr/disease/marburg/GlobalMarburgOutbreakRisk_20090510.png>
-
-
-
-      Weekly Epidemiological Record
-
-  * Marburg haemorrhagic fever, Uganda
-    <http://www.who.int/entity/wer/2012/wer8745/en/index.html>
-    9 November 2012
-  * Marburg haemorrhagic fever, Uganda
-    <http://www.who.int/entity/wer/2012/wer8743/en/index.html>
-    26 October 2012
-  * Outbreak of Marburg haemorrhagic fever: Uganda June-August 2007
-    <http://www.who.int/entity/wer/2007/wer8243/en/index.html>
-    26 October 2007 issue
-  * Viral haemorrhagic fever/Marburg, Democratic Republic of the Congo
-    <http://apps.who.int/iris/bitstream/10665/230803/1/WER7420.PDF>
-    21 May 1999 issue
-
-
-      Publications
-
-  * Ebola and Marburg virus disease epidemics: preparedness, alert,
-    control, and evaluation
-    <http://www.who.int/entity/csr/resources/publications/ebola/manual_EVD/en/index.html>
-
-  * Personal protective equipment for use in a filovirus disease
-    outbreak (Rapid advice guideline)
-    <http://www.who.int/entity/csr/resources/publications/ebola/personal-protective-equipment/en/index.html>
-
-  * Infection prevention and control guidance for care of patients in
-    health-care settings, with focus on Ebola
-    <http://www.who.int/entity/csr/resources/publications/ebola/filovirus_infection_control/en/index.html>
-
-  * Clinical management of patients with viral haemorrhagic fever, a
-    pocket guide for the front-line health workers
-    <http://www.who.int/entity/csr/resources/publications/clinical-management-patients/en/index.html>
-
-
-  * All technical guidance on Marburg
-    <http://www.who.int/entity/csr/disease/marburg/technical-guidance/en/index.html>
-
-
-
-      Disease outbreak news
-
-  * 25 October 2017
-    <http://www.who.int/entity/csr/don/25-october-2017-marburg-uganda/en/index.html>
-
-    Marburg virus disease – Uganda
-  * 13 November 2014
-    <http://www.who.int/entity/csr/don/13-november-2014-marburg/en/index.html>
-
-    Marburg virus disease - Uganda
-  * 10 October 2014
-    <http://www.who.int/entity/csr/don/10-october-2014-marburg/en/index.html>
-
-    Marburg virus disease - Uganda
-
-  * Archive list of DONs on Marburg
-    <http://www.who.int/entity/csr/don/archive/disease/marburg_virus_disease/en/index.html>
-
-
-
-    General information
-
-
-      Mediacentre
-
-  * Fact sheet: Marburg virus disease
-    <http://www.who.int/entity/mediacentre/factsheets/fs_marburg/en/index.html>
-
-  * Download the fact sheet for offline use
-    pdf, 483kb
-    <http://www.who.int/entity/csr/disease/marburg/Marburg-fact-sheet-EN-20-Oct-2017.pdf>
-
-  * Managing Marburg fever in Uganda
-    <http://www.who.int/features/2007/marburg_fever/en/index.html>
-    Photo story, 5 September 2007
-  * Experts mine bats in search of Marburg reservoir
-    <http://www.who.int/features/2007/marburg_virus/en/index.html>
-    Photo story, 17 August 2007
-  * Controlling the Marburg outbreak in Angola
-    <http://www.who.int/features/2005/marburg/en/index.html>
-    Photo story, April-July 2005
-
-
-      Other haemorrhagic fevers
-
-  * Crimean-Congo haemorrhagic fever
-    <http://www.who.int/entity/csr/disease/crimean_congoHF/en/index.html>
-  * Dengue haemorrhagic fever
-    <http://www.who.int/entity/denguecontrol/en/index.html>
-  * Ebola virus disease
-    <http://www.who.int/entity/csr/disease/ebola/en/index.html>
-  * Lassa fever
-    <http://www.who.int/entity/csr/disease/lassafever/en/index.html>
-  * Rift Valley fever
-    <http://www.who.int/entity/csr/disease/riftvalleyfev/en/index.html>
-  * Yellow fever
-    <http://www.who.int/entity/csr/disease/yellowfev/en/index.html>
-
-
-      Related links
-
-  * Pandemic and epidemic diseases (PED)
-    <http://www.who.int/entity/csr/disease/en/index.html>
-
-  * Risk communication
-    <http://www.who.int/entity/risk-communication/en/index.html>
-
-  * Knowledge Transfer and Training for Outbreaks
-    <http://www.who.int/entity/knowledge-transfer/en/index.html>
-
-  * International Health Regulations (IHR)
-    <http://www.who.int/entity/ihr/en/index.html>
-
-  * Ebola virus disease
-    <http://www.who.int/entity/csr/disease/ebola/en/index.html>
-
-  * Haemorrhagic fevers
-    <http://www.who.int/topics/haemorrhagic_fevers_viral/en/index.html>
-
-  * WHO Emerging and Dangerous Pathogens Laboratory Network
-    <http://www.who.int/entity/csr/bioriskreduction/laboratorynetwork/en/index.html>
-
-
-
-      Contact information
-
-Department of Pandemic and Epidemic Diseases
-World Health Organization
-Avenue Appia 20
-1211 Geneva 27, Switzerland
-Email: edpln@who.int <mailto:edpln@who.int>
-
-
-    You are here:
-
-  * Emergencies preparedness, response <http://www.who.int/entity/csr/en/>
-  * Pandemic and Epidemic Diseases (PED)
-    <http://www.who.int/entity/csr/disease/en/>
-  * Marburg virus disease
-    <http://www.who.int/entity/csr/disease/marburg/en/>
-
-
-    Quick Links
-
-
-      Sitemap
-
-  * Home <http://www.who.int/en/index.html>
-  * Health topics <http://www.who.int/topics/en/index.html>
-  * Data <http://www.who.int/entity/gho/en/index.html>
-  * Media centre <http://www.who.int/entity/mediacentre/en/index.html>
-  * Publications <http://www.who.int/publications/en/index.html>
-  * Countries <http://www.who.int/countries/en/index.html>
-  * Programmes and projects <http://www.who.int/entity/en/index.html>
-  * Governance <http://www.who.int/governance/en/index.html>
-  * About WHO <http://www.who.int/about/en/index.html>
-
-
-      Help and Services
-
-  * Contacts <http://www.who.int/about/contacthq/en/index.html>
-  * FAQs <http://www.who.int/suggestions/faq/en/index.html>
-  * Employment <http://www.who.int/entity/employment/en/index.html>
-  * Feedback <http://www.who.int/suggestions/en/index.html>
-  * Privacy <http://www.who.int/about/privacy/en/index.html>
-  * E-mail scams <http://www.who.int/about/scamalert/en/index.html>
-
-
-      WHO Regional Offices
-
-  * WHO African Region <http://www.afro.who.int/>
-  * WHO Region of the Americas <http://www.paho.org/>
-  * WHO South-East Asia Region <http://www.searo.who.int/>
-  * WHO European Region <http://www.euro.who.int/>
-  * WHO Eastern Mediterranean Region <http://www.emro.who.int/>
-  * WHO Western Pacific Region <http://www.wpro.who.int/>
-
-RSSFollow on RSS
-
-<http://www.who.int/about/licensing/rss/en/index.html>YouTubeFollow on
-YouTube
-
-<http://www.youtube.com/user/who?sub_confirmation=1>TwitterFollow on Twitter
-
-<http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=who>FacebookFollow
-on Facebook
-
-<http://www.facebook.com/WHO>Google+Follow on Google Follow
-
-<https://plus.google.com/+who/posts>InstagramFollow on Instagram
-
-<http://instagram.com/who>
-
-<https://play.google.com/store/apps/details?id=uk.co.adappt.whoapp&hl=en>
-
-<https://itunes.apple.com/gb/app/who-info/id895463794?mt=8>
-
-© WHO 2017 <http://www.who.int/about/copyright/en/>
-
-Back to top <#>
-Email Address
-
-Sign up for WHO updates
-
-<#>
-
-loading
-
+<https://en.wikipedia.org/wiki/Main_Page>
+
+
+Navigation
+
+  * Main page <https://en.wikipedia.org/wiki/Main_Page>
+  * Contents <https://en.wikipedia.org/wiki/Portal:Contents>
+  * Featured content <https://en.wikipedia.org/wiki/Portal:Featured_content>
+  * Current events <https://en.wikipedia.org/wiki/Portal:Current_events>
+  * Random article <https://en.wikipedia.org/wiki/Special:Random>
+  * Donate to Wikipedia
+    <https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en>
+  * Wikipedia store <https://shop.wikimedia.org/>
+
+
+      Interaction
+
+  * Help <https://en.wikipedia.org/wiki/Help:Contents>
+  * About Wikipedia <https://en.wikipedia.org/wiki/Wikipedia:About>
+  * Community portal
+    <https://en.wikipedia.org/wiki/Wikipedia:Community_portal>
+  * Recent changes <https://en.wikipedia.org/wiki/Special:RecentChanges>
+  * Contact page <https://en.wikipedia.org/wiki/Wikipedia:Contact_us>
+
+
+      Tools
+
+  * What links here
+    <https://en.wikipedia.org/wiki/Special:WhatLinksHere/Marburg_virus>
+  * Related changes
+    <https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Marburg_virus>
+  * Upload file <https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard>
+  * Special pages <https://en.wikipedia.org/wiki/Special:SpecialPages>
+  * Permanent link
+    <https://en.wikipedia.org/w/index.php?title=Marburg_virus&oldid=811473917>
+  * Page information
+    <https://en.wikipedia.org/w/index.php?title=Marburg_virus&action=info>
+  * Wikidata item
+    <https://www.wikidata.org/wiki/Special:EntityPage/Q6755280>
+  * Cite this page
+    <https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Marburg_virus&id=811473917>
+
+
+      Print/export
+
+  * Create a book
+    <https://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Marburg+virus>
+  * Download as PDF
+    <https://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=Marburg+virus&action=show-download-screen>
+  * Printable version
+    <https://en.wikipedia.org/w/index.php?title=Marburg_virus&printable=yes>
+
+
+      In other projects
+
+  * Wikimedia Commons
+    <https://commons.wikimedia.org/wiki/Category:Marburgvirus>
+  * Wikispecies <https://species.wikimedia.org/wiki/Marburg_marburgvirus>
+
+
+      Languages
+
+  * العربية
+    <https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D8%B1%D9%88%D8%B3_%D9%85%D8%A7%D8%B1%D8%A8%D9%88%D8%B1%D8%BA>
+  * Català <https://ca.wikipedia.org/wiki/Virus_de_Marburg>
+  * Čeština <https://cs.wikipedia.org/wiki/Virus_Marburg>
+  * Deutsch <https://de.wikipedia.org/wiki/Marburg-Virus>
+  * Euskara <https://eu.wikipedia.org/wiki/Marburg_birus>
+  * Français <https://fr.wikipedia.org/wiki/Virus_Marburg>
+  * Frysk <https://fy.wikipedia.org/wiki/Marburgfirus>
+  * Galego <https://gl.wikipedia.org/wiki/Virus_Marburg>
+  * Bahasa Indonesia <https://id.wikipedia.org/wiki/Virus_Marburg>
+  * Italiano <https://it.wikipedia.org/wiki/Marburg_(virus)>
+  * עברית
+    <https://he.wikipedia.org/wiki/%D7%A0%D7%92%D7%99%D7%A3_%D7%9E%D7%A8%D7%91%D7%95%D7%A8%D7%92>
+  * Magyar <https://hu.wikipedia.org/wiki/Marburg_marburg-v%C3%ADrus>
+  * Nederlands <https://nl.wikipedia.org/wiki/Marburgvirus>
+  * 日本語
+    <https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%AB%E3%83%96%E3%83%AB%E3%82%B0%E7%86%B1>
+  * Polski <https://pl.wikipedia.org/wiki/Wirus_Marburg>
+  * Português <https://pt.wikipedia.org/wiki/V%C3%ADrus_de_Marburg>
+  * Română <https://ro.wikipedia.org/wiki/Virusul_Marburg>
+  * Русский
+    <https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%80%D1%83%D1%81_%D0%9C%D0%B0%D1%80%D0%B1%D1%83%D1%80%D0%B3>
+  * Slovenščina <https://sl.wikipedia.org/wiki/Virus_Marburg>
+  * Српски / srpski
+    <https://sr.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B1%D1%83%D1%80%D0%B3_%D0%B2%D0%B8%D1%80%D1%83%D1%81>
+  * Suomi <https://fi.wikipedia.org/wiki/Marburg-virus>
+  * Svenska <https://sv.wikipedia.org/wiki/Marburgvirus>
+  * Українська
+    <https://uk.wikipedia.org/wiki/%D0%A5%D0%B2%D0%BE%D1%80%D0%BE%D0%B1%D0%B0,_%D1%8F%D0%BA%D1%83_%D1%81%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D1%8E%D1%94_%D0%B2%D1%96%D1%80%D1%83%D1%81_%D0%9C%D0%B0%D1%80%D0%B1%D1%83%D1%80%D0%B3>
+  * Tiếng Việt <https://vi.wikipedia.org/wiki/Marburg_virus>
+  * 中文
+    <https://zh.wikipedia.org/wiki/%E9%A6%AC%E7%88%BE%E5%A0%A1%E7%97%85%E6%AF%92>
+
+Edit links
+<https://www.wikidata.org/wiki/Special:EntityPage/Q6755280#sitelinks-wikipedia>
+
+  * This page was last edited on 21 November 2017, at 21:20.
+  * Text is available under the Creative Commons Attribution-ShareAlike
+    License
+    <https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License><https://creativecommons.org/licenses/by-sa/3.0/>;
+    additional terms may apply. By using this site, you agree to the
+    Terms of Use <https://wikimediafoundation.org/wiki/Terms_of_Use> and
+    Privacy Policy
+    <https://wikimediafoundation.org/wiki/Privacy_policy>. Wikipedia® is
+    a registered trademark of the Wikimedia Foundation, Inc.
+    <https://www.wikimediafoundation.org/>, a non-profit organization.
+
+  * Privacy policy <https://wikimediafoundation.org/wiki/Privacy_policy>
+  * About Wikipedia <https://en.wikipedia.org/wiki/Wikipedia:About>
+  * Disclaimers <https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer>
+  * Contact Wikipedia <https://en.wikipedia.org/wiki/Wikipedia:Contact_us>
+  * Developers
+    <https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute>
+  * Cookie statement <https://wikimediafoundation.org/wiki/Cookie_statement>
+  * Mobile view
+    <https://en.m.wikipedia.org/w/index.php?title=Marburg_virus&mobileaction=toggle_view_mobile>
+  * Enable previews <#>
+
+  * Wikimedia Foundation <https://wikimediafoundation.org/>	
+  * Powered by MediaWiki <https://www.mediawiki.org/>	
+
+<https://en.wikipedia.org/wiki/Marburg_virus?action=edit>

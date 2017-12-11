@@ -24,12 +24,14 @@ namespace team_project
                 // for each file in directory
                 foreach (string file in Directory.EnumerateFiles("sites", "*.txt"))
                 {
+
+                    string siteName = new StreamReader(file).ReadLine();
                 
                     /* check to see if an entry with the site name equal to the site name exists in the table */
                     // if it doesn't, add an entry to Sites
-                    if (!fieldExists("Sites", "site_name", file, connection))
+                    if (!fieldExists("Sites", "site_name", siteName, connection))
                     {
-                        addToTable("Sites", "site_name", file, connection);
+                        addToTable("Sites", "site_name", siteName, connection);
                     }
                 
                     // read file
@@ -55,7 +57,7 @@ namespace team_project
                                     
                                     string fline;
                                     bool isStopWord = false;
-                                //                    while ((fline = freader.ReadLine()) != null )
+                                    while ((fline = freader.ReadLine()) != null )
                                     {
                                         if (word.Equals(fline))
                                         {
@@ -113,7 +115,7 @@ namespace team_project
                 
                                 /* update the linking table */
                                 // get site_id from Sites
-                                int siteId = getSiteId(file, connection);
+                                int siteId = getSiteId(siteName, connection);
                 
                                 // get word_id from Words
                                 int wordId = getWordId(word, connection);
@@ -360,7 +362,7 @@ namespace team_project
                 {
                     normal += Math.Pow(DoTF_IDF(i, connection, j), 2);
                     /*******************/
-                    Console.WriteLine(j);
+                    Console.WriteLine(normal);
                     /*******************/
                 }
 
