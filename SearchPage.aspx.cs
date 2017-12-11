@@ -18,7 +18,12 @@ public partial class SearchPage : System.Web.UI.Page
     protected void Button1_Click(object sender, EventArgs e)
     {
 
-        queryDataBase();
+        //queryDataBase();
+        Dictionary<int, double> siteRelavancy = new Dictionary<int, double>();
+        siteRelavancy.Add(1, 15.6);
+        siteRelavancy.Add(2, 13.9);
+        siteRelavancy.Add(3, 20.7);
+        displayLinks(siteRelavancy);
 
 
         double weight1, weight2, weight3;
@@ -26,6 +31,7 @@ public partial class SearchPage : System.Web.UI.Page
         {
             statusLabel.Text = "Good to go!";
             // Pass the weights and words to where ever they need to go
+
         }
         else
         {
@@ -34,7 +40,28 @@ public partial class SearchPage : System.Web.UI.Page
 
     }
 
-    // This function will query the database for information on the keywords entered. 
+    protected void displayLinks(Dictionary<int, double> dict)
+    {
+        string connectionString = ConfigurationManager.ConnectionStrings["team_proj_431"].ConnectionString;
+        using (SqlConnection conn = new SqlConnection(connectionString))
+        {
+            conn.Open();
+            var sortedLinks = from site in dict orderby site.Value descending select site;
+            foreach (KeyValuePair<int, double> site in sortedLinks)
+            {
+                HyperLink hyperlink = new HyperLink();
+                hyperlink.Text = getSiteName(site.Key, conn);
+                hyperlink.NavigateUrl = hyperlink.Text;
+                Panel1.Controls.Add(hyperlink);
+                Panel1.Controls.Add(new LiteralControl("<br>"));
+            }
+            conn.Close();
+        }
+
+    }
+
+    // This function will query the database for information on the keywords entered.
+    // This function probably shouldn't be used.
     protected void queryDataBase()
     {
         string connectionString = ConfigurationManager.ConnectionStrings["team_proj_431"].ConnectionString;
@@ -69,13 +96,14 @@ public partial class SearchPage : System.Web.UI.Page
                 k++;
             }
 
-            displayData(main);
+            //displayDataTable(main);
             conn.Close();
         }
     }
 
     // Displays data in Gridview1
-    void displayData(DataTable main)
+    // This function works with queryDataBase.
+    void displayDataTable(DataTable main)
     {
         GridView1.DataSource = main;
         GridView1.DataBind();
@@ -91,13 +119,13 @@ public partial class SearchPage : System.Web.UI.Page
         return t;
     }
 
-    static int getSiteId(string fieldValue, SqlConnection connection)
+    static string getSiteName(int siteID, SqlConnection connection)
     {
-        string commandText = "SELECT site_id FROM Sites WHERE site_name LIKE @val";
+        string commandText = "SELECT site_name FROM Sites WHERE site_id = @val";
         using (var command = new SqlCommand(commandText, connection))
         {
-            command.Parameters.AddWithValue("@val", fieldValue);
-            return (int)command.ExecuteScalar();
+            command.Parameters.AddWithValue("@val", siteID);
+            return (string)command.ExecuteScalar();
         }
     }
 
