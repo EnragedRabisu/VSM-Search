@@ -17,46 +17,68 @@ public partial class SearchPage : System.Web.UI.Page
 
     protected void Button1_Click(object sender, EventArgs e)
     {
-        string word1 = TextBox1.Text;
-        string word2 = TextBox2.Text;
-        string word3 = TextBox3.Text;
 
-        queryDataBase(word1, word2, word3);
+        queryDataBase();
+
+
+        double weight1, weight2, weight3;
+        if (Double.TryParse(TextBox4.Text, out weight1) && Double.TryParse(TextBox5.Text, out weight2) && Double.TryParse(TextBox6.Text, out weight3))
+        {
+            statusLabel.Text = "Good to go!";
+            // Pass the weights and words to where ever they need to go
+        }
+        else
+        {
+            statusLabel.Text = "Please enter only numbers in the weight boxes!";
+        }
+
     }
 
-    protected void queryDataBase(string word1, string word2, string word3)
+    // This function will query the database for information on the keywords entered. 
+    protected void queryDataBase()
     {
         string connectionString = ConfigurationManager.ConnectionStrings["team_proj_431"].ConnectionString;
         using (SqlConnection conn = new SqlConnection(connectionString))
         {
+            TextBox[] text = new TextBox[3];
+            text[0] = TextBox1;
+            text[1] = TextBox2;
+            text[2] = TextBox3;
+
+            DataTable[] tables = new DataTable[3];
+            tables[0] = new DataTable();
+            tables[1] = new DataTable();
+            tables[2] = new DataTable();
+
+            DataTable main = new DataTable();
+            int k = 0;
+
             conn.Open();
-            DataTable t1 = new DataTable();
-            DataTable t2 = new DataTable();
-            DataTable t3 = new DataTable(); 
 
-            string query1 = "SELECT site_name, Y.word, Y.count FROM Sites S, (SELECT X.word, site_id, count, swc.word_id FROM SiteWordsCount swc, (SELECT word, word_Id FROM Words WHERE word = @word1) AS X WHERE X.word_Id = swc.word_id) AS Y WHERE Y.site_id = S.site_id AND Y.count != 0";
-            string query2 = "SELECT site_name, Y.word, Y.count FROM Sites S, (SELECT X.word, site_id, count, swc.word_id FROM SiteWordsCount swc, (SELECT word, word_Id FROM Words WHERE word = @word2) AS X WHERE X.word_Id = swc.word_id) AS Y WHERE Y.site_id = S.site_id AND Y.count != 0";
-            string query3 = "SELECT site_name, Y.word, Y.count FROM Sites S, (SELECT X.word, site_id, count, swc.word_id FROM SiteWordsCount swc, (SELECT word, word_Id FROM Words WHERE word = @word3) AS X WHERE X.word_Id = swc.word_id) AS Y WHERE Y.site_id = S.site_id AND Y.count != 0";
+            foreach (TextBox i in text)
+            {
+                string query = "SELECT site_name, Y.word, Y.count FROM Sites S, (SELECT X.word, site_id, count, swc.word_id FROM SiteWordsCount swc, (SELECT word, word_Id FROM Words WHERE word LIKE @word) AS X WHERE X.word_Id = swc.word_id) AS Y WHERE Y.site_id = S.site_id AND Y.count != 0";
 
-            SqlCommand cmd1 = new SqlCommand(query1, conn);
-            SqlCommand cmd2 = new SqlCommand(query2, conn);
-            SqlCommand cmd3 = new SqlCommand(query3, conn);
+                SqlCommand cmd = new SqlCommand(query, conn);
 
-            cmd1.Parameters.AddWithValue("@word1", TextBox1.Text);
-            cmd2.Parameters.AddWithValue("@word2", TextBox2.Text);
-            cmd3.Parameters.AddWithValue("@word3", TextBox3.Text);
+                cmd.Parameters.AddWithValue("@word", i.Text);
 
-            getData(t1, cmd1);
-            getData(t2, cmd2);
-            getData(t3, cmd3);
+                getData(tables[k], cmd);
 
-            t1.Merge(t2);
-            t1.Merge(t3);
+                main.Merge(tables[k]);
+                k++;
+            }
 
-            GridView1.DataSource = t1;
-            GridView1.DataBind();
+            displayData(main);
             conn.Close();
         }
+    }
+
+    // Displays data in Gridview1
+    void displayData(DataTable main)
+    {
+        GridView1.DataSource = main;
+        GridView1.DataBind();
     }
 
     static DataTable getData(DataTable t, SqlCommand cmd)
