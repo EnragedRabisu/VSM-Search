@@ -50,6 +50,7 @@ public partial class search_vsm : System.Web.UI.Page
             {
                 Label weightValue = new Label();
                 weightValue.Text = site.Value.ToString();
+                weightValue.CssClass = "col-sm-6";
 
                 HyperLink hyperlink = new HyperLink();
                 string linkText = getSiteName(site.Key, conn);
@@ -58,6 +59,7 @@ public partial class search_vsm : System.Web.UI.Page
 
                 hyperlink.Text = linkText;
                 hyperlink.NavigateUrl = linkText;
+                hyperlink.CssClass = "col-sm-6";
 
                 hyperLinkLabel.Controls.Add(hyperlink);
                 hyperLinkLabel.Controls.Add(weightValue);
