@@ -26,6 +26,6 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <asp:Label ID="statusLabel" runat="server" Text="Status"></asp:Label>
         <p>
-            <asp:Label ID="hyperLinkLabel" runat="server" Text=" "></asp:Label>
+            <asp:Label ID="hyperLinkLabel" runat="server" Text="here"></asp:Label>
         </p>
 </asp:Content>

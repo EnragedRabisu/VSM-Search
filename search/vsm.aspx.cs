@@ -17,20 +17,19 @@ public partial class search_vsm : System.Web.UI.Page
 
     protected void Button1_Click(object sender, EventArgs e)
     {
-        //queryDataBase();
-        Dictionary<int, double> siteRelavancy = new Dictionary<int, double>();
-        siteRelavancy.Add(1, 15.6);
-        siteRelavancy.Add(2, 13.9);
-        siteRelavancy.Add(3, 20.7);
-        displayLinks(siteRelavancy);
+        Dictionary<int, double> siteRelevancy = new Dictionary<int, double>();
 
+        string word1 = TextBox1.Text;
+        string word2 = TextBox2.Text;
+        string word3 = TextBox3.Text;
 
-        double weight1, weight2, weight3;
+        double weight1, weight2, weight3; // Weights are assiged in the if statement below
         if (Double.TryParse(TextBox4.Text, out weight1) && Double.TryParse(TextBox5.Text, out weight2) && Double.TryParse(TextBox6.Text, out weight3))
         {
             statusLabel.Text = "Good to go!";
             // Pass the weights and words to where ever they need to go
-
+            siteRelevancy = VectorSpaceModel.DoVSM(word1, weight1, word2, weight2, word3, weight3);
+            displayLinks(siteRelevancy);
         }
         else
         {
@@ -46,8 +45,13 @@ public partial class search_vsm : System.Web.UI.Page
         {
             conn.Open();
             var sortedLinks = from site in dict orderby site.Value descending select site;
+
             foreach (KeyValuePair<int, double> site in sortedLinks)
             {
+                Label weightValue = new Label();
+                weightValue.Text = site.Value.ToString();
+
+
                 HyperLink hyperlink = new HyperLink();
                 string linkText = getSiteName(site.Key, conn);
                 linkText = linkText.Remove(0, 1);
@@ -57,21 +61,12 @@ public partial class search_vsm : System.Web.UI.Page
                 hyperlink.NavigateUrl = linkText;
 
                 hyperLinkLabel.Controls.Add(hyperlink);
+                hyperLinkLabel.Controls.Add(weightValue);
                 hyperLinkLabel.Controls.Add(new LiteralControl("<br>"));
             }
             conn.Close();
         }
 
-    }
-
-    static DataTable getData(DataTable t, SqlCommand cmd)
-    {
-        using (SqlDataAdapter a = new SqlDataAdapter(cmd))
-        {
-            a.Fill(t);
-        }
-
-        return t;
     }
 
     static string getSiteName(int siteID, SqlConnection connection)
@@ -84,70 +79,4 @@ public partial class search_vsm : System.Web.UI.Page
         }
     }
 
-    static int getWordId(string fieldValue, SqlConnection connection)
-    {
-        string commandText = "SELECT word_id FROM Words WHERE word LIKE @val";
-        SqlCommand cmd = new SqlCommand(commandText, connection);
-        cmd.Parameters.AddWithValue("@val", fieldValue);
-        return (int)cmd.ExecuteScalar();
-    }
-
-    static void addToTable(string tableName, string fieldName, string fieldValue, SqlConnection connection)
-    {
-        string commandText = "INSERT INTO " + tableName + "(" + fieldName + ") VALUES (@val)";
-        using (var command = new SqlCommand(commandText, connection))
-        {
-            command.Parameters.AddWithValue("@val", fieldValue);
-            command.ExecuteNonQuery();
-        }
-    }
-
-    static bool fieldExists(string tableName, string fieldName, string fieldValue, SqlConnection connection)
-    {
-        string commandText = "SELECT COUNT(*) FROM " + tableName + " WHERE " + fieldName + " = @val";
-        SqlCommand cmd = new SqlCommand(commandText, connection);
-        cmd.Parameters.AddWithValue("@val", fieldValue);
-        int siteCount = (int)cmd.ExecuteScalar();
-
-        if (siteCount < 1)
-            return false;
-        return true;
-    }
-
-    static bool inSiteWordsCount(int siteId, int wordId, SqlConnection connection)
-    {
-        string commandText = "SELECT COUNT(*) FROM SiteWordsCount WHERE site_id = @site_id AND word_id = @word_id";
-        SqlCommand cmd = new SqlCommand(commandText, connection);
-        cmd.Parameters.AddWithValue("@site_id", siteId);
-        cmd.Parameters.AddWithValue("@word_id", wordId);
-        int siteCount = (int)cmd.ExecuteScalar();
-
-        if (siteCount < 1)
-            return false;
-        return true;
-    }
-
-    static void updateCount(int siteId, int wordId, int count, SqlConnection connection)
-    {
-        string commandText = "UPDATE SiteWordsCount SET count = @count WHERE site_id = @site_id AND word_id = @word_id";
-        using (var command = new SqlCommand(commandText, connection))
-        {
-            command.Parameters.AddWithValue("@count", count);
-            command.Parameters.AddWithValue("@site_id", siteId);
-            command.Parameters.AddWithValue("@word_id", wordId);
-            command.ExecuteNonQuery();
-        }
-    }
-
-    static void addLink(int siteId, int wordId, int count, SqlConnection connection)
-    {
-        string commandText = "INSERT INTO SiteWordsCount (site_id, word_id, count) VALUES (@site_id, @word_id, @count)";
-        using (var command = new SqlCommand(commandText, connection))
-        {
-            command.Parameters.AddWithValue("@site_id", siteId);
-            command.Parameters.AddWithValue("@word_id", wordId);
-            command.Parameters.AddWithValue("@count", count);
-            command.ExecuteNonQuery();
-        }
-    }
 }
