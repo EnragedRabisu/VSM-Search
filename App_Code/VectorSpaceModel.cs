@@ -13,82 +13,102 @@ using DBProjectWebsite;
 /// </summary>
 public class VectorSpaceModel
 {
-    private static object[] Documents;
-    private static Random rand;
     private static SqlConnection conn;
-    private static Label l;
+    Label l;
 
-    public static void Main(string[] args)
+    //public static void Main(string[] args)
+    //{
+    //    using (conn = new SqlConnection(ConfigurationManager.ConnectionStrings["team_proj_431"].ConnectionString))
+    //    {
+    //        conn.Open();
+    //        string q = "virus ebola";
+    //
+    //        //DoVSM(q, conn);
+    //        conn.Close();
+    //    }
+    //}
+    //
+    //public VectorSpaceModel()
+    //{
+    //    //
+    //    // TODO: Add constructor logic here
+    //    //
+    //}
+
+    public static Dictionary<int, double> DoVSM(string q1, double w1, string q2, double w2, string q3, double w3)
     {
+        // Open SQL Connection with connection string from config.
         using (conn = new SqlConnection(ConfigurationManager.ConnectionStrings["team_proj_431"].ConnectionString))
         {
             conn.Open();
-            string q = "virus ebola";
 
-            //DoVSM(q, conn);
-            conn.Close();
-        }
-    }
-
-    public VectorSpaceModel()
-    {
-        //
-        // TODO: Add constructor logic here
-        //
-    }
-
-    public static void DoVSM(string queryText, Label label, Label l2)
-    {
-        string[] query = queryText.Split(' ');
-        l = label;
-        using (conn = new SqlConnection(ConfigurationManager.ConnectionStrings["team_proj_431"].ConnectionString))
-        {
-            conn.Open();
-            //AddNormals(conn);
-            //rand = new Random();
-            // TODO: Decide how to reference Documents
+            // Debug assignments
+            //Label l = label;
+            string l2Out = "";
+            string labelOutput = "";
 
             // TODO: loop through query terms, do tf-idf on each.
             // loop through documents for each term, do tf on each.
 
+            // Number of sites and number of queries.
             int sites = GetTotalSites(conn);
+            string[] query = new string[3];
+            double[] weights = new double[3];
+
+            query[0] = q1;
+            query[1] = q2;
+            query[2] = q3;
+
+            weights[0] = w1;
+            weights[1] = w2;
+            weights[2] = w3;
             int queries = query.Length;
 
+            // Vectors for Sites, Query, and Dot Product
             double[,] siteVector = new double[sites, queries];
             double[] queryVector = new double[queries];
             double[] dotProduct = new double[sites];
-            //double[] siteNorm = new double[sites];
-            double queryNorm = 0;
-            string labelOutput = "";
-            string l2Out = "";
 
-            for (int i = 0; i < query.Length; i++)
+            // Norm of query vector
+            double queryNorm = 0;
+
+            // Output Dictionary
+            Dictionary<int, double> outDict = new Dictionary<int, double>();
+
+            for (int i = 0; i < queries; i++)
             {
                 int wordID = 0;
                 if (query[i] == null)
                 {
+                    // If word is null, set it to 0
                     queryVector[i] = 0;
                 }
                 else
                 {
+                    // Get Word ID for query
                     wordID = GetWordId(query[i], conn);
-                    queryVector[i] = DoIDF(wordID, conn);
-                    queryNorm += queryVector[i] * queryVector[i];
+                    // Add word to query vector
+                    queryVector[i] = weights[i] * GetIDF(wordID, conn);
+                    // Add word to query norm
+                    queryNorm += Math.Pow(queryVector[i], 2);
+
+                    // Debug
                     l2Out += ("Query: " + query[i] + " = " + queryVector[i] + " </br>");
                 }
 
                 for (int j = 0; j < siteVector.GetLength(0); j++)
                 {
-                    // If Query is null, we don't do anything with it.
+                    // If Query is null, we can skip this. The product will be 0 anyways.
                     if (query[i] == null)
                     {
                         siteVector[j, i] = 0;
-                        break;
+                        continue;
                     }
                     // Else, get the tf*idf.
                     double temp = DoTF_IDF(wordID, conn, (j + 1));
+                    // Put tf*idf into site vector
                     siteVector[j, i] = temp;
-                    //siteNorm[j] += temp * temp;
+                    // Calculate dot product for this site.
                     dotProduct[j] += temp * queryVector[i];
 
                     // Debug shenanigans
@@ -98,30 +118,46 @@ public class VectorSpaceModel
                 }
             }
 
-            l2Out += ("Query Norm: " + queryNorm + "</br>");
+            // Debug
+            //l2Out += ("Query Norm: " + queryNorm + "</br>");
 
             for (int j = 0; j < siteVector.GetLength(0); j++)
             {
+                // declare variable for vsm Result
                 double vsmResult = 0;
+                // get the site Normal from the database
                 double siteNorm = GetNormal(j + 1, conn);
+
+                // Calculate vsmResult, AKA cosine similarity
+                // dot product / (square root of query norm * square root of site norm)
+                vsmResult = dotProduct[j] / (Math.Sqrt(queryNorm) * Math.Sqrt(siteNorm));
+
+                // Add entry to dictionary
+                outDict.Add((j + 1), vsmResult);
+
+                // Debug Statements
                 l2Out += ("DotProduct for " + (j + 1) + ": " + dotProduct[j] + "</br>");
                 l2Out += ("QueryNorm: " + Math.Sqrt(queryNorm) + "</br>");
                 l2Out += ("SiteNorm for " + (j + 1) + ": " + Math.Sqrt(siteNorm) + "</br>");
                 l2Out += ("Product for " + (j + 1) + ": " + (Math.Sqrt(queryNorm) * Math.Sqrt(siteNorm)) + "</br></br>");
-                vsmResult = dotProduct[j] / (Math.Sqrt(queryNorm) * Math.Sqrt(siteNorm));
-                labelOutput += ("Site: " + (j + 1) + " Query : " + queryText + " = " + vsmResult + " </br>");
+                labelOutput += ("Site: " + (j + 1) + " Query : " + query.ToString() + " = " + vsmResult + " </br>");
             }
 
-            l2.Text = labelOutput;
-            l2.Text += l2Out;
+            //l.Text = labelOutput;
+            //l.Text += l2Out;
+
             conn.Close();
+            return outDict;
         }
     }
 
     public static double DoTF_IDF(int wordID, SqlConnection conn, int siteID)
     {
-        double idf = DoIDF(wordID, conn);
+        // Retrieve IDF
+        double idf = GetIDF(wordID, conn);
+        // Calculate TF
         double tf = DoTF(wordID, conn, siteID);
+        // Multiply TF * IDF
         return tf * idf;
     }
 
@@ -131,6 +167,9 @@ public class VectorSpaceModel
         int wordFreq = GetQueryCountInSite(siteID, wordID, conn);
         int siteTotalFreq = GetSiteTotalWordCount(siteID, conn);
         double adjustedFreq = 0;
+
+        // Adjust frequency by dividing by total words in Site
+        // Currently unused
         if (siteTotalFreq != 0)
         {
             adjustedFreq = (double)wordFreq / siteTotalFreq;
@@ -139,27 +178,30 @@ public class VectorSpaceModel
         return wordFreq;
     }
 
-    public static double DoIDF(int wordID, SqlConnection conn)
+    static double GetIDF(int wordID, SqlConnection connection)
     {
-
-        // TODO: Search database for occurences of query
-        // and introduce logic to determine the number of documents containing the query
-        int x = 0;
-        int sites = GetTotalSites(conn);
-
-        for (int i = 0; i < sites; i++)
+        string commandText = "SELECT IDF FROM Words WHERE word_Id = @val";
+        SqlCommand cmd = new SqlCommand(commandText, connection);
+        cmd.Parameters.AddWithValue("@val", wordID);
+        double result = 404;
+        if (!Convert.IsDBNull(cmd.ExecuteScalar()))
         {
-            if (DoesWordExist(i, wordID, conn))
-            {
-                x++;
-            }
+            result = Convert.ToDouble(cmd.ExecuteScalar());
         }
 
-        //l.Text += wordID + " : " + x + "</br>";
+        return result;
+    }
 
-        double result = Math.Log(sites / (1.0 + x));
-
-        //l.Text += wordID + " : " + result + "</br>";
+    static double GetNormal(int siteId, SqlConnection connection)
+    {
+        string commandText = "SELECT Normal FROM Sites WHERE site_id = @site_id";
+        SqlCommand cmd = new SqlCommand(commandText, connection);
+        cmd.Parameters.AddWithValue("@site_id", siteId);
+        double result = 0;
+        if (!Convert.IsDBNull(cmd.ExecuteScalar()))
+        {
+            result = Convert.ToDouble(cmd.ExecuteScalar());
+        }
 
         return result;
     }
@@ -233,20 +275,6 @@ public class VectorSpaceModel
         return result;
     }
 
-    static int GetNormal(int siteId, SqlConnection connection)
-    {
-        string commandText = "SELECT site_normal FROM SiteNormals WHERE site_id = @site_id";
-        SqlCommand cmd = new SqlCommand(commandText, connection);
-        cmd.Parameters.AddWithValue("@site_id", siteId);
-        int result = 0;
-        if (!Convert.IsDBNull(cmd.ExecuteScalar()))
-        {
-            result = Convert.ToInt32(cmd.ExecuteScalar());
-        }
-
-        return result;
-    }
-
     static bool DoesWordExist(int siteID, int wordID, SqlConnection connection)
     {
         string commandText = "SELECT COUNT(*) FROM SiteWordsCount WHERE site_id = @site AND word_id = @word AND count > 0";
@@ -262,32 +290,5 @@ public class VectorSpaceModel
         if (result < 1)
             return false;
         return true;
-    }
-
-    static void AddNormals(SqlConnection conn)
-    {
-        int words = GetTotalWords(conn);
-        int sites = GetTotalSites(conn);
-        double normal = 0;
-        for (int j = 1; j < sites + 1; j++)
-        {
-            normal = 0;
-
-            for (int i = 1; i < words + 1; i++)
-            {
-                normal += Math.Pow(DoTF_IDF(i, conn, j), 2);
-            }
-
-            l.Text += ("Site: " + j + "Normal: " + normal + "</br>");
-            /*
-            string commandText = "INSERT INTO SiteNormals (site_id, site_normal) VALUES (@site_id, @normal)";
-            using (var command = new SqlCommand(commandText, conn))
-            {
-                command.Parameters.AddWithValue("@site_id", j);
-                command.Parameters.AddWithValue("@normal", normal);
-                command.ExecuteNonQuery();
-            }
-            */
-        }
     }
 }
