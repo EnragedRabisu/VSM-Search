@@ -1,3 +1,5 @@
+﻿<https://www.vanityfair.com/news/2014/10/ebola-virus-epidemic-containment>
+
 Vanity Fair
 
 <https://www.vanityfair.com/>
@@ -646,6 +648,7 @@ but after an onslaught of 163 Ebola cases in that one prefecture, 119 of
 them fatal, the team was now following contact cases in only two
 villages. The news from Conakry tracked with what they were seeing in
 the Forest Region.
+<https://www.vanityfair.com/news/2014/10/ebola-virus-epidemic-containment>
 
 The President of Guinea announced that “for the moment, the situation is
 well in hand.” The foreigners began to leave. The C.D.C. cycled its

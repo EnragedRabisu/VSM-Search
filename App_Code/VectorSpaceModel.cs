@@ -62,6 +62,7 @@ public class VectorSpaceModel
             weights[0] = w1;
             weights[1] = w2;
             weights[2] = w3;
+          
             int queries = query.Length;
 
             // Vectors for Sites, Query, and Dot Product

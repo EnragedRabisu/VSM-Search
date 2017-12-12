@@ -24,8 +24,8 @@
     </div>
         <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Find Websites" />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Label ID="statusLabel" runat="server" Text="Status"></asp:Label>
+        <asp:Label ID="statusLabel" runat="server" Text=" "></asp:Label>
         <p>
-            <asp:Label ID="hyperLinkLabel" runat="server" Text="here"></asp:Label>
+            <asp:Label ID="hyperLinkLabel" runat="server" Text=" "></asp:Label>
         </p>
 </asp:Content>

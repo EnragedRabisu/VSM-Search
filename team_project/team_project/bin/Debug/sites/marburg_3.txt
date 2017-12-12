@@ -1,608 +1,957 @@
-Skip to main content
+﻿<http://www.cnn.com/2017/10/31/health/marburg-virus-uganda/index.html>
 
-<#content>
+By using this site, you agree to the Privacy Policy
+<http://www.cnn.com/privacy> and Terms of Service
+<http://www.cnn.com/terms>.
+Breaking News
+<http://www.cnn.com/>
+Health <http://www.cnn.com/health>+
+Diet + Fitness <http://www.cnn.com/specials/health/diet-fitness>Living
+Well <http://www.cnn.com/specials/health/living-well>Parenting + Family
+<http://www.cnn.com/specials/living/cnn-parents>
+Deadly Marburg virus outbreak declared in Uganda
+U.S. <http://www.cnn.com/us>World <http://www.cnn.com/world>Politics
+<http://www.cnn.com/politics>Money <http://money.cnn.com/>Opinion
+<http://www.cnn.com/opinions>Health
+<http://www.cnn.com/health>Entertainment
+<http://www.cnn.com/entertainment>Tech
+<http://money.cnn.com/technology>Style <http://www.cnn.com/style>Travel
+<http://www.cnn.com/travel>Sports <http://bleacherreport.com/>Video
+<http://www.cnn.com/videos>VR <http://www.cnn.com/vr>
+Live TV //
 
-<http://www.who.int/en/>
+<http://cnn.it/go2>
+Search »
 
-
-      Access
-
-  * Home Alt+0 <http://www.who.int/en/>
-  * Navigation Alt+1 <#navigation>
-  * Content Alt+2 <#main>
-
-//
-
-
-      Search
-
-Search the WHO.int site
-
-Submit
-
-Advanced search
-<http://search.who.int/search?ie=utf8&site=who&lr=lang_en&client=_en_r&proxystylesheet=_en_r&output=xml_no_dtd&oe=UTF-8&access=p&entqr=3&ud=1&proxycustom=%3CADVANCED/%3E>
-
-
-//
-
-
-      Navigation
-
-  * Home
-
-    <http://www.who.int/en/>
-  * Health topics
-
-    <http://www.who.int/topics/en/>
-  * Data
-
-    <http://www.who.int/entity/gho/en/>
-  * Media centre
-
-    <http://www.who.int/entity/mediacentre/en/>
-  * Publications
-
-    <http://www.who.int/publications/en/>
-  * Countries
-
-    <http://www.who.int/countries/en/>
-  * Programmes
-
-    <http://www.who.int/entity/en/>
-  * Governance
-
-    <http://www.who.int/governance/en/>
-  * About WHO
-
-    <http://www.who.int/about/en/>
-
-
-      Language
-
-عربي
-
-<http://www.who.int/mediacentre/factsheets/fs_marburg/ar/index.html>
-中文
-
-<http://www.who.int/mediacentre/factsheets/fs_marburg/zh/index.html>
-English
-
-<http://www.who.int/mediacentre/factsheets/fs_marburg/en/index.html>
-Français
-
-<http://www.who.int/mediacentre/factsheets/fs_marburg/fr/index.html>
-Русский
-
-<http://www.who.int/mediacentre/factsheets/fs_marburg/ru/index.html>
+U.S. Edition+
+U.S.
+International
+Arabic
 Español
 
-<http://www.who.int/mediacentre/factsheets/fs_marburg/es/index.html>
+Set edition preference:
 
-RSSFollow on RSS
+U.S.
 
-<http://www.who.int/about/licensing/rss/en/index.html>YouTubeFollow on
-YouTube
+International
 
-<http://www.youtube.com/user/who?sub_confirmation=1>TwitterFollow on Twitter
+Confirm
 
-<http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=who>FacebookFollow
-on Facebook
+U.S. Edition+
+U.S.
+International
+Arabic
+Español
 
-<http://www.facebook.com/WHO>Google+Follow on Google Follow
+Set edition preference:
+U.S.
 
-<https://plus.google.com/+who/posts>InstagramFollow on Instagram
+International
 
-<http://instagram.com/who>
+Confirm
 
+Home
 
-    Media centre
+<http://www.cnn.com/>
 
+U.S.
 
-Menu
+<http://www.cnn.com/us>
 
-  * Media centre
+  * Crime + Justice <http://www.cnn.com/specials/us/crime-and-justice>
+  * Energy + Environment
+    <http://www.cnn.com/specials/us/energy-and-environment>
+  * Extreme Weather <http://www.cnn.com/specials/us/extreme-weather>
+  * Space + Science <http://www.cnn.com/specials/space-science>
 
-    <http://www.who.int/entity/mediacentre/en/>
-  * News
+World
 
-    <http://www.who.int/entity/mediacentre/news/en/>
-      o News releases
+<http://www.cnn.com/world>
 
-        <http://www.who.int/entity/mediacentre/news/releases/en/>
-          + Previous years
+  * Africa <http://www.cnn.com/africa>
+  * Americas <http://www.cnn.com/americas>
+  * Asia <http://www.cnn.com/asia>
+  * Europe <http://www.cnn.com/europe>
+  * Middle East <http://www.cnn.com/middle-east>
 
-            <http://www.who.int/entity/mediacentre/news/releases/previous/en/>
+<http://www.cnn.com/politics>
 
-      o Statements
+  * 45 <http://www.cnn.com/specials/politics/president-donald-trump-45>
+  * Congress <http://www.cnn.com/specials/politics/congress-capitol-hill>
+  * Security <http://www.cnn.com/specials/politics/us-security>
+  * The Nine <http://www.cnn.com/specials/politics/supreme-court-nine>
+  * Trumpmerica <http://www.cnn.com/specials/politics/trumpmerica>
+  * State <http://www.cnn.com/specials/politics/state-cnn-politics-magazine>
 
-        <http://www.who.int/entity/mediacentre/news/statements/en/>
-          + Previous years
+<http://money.cnn.com/>
 
-            <http://www.who.int/entity/mediacentre/news/statements/previous/en/>
+  * Markets <http://money.cnn.com/data/markets/>
+  * Tech <http://money.cnn.com/technology/>
+  * Media <http://money.cnn.com/media/>
+  * Personal Finance <http://money.cnn.com/pf/>
+  * Luxury <http://money.cnn.com/luxury/>
 
-      o Notes for the media
+Opinion
 
-        <http://www.who.int/entity/mediacentre/news/notes/en/>
-          + Previous years
+<http://www.cnn.com/opinions>
 
-            <http://www.who.int/entity/mediacentre/news/notes/previous/en/>
-  * Commentaries
+  * Political Op-Eds <http://www.cnn.com/specials/opinion/opinion-politics>
+  * Social Commentary
+    <http://www.cnn.com/specials/opinion/opinion-social-issues>
+  * iReport <http://www.cnn.com/specials/opinions/cnnireport>
 
-    <http://www.who.int/entity/mediacentre/commentaries/en/>
-      o 2016
+Health
 
-        <http://www.who.int/entity/mediacentre/commentaries/2016/en/>
-      o 2015
+<http://www.cnn.com/health>
 
-        <http://www.who.int/entity/mediacentre/commentaries/2015/en/>
-      o 2014
+  * Diet + Fitness <http://www.cnn.com/specials/health/diet-fitness>
+  * Living Well <http://www.cnn.com/specials/health/living-well>
+  * Parenting + Family <http://www.cnn.com/specials/living/cnn-parents>
 
-        <http://www.who.int/entity/mediacentre/commentaries/2014/en/>
-  * Events
+<http://www.cnn.com/entertainment>
 
-    <http://www.who.int/entity/mediacentre/events/en/>
-      o Official WHO health days
+  * Stars <http://www.cnn.com/entertainment/celebrities>
+  * Screen <http://www.cnn.com/entertainment/movies>
+  * Binge <http://www.cnn.com/entertainment/tv-shows>
+  * Culture <http://www.cnn.com/entertainment/culture>
+  * Media <http://money.cnn.com/media>
 
-        <http://www.who.int/entity/mediacentre/events/official_days/en/>
-      o Meetings and consultations
+<http://money.cnn.com/technology>
 
-        <http://www.who.int/entity/mediacentre/events/meetings/en/>
-  * Fact sheets
+  * Business <http://money.cnn.com/technology/business>
+  * Culture <http://money.cnn.com/technology/culture>
+  * Gadgets <http://money.cnn.com/technology/gadgets>
+  * Future <http://money.cnn.com/technology/future>
+  * Startups <http://money.cnn.com/technology/startups>
 
-    <http://www.who.int/entity/mediacentre/factsheets/en/>
-  * Fact files
+<http://www.cnn.com/style>
 
-    <http://www.who.int/features/factfiles/en/>
-  * Questions & answers
+  * Arts <http://www.cnn.com/style/arts>
+  * Design <http://www.cnn.com/style/design>
+  * Fashion <http://www.cnn.com/style/fashion>
+  * Architecture <http://www.cnn.com/style/architecture>
+  * Luxury <http://www.cnn.com/style/luxury>
+  * Autos <http://www.cnn.com/style/autos>
+  * Video <http://www.cnn.com/style/videos>
 
-    <http://www.who.int/features/qa/en/>
-  * Features
+<http://www.cnn.com/travel>
 
-    <http://www.who.int/features/en/>
-  * Multimedia
+  * Destinations <http://www.cnn.com/travel/destinations>
+  * Food & Drink <http://www.cnn.com/travel/food-and-drink>
+  * Play <http://www.cnn.com/travel/play>
+  * Stay <http://www.cnn.com/travel/stay>
+  * Videos <http://www.cnn.com/travel/videos>
 
-    <http://www.who.int/entity/mediacentre/multimedia/en/>
-  * Contacts
+<http://bleacherreport.com/>
 
-    <http://www.who.int/entity/mediacentre/contacts/en/>
+  * Pro Football <http://bleacherreport.com/nfl>
+  * College Football <http://bleacherreport.com/college-football>
+  * Basketball <http://bleacherreport.com/nba>
+  * Baseball <http://bleacherreport.com/mlb>
+  * Soccer <http://bleacherreport.com/world-football>
+  * Olympics <http://www.cnn.com/specials/sport/winter-olympics-2018>
 
+Living
 
-  Marburg virus disease
+<http://www.cnn.com/living>
 
-Fact sheet
-Updated October 2017
-
-------------------------------------------------------------------------
-
-
-      Key facts
-
-  * Marburg virus disease (MVD), formerly known as Marburg haemorrhagic
-    fever, is a severe, often fatal illness in humans.
-  * Rousettus aegyptiacus, fruit bats of the Pteropodidae family, are
-    considered to be natural hosts of Marburg virus. The Marburg virus
-    is transmitted to people from fruit bats and spreads among humans
-    through human-to-human transmission.
-  * The Marburg virus causes severe viral haemorrhagic fever in humans.
-  * The average MVD case fatality rate is around 50%. Case fatality
-    rates have varied from 24% to 88% in past outbreaks depending on
-    virus strain and case management.
-  * Community engagement is key to successfully controlling outbreaks.
-    Good outbreak control relies on applying a package of interventions,
-    namely case management, infection prevention and control practices,
-    surveillance and contact tracing, a good laboratory service, safe
-    burials and social mobilization.
-  * Early supportive care with rehydration, symptomatic treatment
-    improves survival. There is as yet no licensed treatment proven to
-    neutralize the virus but a range of blood products, immune therapies
-    and drug therapies are currently under development.
-
-------------------------------------------------------------------------
-
-Marburg virus is the causative agent of Marburg virus disease (MVD), a
-disease with a case fatality ratio of up to 88%. Marburg virus disease
-was initially detected in 1967 after simultaneous outbreaks in Marburg
-and Frankfurt in Germany; and in Belgrade, Serbia.
-
-Marburg and Ebola viruses are both members of the Filoviridae family
-(filovirus). Though caused by different viruses, the two diseases are
-clinically similar. Both diseases are rare and have the capacity to
-cause dramatic outbreaks with high fatality rates.
-
-Two large outbreaks that occurred simultaneously in Marburg and
-Frankfurt in Germany, and in Belgrade, Serbia, in 1967, led to the
-initial recognition of the disease. The outbreak was associated with
-laboratory work using African green monkeys (Cercopithecus aethiops)
-imported from Uganda. Subsequently, outbreaks and sporadic cases have
-been reported in Angola, Democratic Republic of the Congo, Kenya, South
-Africa (in a person with recent travel history to Zimbabwe) and Uganda.
-In 2008, two independent cases were reported in travelers who had
-visited a cave inhabited by Rousettus bat colonies in Uganda.
-
-
-      Transmission
-
-Initially, human MVD infection results from prolonged exposure to mines
-or caves inhabited by Rousettus bat colonies.
-
-Marburg spreads through human-to-human transmission via direct contact
-(through broken skin or mucous membranes) with the blood, secretions,
-organs or other bodily fluids of infected people, and with surfaces and
-materials (e.g. bedding, clothing) contaminated with these fluids.
-
-Health-care workers have frequently been infected while treating
-patients with suspected or confirmed MVD. This has occurred through
-close contact with patients when infection control precautions are not
-strictly practiced. Transmission via contaminated injection equipment or
-through needle-stick injuries is associated with more severe disease,
-rapid deterioration, and, possibly, a higher fatality rate.
-
-Burial ceremonies that involve direct contact with the body of the
-deceased can also contribute in the transmission of Marburg.
-
-People remain infectious as long as their blood contains the virus.
-
-
-      Sexual transmission
-
-Marburg virus transmission via infected semen has been documented up to
-seven weeks after clinical recovery. More surveillance data and research
-are needed on the risks of sexual transmission, and particularly on the
-prevalence of viable and transmissible virus in semen over time. In the
-interim, and based on present evidence, WHO recommends that:
-
-  * All Marburg survivors and their sexual partners should receive
-    counselling to ensure safer sexual practices until their semen has
-    twice tested negative for Marburg virus.
-  * Survivors should be provided with condoms.
-  * Male Marburg survivors should be enrolled in semen testing
-    programmes when discharged (starting with counselling) and offered
-    semen testing when mentally and physically ready, within three
-    months of disease onset.
-  * Marburg survivors and their sexual partners should either:
-      o abstain from all sexual practices, or
-      o observe safer sexual practices through correct and consistent
-        condom use until their semen has twice tested undetected (
-        negative) for Marburg virus.
-  * Having tested undetected (negative), survivors can safely resume
-    normal sexual practices with minimized risk of Marburg virus
-    transmission.
-  * Male survivors of Marburg virus disease should practice safer sexual
-    practices and hygiene for 12 months from onset of symptoms or until
-    their semen twice tests undetected (negative) for Marburg virus.
-  * Until such time as their semen has twice tested undetected
-    (negative) for Marburg, survivors should practice good hand and
-    personal hygiene by immediately and thoroughly washing with soap and
-    water after any physical contact with semen, including after
-    masturbation. During this period used condoms should be handled
-    safely, and safely disposed of, so as to prevent contact with
-    seminal fluids.
-  * All survivors, their partners and families should be shown respect,
-    dignity and compassion.
-
-
-      Symptoms of Marburg virus disease
-
-The incubation period (interval from infection to onset of symptoms)
-varies from 2 to 21 days.
-
-Illness caused by Marburg virus begins abruptly, with high fever, severe
-headache and severe malaise. Muscle aches and pains are a common
-feature. Severe watery diarrhoea, abdominal pain and cramping, nausea
-and vomiting can begin on the third day. Diarrhoea can persist for a
-week. The appearance of patients at this phase has been described as
-showing “ghost-like” drawn features, deep-set eyes, expressionless
-faces, and extreme lethargy. In the 1967 European outbreak, non-itchy
-rash was a feature noted in most patients between 2 and 7 days after
-onset of symptoms.
-
-Many patients develop severe haemorrhagic manifestations between 5 and 7
-days, and fatal cases usually have some form of bleeding, often from
-multiple areas. Fresh blood in vomitus and faeces is often accompanied
-by bleeding from the nose, gums, and vagina. Spontaneous bleeding at
-venepuncture sites (where intravenous access is obtained to give fluids
-or obtain blood samples) can be particularly troublesome. During the
-severe phase of illness, patients have sustained high fevers.
-Involvement of the central nervous system can result in confusion,
-irritability, and aggression. Orchitis (inflammation of one or both
-testicles) has been reported occasionally in the late phase of disease
-(15 days).
-
-In fatal cases, death occurs most often between 8 and 9 days after
-symptom onset, usually preceded by severe blood loss and shock.
-
-
-      Persistent virus in people recovering from Marburg virus disease
-
-Marburg virus is known to persist in immune-privileged sites in some
-people who have recovered from Marburg virus disease. These sites
-include the testicles and the inside of the eye.
-
-  * In women who have been infected while pregnant, the virus persists
-    in the placenta, amniotic fluid and fetus.
-  * In women who have been infected while breastfeeding, the virus may
-    persist in breast milk.
-
-Relapse-symptomatic illness in the absence of re-infection in someone
-who has recovered from MVD is a rare event, but has been documented.
-Reasons for this phenomenon are not yet fully understood.
-
-
-      Diagnosis
-
-It can be difficult to clinically distinguish MVD from other infectious
-diseases such as malaria, typhoid fever, shigellosis, meningitis and
-other viral haemorrhagic fevers. Confirmation that symptoms are caused
-by Marburg virus infection are made using the following diagnostic methods:
-
-  * antibody-capture enzyme-linked immunosorbent assay (ELISA)
-  * antigen-capture detection tests
-  * serum neutralization test
-  * reverse transcriptase polymerase chain reaction (RT-PCR) assay
-  * electron microscopy
-  * virus isolation by cell culture.
-
-Samples collected from patients are an extreme biohazard risk;
-laboratory testing on non-inactivated samples should be conducted under
-maximum biological containment conditions. All biological specimens
-should be packaged using the triple packaging system when transported
-nationally and internationally.
-
-
-      Treatment and vaccines
-
-Supportive care – rehydration with oral or intravenous fluids – and
-treatment of specific symptoms, improves survival. There is as yet no
-proven treatment available for MVD. However, a range of potential
-treatments including blood products, immune therapies and drug therapies
-are currently being evaluated.
-
-
-      Marburg virus in animals
-
-/Rousettus aegyptiacus/ bats are considered natural hosts for Marburg
-virus. There is no apparent disease in the fruit bats. As a result, the
-geographic distribution of Marburg virus may overlap with the range of
-Rousettus bats.
-
-African green monkeys (/Cercopithecus aethiops/) imported from Uganda
-were the source of infection for humans during the first Marburg outbreak.
-
-Experimental inoculations in pigs with different Ebola viruses have been
-reported and show that pigs are susceptible to filovirus infection and
-shed the virus. Therefore pigs should be considered as a potential
-amplifier host during MHF outbreaks. Although no other domestic animals
-have yet been confirmed as having an association with filovirus
-outbreaks, as a precautionary measure they should be considered as
-potential amplifier hosts until proven otherwise.
-
-Precautionary measures are needed in pig farms in Africa to avoid pigs
-becoming infected through contact with fruit bats. Such infection could
-potentially amplify the virus and cause or contribute to MHF outbreaks.
-
-
-      Prevention and control
-
-Good outbreak control relies on applying a package of interventions,
-namely case management, surveillance and contact tracing, a good
-laboratory service, safe and dignified burials, and social mobilization.
-Community engagement is key to successfully controlling outbreaks.
-Raising awareness of risk factors for Marburg infection and protective
-measures that individuals can take is an effective way to reduce human
-transmission.
-
-Risk reduction messaging should focus on several factors:
-
-  * *Reducing the risk of bat-to-human transmission* arising from
-    prolonged exposure to mines or caves inhabited by fruit bat
-    colonies. During work or research activities or tourist visits in
-    mines or caves inhabited by fruit bat colonies, people should wear
-    gloves and other appropriate protective clothing (including masks).
-    During outbreaks all animal products (blood and meat) should be
-    thoroughly cooked before consumption.
-  * *Reducing the risk of human-to-human transmission in the community*
-    arising from direct or close contact with infected patients,
-    particularly with their body fluids. Close physical contact with
-    Marburg patients should be avoided. Gloves and appropriate personal
-    protective equipment should be worn when taking care of ill patients
-    at home. Regular hand washing should be performed after visiting
-    sick relatives in hospital, as well as after taking care of ill
-    patients at home.
-  * *Communities affected by Marburg* should make efforts to ensure that
-    the population is well informed, both about the nature of the
-    disease itself and about necessary outbreak containment measures.
-  * *Outbreak containment measures* include prompt and safe burial of
-    the dead, identifying people who may have been in contact with
-    someone infected with Marburg and monitoring their health for 21
-    days, separating the healthy from the sick to prevent further
-    spread, and maintaining good hygiene and a clean environment need to
-    be observed.
-  * *Reducing the risk of possible sexual transmission.* Based on
-    further analysis of ongoing research, WHO recommends that male
-    survivors of Marburg virus disease practice safe sex and hygiene for
-    12 months from onset of symptoms or until their semen twice tests
-    negative for Marburg virus. Contact with body fluids should be
-    avoided and washing with soap and water is recommended. WHO does not
-    recommend isolation of male or female convalescent patients whose
-    blood has been tested negative for Marburg virus.
-
-
-      Controlling infection in healthcare settings
-
-Healthcare workers should always take standard precautions when caring
-for patients, regardless of their presumed diagnosis. These include
-basic hand hygiene, respiratory hygiene, use of personal protective
-equipment (to block splashes or other contact with infected materials),
-safe injection practices and safe and dignified burial practices.
-
-Healthcare workers caring for patients with suspected or confirmed
-Marburg virus should apply extra infection control measures to prevent
-contact with the patient’s blood and body fluids and contaminated
-surfaces or materials such as clothing and bedding. When in close
-contact (within 1 metre) of patients with MVD, health-care workers
-should wear face protection (a face shield or a medical mask and
-goggles), a clean, non-sterile long-sleeved gown, and gloves (sterile
-gloves for some procedures).
-
-Laboratory workers are also at risk. Samples taken from humans and
-animals for investigation of Marburg infection should be handled by
-trained staff and processed in suitably equipped laboratories.
-
-
-      WHO response
-
-WHO aims to prevent Marburg outbreaks by maintaining surveillance for
-Marburg virus disease and supporting at-risk countries to develop
-preparedness plans. The following document provides overall guidance for
-control of Ebola and Marburg virus outbreaks:
-
-  * Ebola and Marburg virus disease epidemics: preparedness, alert,
-    control, and evaluation
-    <http://www.who.int/csr/resources/publications/ebola/manual_EVD/en/>
-
-When an outbreak is detected WHO responds by supporting surveillance,
-community engagement, case management, laboratory services, contact
-tracing, infection control, logistical support and training and
-assistance with safe burial practices.
-
-WHO has developed detailed advice on Marburg infection prevention and
-control:
-
-  * Infection prevention and control guidance for care of patients with
-    suspected or confirmed Filovirus haemorrhagic fever in health-care
-    settings, with focus on Ebola
-    <http://www.who.int/csr/resources/publications/ebola/filovirus_infection_control/en/>
-
-
-      Table: Chronology of major Marburg virus disease outbreaks
-
-
-Year 	Country 	Cases 	Deaths 	Case fatality Rate
-2014 	Uganda 	1 	1 	100%
-2012 	Uganda 	15 	4 	27%
-2008 	Netherland (ex-Uganda) 	1 	1 	100%
-2008 	United States of America (ex-Uganda) 	1 	0 	0%
-2007 	Uganda 	4 	2 	50%
-2005 	Angola 	374 	329 	88%
-1998 to 2000 	Democratic Republic of the Congo 	154 	128 	83%
-1987 	Kenya 	1 	1 	100%
-1980 	Kenya 	2 	1 	50%
-1975 	South Africa 	3 	1 	33%
-1967 	Yugoslavia 	2 	0 	0%
-1967 	Germany 	29 	7 	24%
-
-AddThis Sharing Buttons
-Share to PrintPrintShare to EmailEmailShare to FacebookFacebookShare to
-TwitterTwitterShare to Google+Google+Share to MoreAddthis
-
-
-      For more information contact:
-
-WHO Media centre
-E-mail: mediainquiries@who.int <mailto:mediainquiries@who.int>
-
-
-      Download the fact sheet for offline use
-
-  * Download
-    pdf, 483kb
-    <http://www.who.int/entity/csr/disease/marburg/Marburg-fact-sheet-EN-20-Oct-2017.pdf?ua=1>
-
-
-
-      Related links
-
-  * Marburg virus disease
-    <http://www.who.int/entity/csr/disease/marburg/en/index.html>
-  * Archive of marburg haemorrhagic fever outbreaks
-    <http://www.who.int/entity/csr/don/archive/disease/marburg_virus_disease/en/index.html>
-
-  * All technical guidance on Marburg
-    <http://www.who.int/entity/csr/disease/marburg/technical-guidance/en/index.html>
-
-  * Haemorrhagic fevers, Viral
-    <http://www.who.int/topics/haemorrhagic_fevers_viral/en/index.html>
-  * Ebola haemorrhagic fever
-    <http://www.who.int/entity/csr/disease/ebola/page/en/index.html>
-  * Interim infection control for suspected/confirmed Filovirus (Ebola,
-    Marburg) Haemorrhagic Fever
-    <http://www.who.int/entity/csr/resources/publications/ebola/filovirus_infection_control/en/index.html>
-
-  * More about standard precautions in health care
-    <http://www.who.int/entity/csr/resources/publications/standardprecautions/en/index.html>
-
-
-
-    You are here:
-
-  * Media centre <http://www.who.int/entity/mediacentre/en/>
-  * Fact sheets <http://www.who.int/entity/mediacentre/factsheets/en/>
-
-
-    Quick Links
-
-
-      Sitemap
-
-  * Home <http://www.who.int/en/index.html>
-  * Health topics <http://www.who.int/topics/en/index.html>
-  * Data <http://www.who.int/entity/gho/en/index.html>
-  * Media centre <http://www.who.int/entity/mediacentre/en/index.html>
-  * Publications <http://www.who.int/publications/en/index.html>
-  * Countries <http://www.who.int/countries/en/index.html>
-  * Programmes and projects <http://www.who.int/entity/en/index.html>
-  * Governance <http://www.who.int/governance/en/index.html>
-  * About WHO <http://www.who.int/about/en/index.html>
-
-
-      Help and Services
-
-  * Contacts <http://www.who.int/about/contacthq/en/index.html>
-  * FAQs <http://www.who.int/suggestions/faq/en/index.html>
-  * Employment <http://www.who.int/entity/employment/en/index.html>
-  * Feedback <http://www.who.int/suggestions/en/index.html>
-  * Privacy <http://www.who.int/about/privacy/en/index.html>
-  * E-mail scams <http://www.who.int/about/scamalert/en/index.html>
-
-
-      WHO Regional Offices
-
-  * WHO African Region <http://www.afro.who.int/>
-  * WHO Region of the Americas <http://www.paho.org/>
-  * WHO South-East Asia Region <http://www.searo.who.int/>
-  * WHO European Region <http://www.euro.who.int/>
-  * WHO Eastern Mediterranean Region <http://www.emro.who.int/>
-  * WHO Western Pacific Region <http://www.wpro.who.int/>
-
-RSSFollow on RSS
-
-<http://www.who.int/about/licensing/rss/en/index.html>YouTubeFollow on
-YouTube
-
-<http://www.youtube.com/user/who?sub_confirmation=1>TwitterFollow on Twitter
-
-<http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=who>FacebookFollow
-on Facebook
-
-<http://www.facebook.com/WHO>Google+Follow on Google Follow
-
-<https://plus.google.com/+who/posts>InstagramFollow on Instagram
-
-<http://instagram.com/who>
-
-<https://play.google.com/store/apps/details?id=uk.co.adappt.whoapp&hl=en>
-
-<https://itunes.apple.com/gb/app/who-info/id895463794?mt=8>
-
-© WHO 2017 <http://www.who.int/about/copyright/en/>
-
-Back to top <#>
-Email Address
-
-Sign up for WHO updates
-
-<#>
-
-loading
+  * Food <http://www.cnn.com/specials/living/eatocracy>
+  * Relationships <http://www.cnn.com/specials/living/relationships>
+  * Religion <http://www.cnn.com/specials/belief>
+
+Video
+
+<http://www.cnn.com/videos>
+
+  * Live TV *•* <http://cnn.it/go2>
+  * Digital Studios <http://www.cnn.com/specials/digital-studios>
+  * CNN Films <http://www.cnn.com/specials/videos/digital-shorts>
+  * HLN <http://www.cnn.com/specials/videos/hln>
+  * TV Schedule <http://www.cnn.com/tv/schedule/cnn>
+  * TV Shows A-Z <http://www.cnn.com/specials/tv/all-shows>
+  * CNNVR <http://www.cnn.com/vr>
+
+<http://www.cnn.com/vr>
+
+  * How To Watch VR <http://www.cnn.com/2017/03/04/vr/how-to-watch-vr>
+  * Archives <http://www.cnn.com/specials/vr/vr-archives>
+
+More…
+
+<http://www.cnn.com/more>
+
+  * Photos <http://www.cnn.com/specials/photos>
+  * Longform <http://www.cnn.com/specials/cnn-longform>
+  * Investigations <http://www.cnn.com/specials/cnn-investigations>
+  * CNN profiles <http://www.cnn.com/specials/profiles>
+  * CNN Leadership <http://www.cnn.com/specials/more/cnn-leadership>
+  * CNN Newsletters <http://www.cnn.com/email/subscription>
+  * Work for CNN
+    <https://www.turnerjobs.com/search-jobs?orgIds=1174&ac=19299>
+
+U.S.
+International
+Español
+Arabic
+
+Set edition preference:
+
+U.S.
+
+International
+
+Confirm
+
+Facebook <https://www.facebook.com/cnn>Twitter
+<https://twitter.com/cnn>Instagram <https://instagram.com/cnn>
+<http://www.cnn.com/specials/health/vital-signs>
+
+	
+	
+Facebook
+	
+
+	
+	
+Twitter
+	
+
+	
+	
+Share
+	
+
+
+  Deadly Marburg virus outbreak declared in Uganda
+
+By Susan Scutti and Samson Ntale, CNN
+
+Updated 11:42 AM ET, Thu November 2, 2017
+
+	
+	
+Facebook
+	
+
+	
+	
+Twitter
+	
+
+	
+	
+Share
+	
+
+The cave is inhabited by thousands of bats, any of which could be
+carrying deadly diseases such as Ebola, Marburg or rabies.
+Photos: Virus hunters search for the next deadly disease outbreak
+The cave is inhabited by thousands of bats, any of which could be
+carrying deadly diseases such as Ebola, Marburg or rabies.
+Hide Caption
+3 of 5
+Screenign bats
+Photos: Virus hunters search for the next deadly disease outbreak
+Hide Caption
+4 of 5
+There are 1,240 species of bats worldwide, which may explain why many
+viruses can be found inside them.
+Photos: Virus hunters search for the next deadly disease outbreak
+There are 1,240 species of bats worldwide, which may explain why many
+viruses can be found inside them.
+Hide Caption
+5 of 5
+Two researchers carefully descend into Grootboom cave, located just
+miles away from the densely populated city of Johannesburg in South Africa.
+Photos: Virus hunters search for the next deadly disease outbreak
+Two researchers carefully descend into Grootboom cave, located just
+miles away from the densely populated city of Johannesburg in South Africa.
+Hide Caption
+1 of 5
+The researchers from the University of Pretoria and the Centers for
+Disease Control and Prevention (CDC) are tracking animals all around the
+world to create an early-warning system for diseases that could affect
+humans. Here, they hunt for bats inside Grootboom cave.
+Photos: Virus hunters search for the next deadly disease outbreak
+The researchers from the University of Pretoria and the Centers for
+Disease Control and Prevention (CDC) are tracking animals all around the
+world to create an early-warning system for diseases that could affect
+humans. Here, they hunt for bats inside Grootboom cave.
+Hide Caption
+2 of 5
+The cave is inhabited by thousands of bats, any of which could be
+carrying deadly diseases such as Ebola, Marburg or rabies.
+Photos: Virus hunters search for the next deadly disease outbreak
+The cave is inhabited by thousands of bats, any of which could be
+carrying deadly diseases such as Ebola, Marburg or rabies.
+Hide Caption
+3 of 5
+Screenign bats
+Photos: Virus hunters search for the next deadly disease outbreak
+Hide Caption
+4 of 5
+There are 1,240 species of bats worldwide, which may explain why many
+viruses can be found inside them.
+Photos: Virus hunters search for the next deadly disease outbreak
+There are 1,240 species of bats worldwide, which may explain why many
+viruses can be found inside them.
+Hide Caption
+5 of 5
+Two researchers carefully descend into Grootboom cave, located just
+miles away from the densely populated city of Johannesburg in South Africa.
+Photos: Virus hunters search for the next deadly disease outbreak
+Two researchers carefully descend into Grootboom cave, located just
+miles away from the densely populated city of Johannesburg in South Africa.
+Hide Caption
+1 of 5
+The researchers from the University of Pretoria and the Centers for
+Disease Control and Prevention (CDC) are tracking animals all around the
+world to create an early-warning system for diseases that could affect
+humans. Here, they hunt for bats inside Grootboom cave.
+Photos: Virus hunters search for the next deadly disease outbreak
+The researchers from the University of Pretoria and the Centers for
+Disease Control and Prevention (CDC) are tracking animals all around the
+world to create an early-warning system for diseases that could affect
+humans. Here, they hunt for bats inside Grootboom cave.
+Hide Caption
+2 of 5
+The cave is inhabited by thousands of bats, any of which could be
+carrying deadly diseases such as Ebola, Marburg or rabies.
+Photos: Virus hunters search for the next deadly disease outbreak
+The cave is inhabited by thousands of bats, any of which could be
+carrying deadly diseases such as Ebola, Marburg or rabies.
+Hide Caption
+3 of 5
+bat cave researchers 2
+Virus hunters in Grootroom cave
+bat cave researchers
+Screenign bats
+bat close up
+
+
+Story highlights
+
+  * Marburg virus disease, related to Ebola, causes severe hemorrhagic
+    fever
+  * Hundreds may have been exposed to the virus, the WHO says
+
+(CNN)An outbreak of contagious and deadly Marburg virus disease in the
+Kween district of eastern Uganda was declared by the nation's Ministry
+of Health <http://health.go.ug/press-release> on October 19.
+
+Marburg virus disease, which causes severe viral hemorrhagic fever,
+ranks among the most virulent pathogens
+<http://www.who.int/csr/disease/marburg/en/> known to infect humans,
+according to the World Health Organization.
+As of Saturday, two confirmed cases, one probable case and two suspected
+cases have been reported in the Kween district, on the border with
+Kenya, Tarik Jašarević, a spokesman for the WHO, wrote in an email. The
+confirmed and probable cases -- two brothers and a sister -- have died.
+
+The first case detected by the Ministry of Health was a 50-year-old
+woman who died at a health center of fever, bleeding, vomiting and
+diarrhea on October 11. One of the woman's brothers died of similar
+symptoms three weeks earlier and was buried in a traditional ceremony. A
+game hunter, the man lived near a cave inhabited by Rousettus bats,
+which are natural hosts of the Marburg virus.
+Laboratory tests at the Uganda Virus Research Institute in Entebbe
+confirmed that Marburg was the cause of both deaths.
+Read More
+The WHO, which is working with Ugandan health authorities to contain the
+outbreak, has followed up with 135 contacts of the patients, Jašarević
+said. Some positive news has come of these investigations: Blood tests
+showed no infection in two health care workers who had previously been
+classified as suspected cases.
+Still, several hundred people may have been exposed to the virus at
+health facilities and at traditional burial ceremonies in the Kween
+district, according to the WHO.
+Virus hunters search for the next deadly disease outbreak
+<http://www.cnn.com/2016/08/23/health/virus-hunters-bat-cave-south-africa/index.html>
+Virus hunters search for the next deadly disease outbreak
+<http://www.cnn.com/2016/08/23/health/virus-hunters-bat-cave-south-africa/index.html>
+"Marburg is a virus that is in the same family as Ebola, and it
+basically has very similar characteristics," said Dr. Amesh Adalja, a
+spokesman for the Infectious Disease Society of America. "So it spreads
+in blood and body fluids and thrives in areas in which people are not
+able to do effective infection control and take care of patients with
+appropriate personal protection equipment."
+Although direct contact with the blood, secretions or other bodily
+fluids from infected people spreads the disease, touching contaminated
+surfaces and materials (such as clothing or bedding) may also spread the
+virus.
+
+
+Symptoms and mortality rate
+
+Once transmitted, the virus incubates for two to 21 days. High fever,
+severe headache and extreme lethargy are the most prominent symptoms,
+which may also include muscle aches, diarrhea, abdominal cramping,
+nausea and vomiting. Hemorrhaging begins between five and seven days
+after the fever starts. Fatal cases usually have some form of bleeding,
+often from multiple areas.
+Patients appear "ghost-like," with drawn features, deep-set eyes and
+expressionless faces, according to the WHO.
+On average, the mortality rate is about 50% for this hemorrhagic fever,
+which was first detected in 1967 during simultaneous outbreaks in
+Marburg and Frankfurt, Germany, and in Belgrade, Serbia. During previous
+outbreaks, though, fatality rates have varied from 24% to 88% depending
+on the viral strain and how well health authorities managed the disease,
+according to the WHO.
+Currently, there are no treatments for Marburg virus disease.
+"The medical interventions are largely going to be supportive care --
+very similar to Ebola," said Adalja, a board-certified infectious
+disease physician. Fever control will be most important, he added, and
+patients may be treated with intravenous fluids and, in more advanced
+health care settings, electrolyte replacement.
+"Those types of interventions were found to be very beneficial during
+Ebola," Adalja said. Some of the experimental drugs that were tried
+during the Ebola outbreak in Western Africa three years ago may have
+some effect on this virus, he said, so "on the ground, you may see some
+of the experimental antiviral therapies being used."
+Vaccines are in development for both Marburg and Ebola, with most
+attention given to Ebola, though some vaccines may be beneficial in
+protecting against Marburg and the same family of viruses, Adalja said.
+Beyond these medical obstacles, the WHO reported that it faces
+challenges in the form of misinformation, superstition and suspicion
+among residents in the areas at risk.
+
+
+'Double-edged' situation
+
+Kween district
+<http://www.ubos.org/onlinefiles/uploads/ubos/2014CensusProfiles/KWEEN.pdf>,
+a mountainous area 300 kilometers (about 186 miles) northeast of
+Kampala, boasts a total population of 93,667 people, according to the
+Uganda Bureau of Statistics. About a third of the population is
+illiterate, and just 4% of households have access to electricity. Over
+90% of households grow crops, while more than 80% breed livestock.
+Subsistence farming is the main source of livelihood for 84% of the
+households.
+Are we ready for the next global epidemic?
+<http://www.cnn.com/2015/02/13/health/are-we-ready-for-global-outbreak/index.html>
+Are we ready for the next global epidemic?
+<http://www.cnn.com/2015/02/13/health/are-we-ready-for-global-outbreak/index.html>
+Many people in this rural district believe witchcraft
+<http://www.afro.who.int/news/rumours-misinformation-and-negative-beliefs-underpin-current-marburg-outbreak-uganda>
+is responsible for the deaths that have occurred in their community,
+according to the WHO. The community members also do not hold health
+systems and workers in high regard, with many suspecting that health
+workers are deliberately killing some people to save others from the
+mysterious disease.
+"Convincing people to go to hospital is proving a daunting task for
+community engagement responders," a WHO news bulletin
+<http://www.afro.who.int/news/rumours-misinformation-and-negative-beliefs-underpin-current-marburg-outbreak-uganda>
+says.
+Jašarević noted, for example, one of the confirmed cases who traveled
+into Kenya "in search of traditional healers."
+The man, a Ugandan national, crossed into Kenya at the village of Bwayi.
+There, medical personnel suspected that he might be suffering from the
+hemorrhagic fever and placed him in quarantine in Trans-Nzoia County in
+western Kenya as of Tuesday, health authorities confirmed. His samples
+were taken to the Kenya Medical Research Institute for testing.
+The villagers of Kween also search caves for bat droppings, which are
+considered good manure for their crops.
+Direct transmission from bats to humans is possible, yet the virus can
+also "spill between bats and non-human primates, such as monkeys,
+chimpanzees and gorillas, and from there it may be going into humans,"
+Adalja said.
+A few cases from animal exposure can get amplified by human transmission
+and other factors, such as "non-ideal infection control procedures in
+health care facilities," he added. "We know that burial practices, just
+as we saw with Ebola, can foster the spread of this virus as well."
+Burial practices, which include washing the deceased in preparation for
+funerals, facilitate contact with bodily fluids.
+The outbreak, though cause for concern, is far from hopeless.
+Follow CNN Health on Facebook and Twitter
+
+See the latest news and share your comments with CNN Health onFacebook
+<https://www.facebook.com/CNNHealth> and Twitter
+<https://twitter.com/cnnhealth>.
+
+"Although Marburg is a scary, deadly disease, it's not very contagious,"
+Adalja said. If people are provided with protective equipment and they
+change their burial practices, the outbreak can be contained and
+extinguished.
+"You have to remember that Uganda has dealt with Ebola and Marburg
+outbreaks for several decades. They are usually very adept at dealing
+with these," Adalja said. "It's not completely foreign the way Ebola was
+in West Africa."
+For the current outbreak, prevention and containment activities are
+underway as health authorities continue to investigate family and
+community contacts.
+"Public health authorities are reaching out to people and giving them
+actionable public health messages that they understand and can be
+followed," Adalja said.
+The situation in Uganda is "double-edged," he said. "The fact that this
+outbreak is occurring in a rural area may make it harder to get
+resources there, but it also makes it harder for the virus to spread."
+
+CNN's Meera Senthilingam contributed to this report.
+
+  *
+
+  *
+     
+    Paid Content
+      o
+        [Gallery] Charlize Theron's Brave Confession On Sean Penn Leaves
+        Fans Stunned [Gallery] Charlize Theron's Brave Confession On
+        Sean Penn Leaves Fans Stunned Pens & Patron
+        <http://lfcgxveme5.pensandpatron.com/lifestyle/sean-penn/?utm_campaign=Sean%20Penn%20-%20Desktop%20USA%20OB&utm_source=OutBrain&utm_medium=$origsrcname$&utm_content=008e9bd654e79572a1bf4cbb26392f7ab0&utm_term=%5BGallery%5D+Charlize+Theron%27s+Brave+Confession+On+Sean+Penn+Leaves+Fans+>
+
+      o
+        The Motiv Ring Is A Fitness Tracker You'll Want To Keep On The
+        Motiv Ring Is A Fitness Tracker You'll Want To Keep On Business
+        Insider
+        <http://sp1.convertro.com/trax2/mymotiv/1/trax/short/?redirect_to=http%3A%2F%2Fwww.businessinsider.com%2Fmotiv-ring-activity-tracker-review-photos-2017-9%2F%23all-the-fitness-information-you-need-and-none-that-you-dont-3&cvosrc=ppc+content.outbrain.OB_Prospecting_Desktop_Earned_BIReview>
+
+      o
+        The Flattering $68 Jeans With a Cult Following in Hollywood The
+        Flattering $68 Jeans With a Cult Following in Hollywood
+        WhoWhatWear
+        <https://www.everlane.com/redirect/outbrain?utm_source=outbrain&utm_medium=article&utm_campaign=www-celebs-denim_retail&utm_content=$section_name$&utm_term=00049afd4d3e714d4fabc85ba4f167b5b3&redirect_to=http://www.whowhatwear.com/emma-roberts-affordable-everlane-skinny-jeans>
+
+      o
+        10 Great Holiday Gift Ideas for People With Diabetes 10 Great
+        Holiday Gift Ideas for People With Diabetes Health Central
+        <https://www.healthcentral.com/slideshow/great-gift-ideas-for-people-with-diabetes?ap=825&$section_id$>
+
+      o
+        What Everyone Over 50 Needs to Know About Alzheimer's What
+        Everyone Over 50 Needs to Know About Alzheimer's AARP
+        <https://www.aarp.org/health/conditions-treatments/info-2017/alzheimers-rates-rise-fd.html?cmp=SL-DSO-OUTBRAIN-DESKTAB-HEALTH-HEALTH-MIXED-CPC-PREMIUM_Alzheimer%E2%80%99s+Is+Accelerating+Across+the+U.S._000d984b90deede8e17454e19876a1717e_$section_name$>
+
+      o
+        10 Makeup Routines All Older Women Should Know 10 Makeup
+        Routines All Older Women Should Know Variety Moms
+        <http://www.varietymoms.com/makeup-beauty-tips-women-oda/?utm_source=outbrain&utm_medium=referral&utm_term=$publisher_name$&utm_content=$section_name$&utm_campaign=beauty-desktop-t1>
+
+    Recommended by<http://www.outbrain.com/what-is/default/en>
+
+  *
+     
+    Paid Content
+      o [Gallery] Boy Missing For 4 Years Found Hidden Inside Wall…
+        Scribol
+        <http://scribol.com/a/anthropology-and-history/4-years-after-boy-missing-clues-police-hidden-prison/?utm_source=Outbrain&utm_medium=CPC&utm_content=$origsrcname$&utm_campaign=38631_scribol_4_years_after_a_boy_went_missi_US_Desktop_APN&utm_term=503483>
+
+      o New Rule Could Send Bitcoin Soaring By Dec 31 The Crux
+        <http://thecrux.com/dyncontent/new-rule-could-send-bitcoin-soaring-by-dec-31/?cid=MKT342108&eid=MKT343149>
+
+      o How Multiple Myeloma Is Diagnosed, and What Happens Next WebMD
+        <http://www.webmd.com/cancer/lymphoma/ss/slideshow-multiple-myeloma-tests-treatment?ecd=wgt_outbrain_nosp_3645_ss_1367>
+
+      o If You Have Any Of These 20 Toys Around, You Just Became Rich
+        Definition
+        <http://def.sptrkr.com/dd8d0bcb?utm_source=Outbrain&utm_medium=$publisher_name$&utm_campaign=DEF_US_D_Outbrain_41138_&utm_content=00ecfd5c28747682ab08cd6c7a27f363f7&utm_term=$section_id$_$section_name$>
+
+    More from CNN
+      o Maternal gatekeeping: Why moms don't let dads help
+        <http://www.cnn.com/2017/12/06/health/maternal-gatekeeping-strauss/?iid=ob_article_footer_expansion>
+
+      o Georges St-Pierre out Indefinitely After Being Diagnosed with…
+        <http://bleacherreport.com/articles/2747219?iid=ob_article_footer_expansion>
+
+      o Sarah Sanders Backtracks 'No Decision' Comments on If USA Will…
+        <http://bleacherreport.com/articles/2748163-sarah-huckabee-sanders-no-decision-on-if-usa-athletes-will-attend-olympics?iid=ob_article_footer_expansion>
+
+      o Tom Brady Says Eli Manning Benching Is 'Pretty Unfortunate…
+        <http://bleacherreport.com/articles/2747024?iid=ob_article_footer_expansion>
+
+    Recommended by<http://www.outbrain.com/what-is/default/en>
+
+  *
+
+  *
+     
+      o
+        In praise of Britain's rebel architecture In praise of Britain's
+        rebel architecture
+        <http://www.cnn.com/style/article/british-postmodern-architecture/?iid=ob_lockedrail_bottomlarge>
+
+    <http://www.outbrain.com/what-is/default/en>
+
+  *
+     
+      o
+        How a Quaker sect shaped homes around the world How a Quaker
+        sect shaped homes around the world
+        <http://www.cnn.com/style/article/design-miami-shaker-movement-furniture/?iid=ob_lockedrail_bottommedium>
+
+    <http://www.outbrain.com/what-is/default/en>
+
+  *
+     
+      o
+        Dylan Farrow: Why does Woody Allen get a pass? Dylan Farrow: Why
+        does Woody Allen get a pass?
+        <http://www.cnn.com/2017/12/08/entertainment/dylan-farrow-woody-allen/?iid=ob_lockedrail_bottomlist>
+
+      o
+        Port Authority attack suspect: What we know about Akayed Ullah
+        Port Authority attack suspect: What we know about Akayed Ullah
+        <http://www.cnn.com/2017/12/11/us/ny-suspect-what-we-know/?iid=ob_lockedrail_bottomlist>
+
+      o
+        Avocados: History of an unlikely but legitimate healthy food
+        craze Avocados: History of an unlikely but legitimate healthy
+        food craze
+        <http://www.cnn.com/2017/12/08/health/avocados-health-benefits-food-as-fuel-explainer/?iid=ob_lockedrail_bottomlist>
+
+    Recommended by<http://www.outbrain.com/what-is/default/en>
+
+  *
+    More from CNN
+    Bodycam video released after jury acquits ex-cop of murder
+    Bodycam video released after jury acquits ex-cop of murder
+    (CNN U.S.)
+    <http://www.cnn.com/2017/12/10/us/arizona-jury-acquits-ex-cop-of-murder/?iid=ob_lockedrail_topeditorial>
+
+    It's not just spraying water: How the pros fight wildfires
+    It's not just spraying water: How the pros fight wildfires
+    (CNN U.S.)
+    <http://www.cnn.com/2017/12/09/us/wildfire-fighting-tactics/?iid=ob_lockedrail_topeditorial>
+
+    Bodycam video released after jury acquits ex-cop of murder
+    Bodycam video released after jury acquits ex-cop of murder
+    (CNN U.S.)
+    It's not just spraying water: How the pros fight wildfires
+    It's not just spraying water: How the pros fight wildfires
+    (CNN U.S.)
+
+  *
+    News & buzz
+    Rapper acts as weatherman on live TV
+    Play Video
+    Rapper acts as weatherman on live TV
+    (Original Videos - VSTAN)
+    <http://www.cnn.com/videos/us/2017/12/09/chance-the-rapper-weatherman-tv-fsc-orig-vstan.wgn?iid=ob_lockedrail_longstory_pool>
+
+    Skies turn orange as fires rage in California
+    Play Video
+    Skies turn orange as fires rage in California
+    (CNN U.S. - Videos)
+    <http://www.cnn.com/videos/us/2017/12/11/wildfires-continue-southern-california-orig-trnd-lab.cnn?iid=ob_lockedrail_longstory_pool>
+
+    Rapper acts as weatherman on live TV
+    Play Video
+    Rapper acts as weatherman on live TV
+    (Original Videos - VSTAN)
+    Skies turn orange as fires rage in California
+    Play Video
+    Skies turn orange as fires rage in California
+    (CNN U.S. - Videos)
+
+  *
+     
+    Paid Content
+      o
+        Meet The New Face Mask Women Everywhere Are Obsessed With Meet
+        The New Face Mask Women Everywhere Are Obsessed With Town &
+        Country Magazine
+        <http://www.townandcountrymag.com/style/beauty-products/a12199303/hanacure-korean-all-in-one-face-mask-review/>
+
+      o
+        After A Couple Rescued This Lost Kitten, Its Fur Started To
+        Change Color After A Couple Rescued This Lost Kitten, Its Fur
+        Started To Change Color Scribol
+        <http://scribol.com/a/environment/animals-environment/couple-rescued-lost-kitten-stunned-when-fur-started-to-change-color/?utm_source=Outbrain&utm_medium=CPC&utm_content=$origsrcname$&utm_campaign=32026_scribol_after_a_couple_rescued_this_lo_US_Desktop_MM&utm_term=279200>
+
+      o
+        15 Foods You Should Eat With Atrial Fibrillation 15 Foods You
+        Should Eat With Atrial Fibrillation Health Central
+        <https://www.healthcentral.com/slideshow/what-eat-atrial-fibrillation?ap=825&$section_id$>
+
+    by <http://www.outbrain.com/what-is/default/en>
+
+  *
+     
+    CNN recommends
+      o
+        Ryan Shazier Undergoes Spinal Surgery; Reportedly May Not Play
+        Football Again Ryan Shazier Undergoes Spinal Surgery;…
+        <http://bleacherreport.com/articles/2748169?iid=ob_article_organicsidebar_expansion>
+
+      o
+        Chris Bosh's Mom Named as Suspect in Texas Drug Trafficking
+        Sting Chris Bosh's Mom Named as Suspect in Texas Drug…
+        <http://bleacherreport.com/articles/2748322-chris-boshs-mom-named-as-suspect-in-texas-drug-trafficking-sting?iid=ob_article_organicsidebar_expansion>
+
+      o
+        5 must-haves to encourage a better night's sleep CNN Underscored
+        5 must-haves to encourage a better night's sleep
+        <http://www.cnn.com/2017/11/01/cnn-underscored/better-sleep-products-shop/index.html?iid=underscored-ob-dec>
+
+      o
+        Gunman opens fire at California hospital Gunman opens fire at
+        California hospital
+        <http://www.cnn.com/2017/12/02/us/bakersfield-california-hospital-shooting/?iid=ob_article_organicsidebar_expansion>
+
+    Recommended by<http://www.outbrain.com/what-is/default/en>
+
+
+        Content by LendingTree
+
+  * <https://www.lendingtree.com/?esourceid=6163146&cchannel=bd&siteid=header-article&csource=cnn>
+
+
+          Refinance rates take a sharp decline
+
+          <http://ck.lendingtree.com/?a=343&c=1229&p=r&s1=article&ctype=articlert&cmethod=form&ccreative=refisharpdecline>
+
+  *
+
+
+          Pay off your house with this insane trick
+
+          <https://ck.lendingtree.com/?a=343&c=1555&p=r&s1=article&ctype=articlert&cmethod=15yrpayoff&ccreative=payoffyourhousewiththisinsanetrick>
+
+  *
+
+
+          2017 Rates as Low as 2.88% (3.04% APR, 15 yr)
+
+          <http://ck.lendingtree.com/?a=343&c=1229&p=r&s1=article&ctype=articlert&cmethod=form&ccreative=2017rate30415yrshort>
+
+  *
+
+
+          Mortgage Payoff Trick Eliminates Up to 15 Years of Payments
+
+          <https://ck.lendingtree.com/?a=343&c=1555&p=r&s1=article&ctype=articlert&cmethod=15yrpayoff&ccreative=payofftrickelim>
+
+  *
+
+
+          Your best refinance rates for December 2017
+
+          <http://ck.lendingtree.com/?a=343&c=1229&p=r&s1=article&ctype=articlert&cmethod=form&ccreative=bestrefidec2017>
+
+
+        Paid Partner Content
+
+  *
+
+
+          Bankrate
+          Mortgage rates take a dive - and banks hate It
+
+          <http://www.bankrate.com/partners/sem/mortgage-groupb.aspx?prods=215,393,216,392,219,221,220&pid=cnn_mtg_rt_right-rail_all>
+
+  *
+
+
+          Trulia
+          Getting ready to sell? Find out what your home is worth now
+
+          <https://www.trulia.com/sell/?cid=bsd%7Ccnn%7Cbsd_forsale_tsa%7Ccnn_webrightrail_a_none&ts=cnn&tscamp=cnn_webrightrail_a_none>
+
+  *
+
+
+          Furthermore
+          The habit that makes you overeat
+
+          <https://furthermore.equinox.com/articles/2017/11/snack?prtcid=CNN-december&utm_source=CNN-december&utm_medium=partnership&utm_campaign=CNN-december>
+
+  *
+
+
+          Departures
+          Best holiday markets around the world
+
+          <https://www.departures.com/travel/best-holiday-markets-around-the-world?utm_source=CNN.com%20&utm_medium=Paid&utm_campaign=LocalFlavor&utm_content=Dec17>
+
+  *
+
+
+          The Motley Fool
+          Stephen Hawking's prediction will give you goosebumps
+
+          <https://www.fool.com/mms/mark/hawking-prediction-advert?utm_source=cnn&utm_medium=contentmarketing&utm_campaign=ai-hawkingprediction&paid=8976&waid=8976&psource=esaccn7410000071&wsource=esaccnwdg0000074>
+
+University Park, PACloudy34° <http://www.cnn.com/weather>
+
+ 1. Home
+
+    <http://www.cnn.com/>
+
+ 1. U.S.
+
+    <http://www.cnn.com/us>
+     1. Crime + Justice <http://www.cnn.com/specials/us/crime-and-justice>
+     2. Energy + Environment
+        <http://www.cnn.com/specials/us/energy-and-environment>
+     3. Extreme Weather <http://www.cnn.com/specials/us/extreme-weather>
+     4. Space + Science <http://www.cnn.com/specials/space-science>
+
+ 1. World
+
+    <http://www.cnn.com/world>
+     1. Africa <http://www.cnn.com/africa>
+     2. Americas <http://www.cnn.com/americas>
+     3. Asia <http://www.cnn.com/asia>
+     4. Europe <http://www.cnn.com/europe>
+     5. Middle East <http://www.cnn.com/middle-east>
+
+ 1.
+
+    <http://www.cnn.com/politics>
+     1. 45 <http://www.cnn.com/specials/politics/president-donald-trump-45>
+     2. Congress
+        <http://www.cnn.com/specials/politics/congress-capitol-hill>
+     3. Security <http://www.cnn.com/specials/politics/us-security>
+     4. The Nine <http://www.cnn.com/specials/politics/supreme-court-nine>
+     5. Trumpmerica <http://www.cnn.com/specials/politics/trumpmerica>
+     6. State
+        <http://www.cnn.com/specials/politics/state-cnn-politics-magazine>
+
+ 1.
+
+    <http://money.cnn.com/>
+     1. Markets <http://money.cnn.com/data/markets/>
+     2. Tech <http://money.cnn.com/technology/>
+     3. Media <http://money.cnn.com/media/>
+     4. Personal Finance <http://money.cnn.com/pf/>
+     5. Luxury <http://money.cnn.com/luxury/>
+
+ 1. Opinion
+
+    <http://www.cnn.com/opinions>
+     1. Political Op-Eds
+        <http://www.cnn.com/specials/opinion/opinion-politics>
+     2. Social Commentary
+        <http://www.cnn.com/specials/opinion/opinion-social-issues>
+     3. iReport <http://www.cnn.com/specials/opinions/cnnireport>
+
+ 1. Health
+
+    <http://www.cnn.com/health>
+     1. Diet + Fitness <http://www.cnn.com/specials/health/diet-fitness>
+     2. Living Well <http://www.cnn.com/specials/health/living-well>
+     3. Parenting + Family <http://www.cnn.com/specials/living/cnn-parents>
+
+ 1.
+
+    <http://www.cnn.com/entertainment>
+     1. Stars <http://www.cnn.com/entertainment/celebrities>
+     2. Screen <http://www.cnn.com/entertainment/movies>
+     3. Binge <http://www.cnn.com/entertainment/tv-shows>
+     4. Culture <http://www.cnn.com/entertainment/culture>
+     5. Media <http://money.cnn.com/media>
+
+ 1.
+
+    <http://money.cnn.com/technology>
+     1. Business <http://money.cnn.com/technology/business>
+     2. Culture <http://money.cnn.com/technology/culture>
+     3. Gadgets <http://money.cnn.com/technology/gadgets>
+     4. Future <http://money.cnn.com/technology/future>
+     5. Startups <http://money.cnn.com/technology/startups>
+
+ 1.
+
+    <http://www.cnn.com/style>
+     1. Arts <http://www.cnn.com/style/arts>
+     2. Design <http://www.cnn.com/style/design>
+     3. Fashion <http://www.cnn.com/style/fashion>
+     4. Architecture <http://www.cnn.com/style/architecture>
+     5. Luxury <http://www.cnn.com/style/luxury>
+     6. Autos <http://www.cnn.com/style/autos>
+     7. Video <http://www.cnn.com/style/videos>
+
+ 1.
+
+    <http://www.cnn.com/travel>
+     1. Destinations <http://www.cnn.com/travel/destinations>
+     2. Food & Drink <http://www.cnn.com/travel/food-and-drink>
+     3. Play <http://www.cnn.com/travel/play>
+     4. Stay <http://www.cnn.com/travel/stay>
+     5. Videos <http://www.cnn.com/travel/videos>
+
+ 1.
+
+    <http://bleacherreport.com/>
+     1. Pro Football <http://bleacherreport.com/nfl>
+     2. College Football <http://bleacherreport.com/college-football>
+     3. Basketball <http://bleacherreport.com/nba>
+     4. Baseball <http://bleacherreport.com/mlb>
+     5. Soccer <http://bleacherreport.com/world-football>
+     6. Olympics <http://www.cnn.com/specials/sport/winter-olympics-2018>
+
+ 1. Living
+
+    <http://www.cnn.com/living>
+     1. Food <http://www.cnn.com/specials/living/eatocracy>
+     2. Relationships <http://www.cnn.com/specials/living/relationships>
+     3. Religion <http://www.cnn.com/specials/belief>
+
+ 1. Video
+
+    <http://www.cnn.com/videos>
+     1. Live TV <http://cnn.it/go2>
+     2. Digital Studios <http://www.cnn.com/specials/digital-studios>
+     3. CNN Films <http://www.cnn.com/specials/videos/digital-shorts>
+     4. HLN <http://www.cnn.com/specials/videos/hln>
+     5. TV Schedule <http://www.cnn.com/tv/schedule/cnn>
+     6. TV Shows A-Z <http://www.cnn.com/specials/tv/all-shows>
+     7. CNNVR <http://www.cnn.com/vr>
+
+ 1.
+
+    <http://www.cnn.com/vr>
+     1. How To Watch VR <http://www.cnn.com/2017/03/04/vr/how-to-watch-vr>
+     2. Archives <http://www.cnn.com/specials/vr/vr-archives>
+
+ 1. More…
+
+    <http://www.cnn.com/more>
+     1. Photos <http://www.cnn.com/specials/photos>
+     2. Longform <http://www.cnn.com/specials/cnn-longform>
+     3. Investigations <http://www.cnn.com/specials/cnn-investigations>
+     4. CNN profiles <http://www.cnn.com/specials/profiles>
+     5. CNN Leadership <http://www.cnn.com/specials/more/cnn-leadership>
+     6. CNN Newsletters <http://www.cnn.com/email/subscription>
+     7. Work for CNN
+        <https://www.turnerjobs.com/search-jobs?orgIds=1174&ac=19299>
+
+<http://www.cnn.com/>
+U.S. Edition
+
+  * Set edition preference:
+  *
+    U.S.
+
+  *
+    International
+
+  * Confirm
+  * U.S.
+  * International
+  * Arabic
+  * Español
+
+© 2017 Cable News Network. Turner Broadcasting System, Inc.
+<http://www.turner.com/> All Rights Reserved.
+CNN Sans ™ & © 2016 Cable News Network.
+
+  * Terms of Use <http://www.cnn.com/terms>
+  * Privacy Policy <http://www.cnn.com/privacy>
+  * AdChoices <#>
+  * About us <http://www.cnn.com/about>
+  * CNN Studio Tours <http://www.cnn.com/tour>
+  * CNN Store <http://store.cnn.com/>
+  * Newsletters <http://www.cnn.com/newsletters>
+  * Help <http://www.cnn.com/help>
+  * Transcripts <http://www.cnn.com/transcripts>
+  * License Footage <http://www.cnn.com/collection>
+  * CNN Newsource <http://cnnnewsource.com/>
+
+Chat with us in Facebook Messenger. Find out what's happening in the
+world as it unfolds.
+
+*Akayed Ullah told police he made the device that detonated near Times
+Square, sources tell CNN*
+
+<http://www.cnn.com/2017/12/11/us/ny-suspect-what-we-know/index.html>
 

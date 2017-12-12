@@ -51,7 +51,6 @@ public partial class search_vsm : System.Web.UI.Page
                 Label weightValue = new Label();
                 weightValue.Text = site.Value.ToString();
 
-
                 HyperLink hyperlink = new HyperLink();
                 string linkText = getSiteName(site.Key, conn);
                 linkText = linkText.Remove(0, 1);
@@ -68,7 +67,7 @@ public partial class search_vsm : System.Web.UI.Page
         }
 
     }
-
+    
     static string getSiteName(int siteID, SqlConnection connection)
     {
         string commandText = "SELECT site_name FROM Sites WHERE site_id = @val";
@@ -78,5 +77,4 @@ public partial class search_vsm : System.Web.UI.Page
             return (string)command.ExecuteScalar();
         }
     }
-
 }
