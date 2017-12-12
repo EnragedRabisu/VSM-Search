@@ -8,7 +8,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-public partial class search_vsm : System.Web.UI.Page
+public partial class SearchPage : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
@@ -17,6 +17,7 @@ public partial class search_vsm : System.Web.UI.Page
 
     protected void Button1_Click(object sender, EventArgs e)
     {
+
         //queryDataBase();
         Dictionary<int, double> siteRelavancy = new Dictionary<int, double>();
         siteRelavancy.Add(1, 15.6);
@@ -49,19 +50,63 @@ public partial class search_vsm : System.Web.UI.Page
             foreach (KeyValuePair<int, double> site in sortedLinks)
             {
                 HyperLink hyperlink = new HyperLink();
-                string linkText = getSiteName(site.Key, conn);
-                linkText = linkText.Remove(0, 1);
-                linkText = linkText.Remove(linkText.Length - 1, 1);
-
-                hyperlink.Text = linkText;
-                hyperlink.NavigateUrl = linkText;
-
-                hyperLinkLabel.Controls.Add(hyperlink);
-                hyperLinkLabel.Controls.Add(new LiteralControl("<br>"));
+                hyperlink.Text = getSiteName(site.Key, conn);
+                hyperlink.NavigateUrl = hyperlink.Text;
+                Panel1.Controls.Add(hyperlink);
+                Panel1.Controls.Add(new LiteralControl("<br>"));
             }
             conn.Close();
         }
 
+    }
+
+    // This function will query the database for information on the keywords entered.
+    // This function probably shouldn't be used.
+    protected void queryDataBase()
+    {
+        string connectionString = ConfigurationManager.ConnectionStrings["team_proj_431"].ConnectionString;
+        using (SqlConnection conn = new SqlConnection(connectionString))
+        {
+            TextBox[] text = new TextBox[3];
+            text[0] = TextBox1;
+            text[1] = TextBox2;
+            text[2] = TextBox3;
+
+            DataTable[] tables = new DataTable[3];
+            tables[0] = new DataTable();
+            tables[1] = new DataTable();
+            tables[2] = new DataTable();
+
+            DataTable main = new DataTable();
+            int k = 0;
+
+            conn.Open();
+
+            foreach (TextBox i in text)
+            {
+                string query = "SELECT site_name, Y.word, Y.count FROM Sites S, (SELECT X.word, site_id, count, swc.word_id FROM SiteWordsCount swc, (SELECT word, word_Id FROM Words WHERE word LIKE @word) AS X WHERE X.word_Id = swc.word_id) AS Y WHERE Y.site_id = S.site_id AND Y.count != 0";
+
+                SqlCommand cmd = new SqlCommand(query, conn);
+
+                cmd.Parameters.AddWithValue("@word", i.Text);
+
+                getData(tables[k], cmd);
+
+                main.Merge(tables[k]);
+                k++;
+            }
+
+            //displayDataTable(main);
+            conn.Close();
+        }
+    }
+
+    // Displays data in Gridview1
+    // This function works with queryDataBase.
+    void displayDataTable(DataTable main)
+    {
+        GridView1.DataSource = main;
+        GridView1.DataBind();
     }
 
     static DataTable getData(DataTable t, SqlCommand cmd)
