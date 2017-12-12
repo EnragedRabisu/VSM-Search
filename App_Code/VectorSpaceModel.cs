@@ -14,26 +14,7 @@ using DBProjectWebsite;
 public class VectorSpaceModel
 {
     private static SqlConnection conn;
-    Label l;
-
-    //public static void Main(string[] args)
-    //{
-    //    using (conn = new SqlConnection(ConfigurationManager.ConnectionStrings["team_proj_431"].ConnectionString))
-    //    {
-    //        conn.Open();
-    //        string q = "virus ebola";
-    //
-    //        //DoVSM(q, conn);
-    //        conn.Close();
-    //    }
-    //}
-    //
-    //public VectorSpaceModel()
-    //{
-    //    //
-    //    // TODO: Add constructor logic here
-    //    //
-    //}
+    private static Label l;
 
     public static Dictionary<int, double> DoVSM(string q1, double w1, string q2, double w2, string q3, double w3)
     {
@@ -53,16 +34,16 @@ public class VectorSpaceModel
             // Number of sites and number of queries.
             int sites = GetTotalSites(conn);
             string[] query = new string[3];
-            double[] weights = new double[3];
+            double[] weight = new double[3];
 
             query[0] = q1;
             query[1] = q2;
             query[2] = q3;
 
-            weights[0] = w1;
-            weights[1] = w2;
-            weights[2] = w3;
-          
+            weight[0] = w1;
+            weight[1] = w2;
+            weight[2] = w3;
+
             int queries = query.Length;
 
             // Vectors for Sites, Query, and Dot Product
@@ -89,7 +70,7 @@ public class VectorSpaceModel
                     // Get Word ID for query
                     wordID = GetWordId(query[i], conn);
                     // Add word to query vector
-                    queryVector[i] = weights[i] * GetIDF(wordID, conn);
+                    queryVector[i] = weight[i] * GetIDF(wordID, conn);
                     // Add word to query norm
                     queryNorm += Math.Pow(queryVector[i], 2);
 
@@ -234,19 +215,6 @@ public class VectorSpaceModel
         return result;
     }
 
-    static int GetTotalWords(SqlConnection connection)
-    {
-        string commandText = "SELECT COUNT(*) FROM Words";
-        SqlCommand cmd = new SqlCommand(commandText, connection);
-        int result = 0;
-        if (!Convert.IsDBNull(cmd.ExecuteScalar()))
-        {
-            result = Convert.ToInt32(cmd.ExecuteScalar());
-        }
-
-        return result;
-    }
-
     static int GetSiteTotalWordCount(int siteId, SqlConnection connection)
     {
         string commandText = "SELECT SUM(count) FROM SiteWordsCount WHERE site_id = @site_id";
@@ -274,22 +242,5 @@ public class VectorSpaceModel
         }
 
         return result;
-    }
-
-    static bool DoesWordExist(int siteID, int wordID, SqlConnection connection)
-    {
-        string commandText = "SELECT COUNT(*) FROM SiteWordsCount WHERE site_id = @site AND word_id = @word AND count > 0";
-        SqlCommand cmd = new SqlCommand(commandText, connection);
-        cmd.Parameters.AddWithValue("@site", siteID.ToString());
-        cmd.Parameters.AddWithValue("@word", wordID.ToString());
-        int result = 0;
-        if (!Convert.IsDBNull(cmd.ExecuteScalar()))
-        {
-            result = Convert.ToInt32(cmd.ExecuteScalar());
-        }
-
-        if (result < 1)
-            return false;
-        return true;
     }
 }
