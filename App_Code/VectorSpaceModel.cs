@@ -53,11 +53,16 @@ public class VectorSpaceModel
             // Number of sites and number of queries.
             int sites = GetTotalSites(conn);
             string[] query = new string[3];
+            double[] weights = new double[3];
 
             query[0] = q1;
             query[1] = q2;
             query[2] = q3;
 
+            weights[0] = w1;
+            weights[1] = w2;
+            weights[2] = w3;
+          
             int queries = query.Length;
 
             // Vectors for Sites, Query, and Dot Product
@@ -84,7 +89,7 @@ public class VectorSpaceModel
                     // Get Word ID for query
                     wordID = GetWordId(query[i], conn);
                     // Add word to query vector
-                    queryVector[i] = GetIDF(wordID, conn);
+                    queryVector[i] = weights[i] * GetIDF(wordID, conn);
                     // Add word to query norm
                     queryNorm += Math.Pow(queryVector[i], 2);
 
